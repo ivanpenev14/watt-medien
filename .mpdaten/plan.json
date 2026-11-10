@@ -200,10 +200,52 @@
    ]
   },
   {
+   "id": "video16",
+   "titel": "Video 16 · Stecker gezogen, Lämpchen leuchtet weiter, mit Shorts 16A/16B und Slider",
+   "frist": "bis Mi 2.12. (Video erscheint Fr 4.12. 08:00, Shorts 19:00 und 20:00, Slider 21:00 am selben Tag)",
+   "text": "Alles zu Video 16: das ganze Video (7:18) mit Abspann, Thumbnail, Titel und Beschreibung mit Kapiteln, Instagram-Story, TikTok-Ankündigung, TikTok-Fassung mit Hochformat-Cover, die Shorts 16A und 16B je Plattform und der Slider mit 10 Folien. Ein „Video 16 ok“ im Chat reicht.",
+   "lang": [
+    "video16/teile/video16_teil00.mp4",
+    "video16/teile/video16_teil01.mp4",
+    "video16/teile/video16_teil02.mp4",
+    "video16/teile/video16_teil03.mp4",
+    "video16/teile/video16_teil04.mp4",
+    "video16/teile/video16_teil05.mp4",
+    "video16/teile/video16_teil06.mp4",
+    "video16/teile/video16_teil07.mp4",
+    "video16/teile/video16_teil08.mp4",
+    "video16/teile/video16_teil09.mp4"
+   ],
+   "shorts": [
+    {
+     "name": "Short 16A · Netzteil leuchtet nach",
+     "wann": "Fr 4.12. 19:00",
+     "video": "video16/shorts_neu2/short16-a_netzteil.mp4",
+     "cover": "video16/shorts_neu2/short16-a_netzteil_cover.jpg"
+    },
+    {
+     "name": "Short 16B · Prüfungsfrage Zeitkonstante",
+     "wann": "Fr 4.12. 20:00",
+     "video": "video16/shorts_neu2/short16-b_pruefungsfrage-zeitkonstante.mp4",
+     "cover": "video16/shorts_neu2/short16-b_pruefungsfrage-zeitkonstante_cover.jpg"
+    }
+   ],
+   "bilder": [
+    [
+     "video16/thumbs/v16_b.png",
+     "Thumbnail-Alternative B (eingeplant ist A)"
+    ],
+    [
+     "video16/karussell/vorschau.png",
+     "Slider: alle 10 Folien"
+    ]
+   ]
+  },
+  {
    "id": "video17",
    "titel": "Video 17 · Lampe flackert in Zeitlupe, mit Shorts 17A/17B und Slider",
    "frist": "bis So 6.12. (Video erscheint Di 8.12. 08:00, Shorts 19:00 und 20:00, Slider 21:00 am selben Tag)",
-   "text": "Alles zu Video 17: das ganze Video (7:18) mit Abspann, Thumbnail, Titel und Beschreibung mit Kapiteln, Instagram-Story, TikTok-Ankündigung, TikTok-Fassung mit Hochformat-Cover, die Shorts 17A und 17B je Plattform und der Slider mit 10 Folien. Ein „Video 17 ok“ im Chat reicht.",
+   "text": "Alles zu Video 17: das ganze Video (6:57) mit Abspann, Thumbnail, Titel und Beschreibung mit Kapiteln, Instagram-Story, TikTok-Ankündigung, TikTok-Fassung mit Hochformat-Cover, die Shorts 17A und 17B je Plattform und der Slider mit 10 Folien. Ein „Video 17 ok“ im Chat reicht.",
    "lang": [
     "video17/teile/video17_teil00.mp4",
     "video17/teile/video17_teil01.mp4",
@@ -2882,6 +2924,204 @@
    "datum": "2026-12-08",
    "titel": "Slider zu Video 17 · Wechselstrom",
    "pruefen": "video17"
+  },
+  {
+   "art": "lang",
+   "youtube": [
+    {
+     "zeit": "08:00",
+     "format": "Langvideo",
+     "status": "offen",
+     "bild": "video16/video16_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "video": [
+      "video16/teile/video16_teil00.mp4",
+      "video16/teile/video16_teil01.mp4",
+      "video16/teile/video16_teil02.mp4",
+      "video16/teile/video16_teil03.mp4",
+      "video16/teile/video16_teil04.mp4",
+      "video16/teile/video16_teil05.mp4",
+      "video16/teile/video16_teil06.mp4",
+      "video16/teile/video16_teil07.mp4",
+      "video16/teile/video16_teil08.mp4",
+      "video16/teile/video16_teil09.mp4"
+     ],
+     "notiz": "Titel: Stecker gezogen, Lämpchen leuchtet weiter: Der Kondensator einfach erklärt | Watt?!",
+     "text": "Du ziehst das Netzteil aus der Steckdose, und das kleine Lämpchen dran leuchtet weiter. Zwei, drei Sekunden, dann wird es dunkel.\n\nKein Akku, kein Kabel. Woher kommt der Strom?\n\nIn diesem Video lernst du den Kondensator: ein Bauteil, das Ladung speichert, in jedem Netzteil, Handy und Waschmaschinenmotor.\n\nDu siehst, was Kapazität bedeutet, wie Laden und Entladen mit der Zeitkonstante τ = R · C ablaufen, wie viel Energie in einem Kondensator steckt, und warum du ein Netzteil nie gleich nach dem Ausstecken aufschraubst.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 3 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Stecker gezogen, Lämpchen leuchtet weiter\n0:15 Worum es geht\n0:35 Was ein Kondensator ist, Kapazität, der Luftkessel\n1:40 Laden: Zeitkonstante τ = R · C, nach 5 τ voll\n2:39 Entladen, Energie, Entladen vor Arbeiten\n3:54 Netzteil, Fotoblitz, Anlaufkondensator, Reihe und parallel\n5:00 Prüfungsaufgabe: τ, Entladezeit, Energie\n5:56 Typischer Fehler, Auflösung, Zusammenfassung\n\nMerke: Ein Kondensator speichert Ladung. Die Kapazität C (Farad) sagt, wie viel Ladung bei welcher Spannung hineinpasst.\n\nLaden und Entladen: τ = R · C. Nach 1 τ sind 63 % erreicht, nach 5 τ ist der Kondensator praktisch voll bzw. leer (über 99 %).\n\nEnergie: W = ½ · C · U². Beispiel: 470 µF an 325 V sind fast 25 J, und die bleiben nach dem Ausstecken im Netzteil.\n\nVor jeder Arbeit: ausschalten und sichern, warten (5 τ), mit dem Voltmeter am Kondensator nachmessen, erst dann anfassen. Entladen immer über einen Widerstand, nie mit dem Schraubenzieher.\n\nRechenbeispiel: 2200 µF über 1,2 kΩ entladen: τ = 2,64 s, praktisch leer nach rund 13 s; Energie bei 12 V: 0,16 J.\n\nVorheriges Video: Brückenschaltung\nNächstes Video: Wechselstrom 50 Hz (ab 8.12.)\n\nHinweis: Werte im Video sind typische Beispielwerte. Arbeiten an Netzspannung nur durch Elektrofachkräfte.\n\n#elektrotechnik #kondensator #azubi"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "08:30",
+     "format": "Story „Neues Video online“",
+     "status": "offen",
+     "bild": "video16/story/video16_story_instagram.jpg",
+     "bild_art": "Story",
+     "video": "video16/story/video16_story_instagram.mp4"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "08:30",
+     "format": "Ankündigung als Story",
+     "status": "offen",
+     "video": "video16/story/video16_tiktok_ankuendigung.mp4",
+     "text": "Neues Video: Der Kondensator.\n\nStecker gezogen, und das Lämpchen am Netzteil leuchtet weiter. Woher kommt der Strom?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)"
+    },
+    {
+     "zeit": "18:00",
+     "format": "Ganzes Video",
+     "status": "offen",
+     "bild": "video16/video16_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "video": "video16/video16_tiktok_anfang.mp4",
+     "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
+     "text": "Stecker gezogen, und das Lämpchen am Netzteil leuchtet weiter. Woher kommt der Strom?\n\nIm Netzteil steckt ein Kondensator, der Ladung speichert, und der ist nach dem Ausstecken noch gefährlich.\n\nWas Kapazität bedeutet, wie Laden und Entladen mit τ = R · C ablaufen, und warum du ein Netzteil nie gleich aufschraubst.\n\nMit Prüfungsaufgabe zum Mitrechnen.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #kondensator #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-12-04",
+   "titel": "Video 16 · Kondensator",
+   "pruefen": "video16"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "19:00",
+     "format": "Short",
+     "status": "offen",
+     "bild": "video16/shorts_neu2/short16-a_netzteil_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video16/shorts_neu2/short16-a_netzteil.mp4",
+     "text": "Stecker gezogen, Lämpchen leuchtet weiter: Woher kommt der Strom? #shorts\n\nDu ziehst das Netzteil aus der Steckdose, und das kleine Lämpchen dran leuchtet weiter.\n\nKein Akku, kein Kabel. Irgendwo im Netzteil steckt ein Speicher, und der ist nach dem Ausstecken noch gefährlich. Welcher?\n\nGanze Erklärung: Video \"Kondensator\" auf dem Kanal Watt?!\n\n#elektrotechnik #kondensator #shorts"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "19:00",
+     "format": "Reel",
+     "status": "offen",
+     "bild": "video16/shorts_neu2/short16-a_netzteil_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video16/shorts_neu2/short16-a_netzteil_instagram.mp4",
+     "text": "Stecker gezogen, und das Lämpchen am Netzteil leuchtet weiter. Zwei, drei Sekunden, dann wird es dunkel.\n\nKein Akku, kein Kabel. Irgendwo im Netzteil steckt ein Speicher, und der ist nach dem Ausstecken noch gefährlich.\n\nWeißt du, welcher?\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #kondensator #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "19:00",
+     "format": "Video",
+     "status": "offen",
+     "bild": "video16/shorts_neu2/short16-a_netzteil_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video16/shorts_neu2/short16-a_netzteil_tiktok.mp4",
+     "text": "Stecker gezogen, und das Lämpchen am Netzteil leuchtet weiter. Zwei, drei Sekunden, dann wird es dunkel.\n\nKein Akku, kein Kabel. Irgendwo im Netzteil steckt ein Speicher, und der ist nach dem Ausstecken noch gefährlich.\n\nWeißt du, welcher?\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #kondensator #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-12-04",
+   "titel": "Short 16A · Netzteil leuchtet nach",
+   "pruefen": "video16"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "20:00",
+     "format": "Short",
+     "status": "offen",
+     "bild": "video16/shorts_neu2/short16-b_pruefungsfrage-zeitkonstante_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video16/shorts_neu2/short16-b_pruefungsfrage-zeitkonstante.mp4",
+     "text": "Prüfungsfrage: Wie groß ist die Zeitkonstante τ beim Entladen? #shorts\n\nEin Elko mit 2200 µF wird über 1,2 kΩ entladen.\n\nWie groß ist die Zeitkonstante τ: 0,26 s, 2,6 s oder 26 s?\n\nDie ganze Erklärung: Video \"Kondensator\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "20:00",
+     "format": "Reel",
+     "status": "offen",
+     "bild": "video16/shorts_neu2/short16-b_pruefungsfrage-zeitkonstante_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video16/shorts_neu2/short16-b_pruefungsfrage-zeitkonstante_instagram.mp4",
+     "text": "Prüfungsfrage: Ein Elko mit 2200 µF wird über 1,2 kΩ entladen.\n\nWie groß ist die Zeitkonstante τ: 0,26 s, 2,6 s oder 26 s?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "20:00",
+     "format": "Video",
+     "status": "offen",
+     "bild": "video16/shorts_neu2/short16-b_pruefungsfrage-zeitkonstante_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video16/shorts_neu2/short16-b_pruefungsfrage-zeitkonstante_tiktok.mp4",
+     "text": "Prüfungsfrage: Ein Elko mit 2200 µF wird über 1,2 kΩ entladen.\n\nWie groß ist die Zeitkonstante τ: 0,26 s, 2,6 s oder 26 s?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-12-04",
+   "titel": "Short 16B · Prüfungsfrage Zeitkonstante",
+   "pruefen": "video16"
+  },
+  {
+   "art": "short",
+   "youtube": [],
+   "instagram": [
+    {
+     "zeit": "21:00",
+     "format": "Karussell 10 Folien",
+     "status": "offen",
+     "bild": [
+      "video16/karussell/k01.jpg",
+      "video16/karussell/k02.jpg",
+      "video16/karussell/k03.jpg",
+      "video16/karussell/k04.jpg",
+      "video16/karussell/k05.jpg",
+      "video16/karussell/k06.jpg",
+      "video16/karussell/k07.jpg",
+      "video16/karussell/k08.jpg",
+      "video16/karussell/k09.jpg",
+      "video16/karussell/k10.jpg"
+     ],
+     "bild_art": "Folien",
+     "text": "Stecker gezogen, und das Lämpchen am Netzteil leuchtet weiter. Der Grund ist ein Kondensator.\n\nIn 10 Folien: was Kapazität bedeutet, der Luftkessel am Kompressor, Laden und Entladen mit τ = R · C, die Energie im Kondensator und die vier Schritte vor jeder Arbeit.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #kondensator #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [],
+   "notiz": "Nur auf Instagram.",
+   "datum": "2026-12-04",
+   "titel": "Slider zu Video 16 · Kondensator",
+   "pruefen": "video16"
+  },
+  {
+   "titel": "Video 18 · Induktion",
+   "datum": "2026-12-11",
+   "art": "short",
+   "youtube": [],
+   "instagram": [],
+   "tiktok": []
+  },
+  {
+   "titel": "Short 18A · Kalte Platte",
+   "datum": "2026-12-11",
+   "art": "short",
+   "youtube": [],
+   "instagram": [],
+   "tiktok": []
+  },
+  {
+   "titel": "Short 18B · Prüfungsfrage Induktion",
+   "datum": "2026-12-11",
+   "art": "short",
+   "youtube": [],
+   "instagram": [],
+   "tiktok": []
+  },
+  {
+   "titel": "Slider zu Video 18 · Induktion",
+   "datum": "2026-12-11",
+   "art": "short",
+   "youtube": [],
+   "instagram": [],
+   "tiktok": []
   }
  ],
  "selbst_aendern": []
