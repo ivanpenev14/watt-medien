@@ -1,0 +1,2896 @@
+{
+ "_hinweis": "Quelle für die Mediaplan-Seite. Zeiten/IDs aus kalender.md, Texte und Status aus metricool.json (mc = Metricool-ID). Pfade relativ zu youtube-kanal/, 'pa:' = Datei aus der alten Prüfansicht. Nach jeder Änderung: python3 mediaplan/bau.py, dann veröffentlichen (siehe PROZESS.md).",
+ "stand": "Mi 21.10. 01:30",
+ "pruefen": [
+  {
+   "id": "video11",
+   "titel": "Video 11 · Leistung und Stromrechnung, mit Shorts 11A/11B und Slider",
+   "frist": "bis So 15.11. (Video erscheint Di 17.11. 08:00, Shorts 19:00 und 20:00, Slider 21:00 am selben Tag)",
+   "text": "Alles zu Video 11: das ganze Video (6:36) mit Abspann, Thumbnail, Titel und Beschreibung mit Kapiteln, Instagram-Story, TikTok-Ankündigung, TikTok-Fassung mit Hochformat-Cover, die Shorts 11A und 11B je Plattform und der Slider mit 10 Folien. Neu am Schluss: „Abonnier den Kanal“ und 7 s Abspann für die verlinkten Videos. Ein „Video 11 ok“ im Chat reicht.",
+   "lang": [
+    "video11/teile/video11_teil0.mp4",
+    "video11/teile/video11_teil1.mp4",
+    "video11/teile/video11_teil2.mp4",
+    "video11/teile/video11_teil3.mp4",
+    "video11/teile/video11_teil4.mp4",
+    "video11/teile/video11_teil5.mp4",
+    "video11/teile/video11_teil6.mp4",
+    "video11/teile/video11_teil7.mp4",
+    "video11/teile/video11_teil8.mp4"
+   ],
+   "shorts": [
+    {
+     "name": "Short 11A · Handy oder Trockner",
+     "wann": "Di 17.11. 19:00",
+     "video": "video11/shorts_neu2/short11-a_handy-trockner.mp4",
+     "cover": "video11/shorts_neu2/short11-a_handy-trockner_cover.jpg"
+    },
+    {
+     "name": "Short 11B · Prüfungsfrage Wasserkocher",
+     "wann": "Di 17.11. 20:00",
+     "video": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher.mp4",
+     "cover": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher_cover.jpg"
+    }
+   ],
+   "bilder": [
+    [
+     "video11/thumbs/v11_b.png",
+     "Thumbnail-Alternative B (eingeplant ist A)"
+    ]
+   ]
+  },
+  {
+   "id": "video12",
+   "titel": "Video 12 · Stromdichte, mit Shorts 12A/12B und Slider",
+   "frist": "bis Mi 18.11. (Video erscheint Fr 20.11. 08:00, Shorts 19:00 und 20:00, Slider 21:00 am selben Tag)",
+   "text": "Alles zu Video 12: das ganze Video (7:06) mit Abspann, Thumbnail, Titel und Beschreibung mit Kapiteln, Instagram-Story, TikTok-Ankündigung, TikTok-Fassung mit Hochformat-Cover, die Shorts 12A und 12B je Plattform und der Slider mit 10 Folien. Neu am Schluss: „Abonnier den Kanal“ und 7 s Abspann für die verlinkten Videos. Ein „Video 12 ok“ im Chat reicht.",
+   "lang": [
+    "video12/teile/video12_teil0.mp4",
+    "video12/teile/video12_teil1.mp4",
+    "video12/teile/video12_teil2.mp4",
+    "video12/teile/video12_teil3.mp4",
+    "video12/teile/video12_teil4.mp4",
+    "video12/teile/video12_teil5.mp4",
+    "video12/teile/video12_teil6.mp4"
+   ],
+   "shorts": [
+    {
+     "name": "Short 12A · Sicherung",
+     "wann": "Fr 20.11. 19:00",
+     "video": "video12/shorts_neu2/short12-a_sicherung.mp4",
+     "cover": "video12/shorts_neu2/short12-a_sicherung_cover.jpg"
+    },
+    {
+     "name": "Short 12B · Prüfungsfrage Stromdichte",
+     "wann": "Fr 20.11. 20:00",
+     "video": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte.mp4",
+     "cover": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte_cover.jpg"
+    }
+   ],
+   "bilder": [
+    [
+     "video12/thumbs/v12_b.png",
+     "Thumbnail-Alternative B (eingeplant ist A)"
+    ]
+   ]
+  },
+  {
+   "id": "video13",
+   "titel": "Video 13 · Innenwiderstand, mit Shorts 13A/13B und Slider",
+   "frist": "bis So 22.11. (Video erscheint Di 24.11. 08:00, Shorts 19:00 und 20:00, Slider 21:00 am selben Tag)",
+   "text": "Alles zu Video 13: das ganze Video (7:27) mit Abspann, Thumbnail, Titel und Beschreibung mit Kapiteln, Instagram-Story, TikTok-Ankündigung, TikTok-Fassung mit Hochformat-Cover, die Shorts 13A und 13B je Plattform und der Slider mit 10 Folien. Neu am Schluss: „Abonnier den Kanal“ und 7 s Abspann für die verlinkten Videos. Ein „Video 13 ok“ im Chat reicht.",
+   "lang": [
+    "video13/teile/video13_teil0.mp4",
+    "video13/teile/video13_teil1.mp4",
+    "video13/teile/video13_teil2.mp4",
+    "video13/teile/video13_teil3.mp4",
+    "video13/teile/video13_teil4.mp4",
+    "video13/teile/video13_teil5.mp4",
+    "video13/teile/video13_teil6.mp4",
+    "video13/teile/video13_teil7.mp4"
+   ],
+   "shorts": [
+    {
+     "name": "Short 13A · Fernbedienung tot, Batterie fast voll",
+     "wann": "Di 24.11. 19:00",
+     "video": "video13/shorts_neu2/short13-a_fernbedienung.mp4",
+     "cover": "video13/shorts_neu2/short13-a_fernbedienung_cover.jpg"
+    },
+    {
+     "name": "Short 13B · Prüfungsfrage Klemmenspannung",
+     "wann": "Di 24.11. 20:00",
+     "video": "video13/shorts_neu2/short13-b_pruefungsfrage-innenwiderstand.mp4",
+     "cover": "video13/shorts_neu2/short13-b_pruefungsfrage-innenwiderstand_cover.jpg"
+    }
+   ],
+   "bilder": [
+    [
+     "video13/thumbs/v13_b.png",
+     "Thumbnail-Alternative B (eingeplant ist A)"
+    ],
+    [
+     "video13/karussell/vorschau.png",
+     "Slider: alle 10 Folien"
+    ]
+   ]
+  },
+  {
+   "id": "video14",
+   "titel": "Video 14 · Messgerät an der Steckdose und es knallt? Spannung, Strom und Widerstand richtig messen | Watt?!, mit Shorts 14A/14B und Slider",
+   "frist": "bis Mi 25.11. (Video erscheint Fr 27.11. 08:00, Shorts 19:00 und 20:00, Slider 21:00 am selben Tag)",
+   "text": "Alles zu Video 14: das ganze Video (6:55) mit Abspann, Thumbnail, Titel und Beschreibung mit Kapiteln, Instagram-Story, TikTok-Ankündigung, TikTok-Fassung mit Hochformat-Cover, die Shorts 14A und 14B je Plattform und der Slider mit 10 Folien. Ein „Video 14 ok“ im Chat reicht.",
+   "lang": [
+    "video14/teile/video14_teil00.mp4",
+    "video14/teile/video14_teil01.mp4",
+    "video14/teile/video14_teil02.mp4",
+    "video14/teile/video14_teil03.mp4",
+    "video14/teile/video14_teil04.mp4",
+    "video14/teile/video14_teil05.mp4",
+    "video14/teile/video14_teil06.mp4",
+    "video14/teile/video14_teil07.mp4",
+    "video14/teile/video14_teil08.mp4",
+    "video14/teile/video14_teil09.mp4"
+   ],
+   "shorts": [
+    {
+     "name": "Short 14A · Knall an der Steckdose",
+     "wann": "Fr 27.11. 19:00",
+     "video": "video14/shorts_neu2/short14-a_knall.mp4",
+     "cover": "video14/shorts_neu2/short14-a_knall_cover.jpg"
+    },
+    {
+     "name": "Short 14B · Prüfungsfrage Vorwiderstand",
+     "wann": "Fr 27.11. 20:00",
+     "video": "video14/shorts_neu2/short14-b_pruefungsfrage-vorwiderstand.mp4",
+     "cover": "video14/shorts_neu2/short14-b_pruefungsfrage-vorwiderstand_cover.jpg"
+    }
+   ],
+   "bilder": [
+    [
+     "video14/thumbs/v14_b.png",
+     "Thumbnail-Alternative B (eingeplant ist A)"
+    ],
+    [
+     "video14/karussell/vorschau.png",
+     "Slider: alle 10 Folien"
+    ]
+   ]
+  },
+  {
+   "id": "video15",
+   "titel": "Video 15 · Warum deine Personenwaage mit Strom wiegt, mit Shorts 15A/15B und Slider",
+   "frist": "bis So 29.11. (Video erscheint Di 1.12. 08:00, Shorts 19:00 und 20:00, Slider 21:00 am selben Tag)",
+   "text": "Alles zu Video 15: das ganze Video (7:30) mit Abspann, Thumbnail, Titel und Beschreibung mit Kapiteln, Instagram-Story, TikTok-Ankündigung, TikTok-Fassung mit Hochformat-Cover, die Shorts 15A und 15B je Plattform und der Slider mit 10 Folien. Ein „Video 15 ok“ im Chat reicht.",
+   "lang": [
+    "video15/teile/video15_teil00.mp4",
+    "video15/teile/video15_teil01.mp4",
+    "video15/teile/video15_teil02.mp4",
+    "video15/teile/video15_teil03.mp4",
+    "video15/teile/video15_teil04.mp4",
+    "video15/teile/video15_teil05.mp4",
+    "video15/teile/video15_teil06.mp4",
+    "video15/teile/video15_teil07.mp4",
+    "video15/teile/video15_teil08.mp4",
+    "video15/teile/video15_teil09.mp4",
+    "video15/teile/video15_teil10.mp4"
+   ],
+   "shorts": [
+    {
+     "name": "Short 15A · Waage ohne Feder",
+     "wann": "Di 1.12. 19:00",
+     "video": "video15/shorts_neu2/short15-a_waage.mp4",
+     "cover": "video15/shorts_neu2/short15-a_waage_cover.jpg"
+    },
+    {
+     "name": "Short 15B · Prüfungsfrage Brücke",
+     "wann": "Di 1.12. 20:00",
+     "video": "video15/shorts_neu2/short15-b_pruefungsfrage-bruecke.mp4",
+     "cover": "video15/shorts_neu2/short15-b_pruefungsfrage-bruecke_cover.jpg"
+    }
+   ],
+   "bilder": [
+    [
+     "video15/thumbs/v15_b.png",
+     "Thumbnail-Alternative B (eingeplant ist A)"
+    ],
+    [
+     "video15/karussell/vorschau.png",
+     "Slider: alle 10 Folien"
+    ]
+   ]
+  },
+  {
+   "id": "video17",
+   "titel": "Video 17 · Lampe flackert in Zeitlupe, mit Shorts 17A/17B und Slider",
+   "frist": "bis So 6.12. (Video erscheint Di 8.12. 08:00, Shorts 19:00 und 20:00, Slider 21:00 am selben Tag)",
+   "text": "Alles zu Video 17: das ganze Video (7:18) mit Abspann, Thumbnail, Titel und Beschreibung mit Kapiteln, Instagram-Story, TikTok-Ankündigung, TikTok-Fassung mit Hochformat-Cover, die Shorts 17A und 17B je Plattform und der Slider mit 10 Folien. Ein „Video 17 ok“ im Chat reicht.",
+   "lang": [
+    "video17/teile/video17_teil00.mp4",
+    "video17/teile/video17_teil01.mp4",
+    "video17/teile/video17_teil02.mp4",
+    "video17/teile/video17_teil03.mp4",
+    "video17/teile/video17_teil04.mp4",
+    "video17/teile/video17_teil05.mp4",
+    "video17/teile/video17_teil06.mp4",
+    "video17/teile/video17_teil07.mp4",
+    "video17/teile/video17_teil08.mp4",
+    "video17/teile/video17_teil09.mp4"
+   ],
+   "shorts": [
+    {
+     "name": "Short 17A · Lampe in Zeitlupe",
+     "wann": "Di 8.12. 19:00",
+     "video": "video17/shorts_neu2/short17-a_zeitlupe.mp4",
+     "cover": "video17/shorts_neu2/short17-a_zeitlupe_cover.jpg"
+    },
+    {
+     "name": "Short 17B · Prüfungsfrage Scheitelwert",
+     "wann": "Di 8.12. 20:00",
+     "video": "video17/shorts_neu2/short17-b_pruefungsfrage-scheitelwert.mp4",
+     "cover": "video17/shorts_neu2/short17-b_pruefungsfrage-scheitelwert_cover.jpg"
+    }
+   ],
+   "bilder": [
+    [
+     "video17/thumbs/v17_b.png",
+     "Thumbnail-Alternative B (eingeplant ist A)"
+    ],
+    [
+     "video17/karussell/vorschau.png",
+     "Slider: alle 10 Folien"
+    ]
+   ]
+  }
+ ],
+ "termine": [
+  {
+   "datum": "2026-10-18",
+   "titel": "Video 1 · Was ist Strom wirklich?",
+   "art": "lang",
+   "youtube": [
+    {
+     "mc": 399382900,
+     "format": "Langvideo",
+     "bild": "video01/video01_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "aufgaben": [
+      {
+       "wer": "ivan",
+       "text": "Thumbnail fehlt auf YouTube: Kanal unter youtube.com/verify per Telefon bestätigen, danach lade ich es hoch"
+      },
+      {
+       "wer": "ivan",
+       "text": "Beschreibung enthält noch den KI-Hinweis: in YouTube Studio den letzten Satz löschen"
+      }
+     ]
+    }
+   ],
+   "instagram": [
+    {
+     "mc": 399383095,
+     "format": "Karussell 7 Folien",
+     "bild": [
+      "video01/karussell/k01.jpg",
+      "video01/karussell/k02.jpg",
+      "video01/karussell/k03.jpg",
+      "video01/karussell/k04.jpg",
+      "video01/karussell/k05.jpg",
+      "video01/karussell/k06.jpg",
+      "video01/karussell/k07.jpg"
+     ],
+     "bild_art": "Folien"
+    }
+   ],
+   "tiktok": [
+    {
+     "mc": 399383052,
+     "format": "Ganzes Video",
+     "bild": "video01/video01_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "aufgaben": [
+      {
+       "wer": "ivan",
+       "text": "Cover in der TikTok-App setzen (Cover hier speichern)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-19",
+   "titel": "Short 1A · Licht sofort an",
+   "art": "short",
+   "youtube": [
+    {
+     "mc": 400309008,
+     "format": "Short",
+     "bild": "video01/shorts_neu2/short01-a_licht-sofort-an_cover.jpg",
+     "bild_art": "Cover"
+    }
+   ],
+   "instagram": [
+    {
+     "mc": 400309127,
+     "format": "Reel",
+     "bild": "video01/shorts_neu2/short01-a_licht-sofort-an_cover.jpg",
+     "bild_art": "Cover"
+    }
+   ],
+   "tiktok": [
+    {
+     "mc": 400309198,
+     "format": "Video",
+     "bild": "video01/shorts_neu2/short01-a_licht-sofort-an_cover.jpg",
+     "bild_art": "Cover"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-19",
+   "titel": "Short 1B · Akku-Frage",
+   "art": "short",
+   "youtube": [
+    {
+     "mc": 400405255,
+     "format": "Short",
+     "bild": "video01/shorts_neu2/short01-b_pruefungsfrage-akku_cover.jpg",
+     "bild_art": "Cover"
+    }
+   ],
+   "instagram": [
+    {
+     "mc": 400405394,
+     "format": "Reel",
+     "bild": "video01/shorts_neu2/short01-b_pruefungsfrage-akku_cover.jpg",
+     "bild_art": "Cover"
+    }
+   ],
+   "tiktok": [
+    {
+     "mc": 400405437,
+     "format": "Video",
+     "bild": "video01/shorts_neu2/short01-b_pruefungsfrage-akku_cover.jpg",
+     "bild_art": "Cover"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-20",
+   "titel": "Video 2 · Warum Vögel auf Stromleitungen überleben",
+   "art": "lang",
+   "youtube": [
+    {
+     "mc": 400369450,
+     "format": "Langvideo",
+     "bild": "video02/video02_thumbnail.png",
+     "bild_art": "Thumbnail"
+    }
+   ],
+   "instagram": [
+    {
+     "mc": 400369492,
+     "format": "Story „Neues Video online“",
+     "bild": "video02/story/video02_story_instagram.jpg",
+     "bild_art": "Story"
+    }
+   ],
+   "tiktok": [
+    {
+     "mc": 400369530,
+     "format": "Ankündigung",
+     "status": "fehler",
+     "notiz": "Ging irrtümlich als Beitrag statt Story raus.",
+     "aufgaben": [
+      {
+       "wer": "ivan",
+       "text": "Diesen Beitrag in der TikTok-App löschen (geht nur bei dir)"
+      }
+     ]
+    },
+    {
+     "mc": 400805940,
+     "format": "Ankündigung als Story",
+     "video": "video02/story/video02_tiktok_ankuendigung.mp4",
+     "notiz": "Push mit dem Clip ging an dein Handy."
+    },
+    {
+     "mc": 400796051,
+     "format": "Ganzes Video",
+     "bild": "video02/video02_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "aufgaben": [
+      {
+       "wer": "ivan",
+       "text": "Cover in der TikTok-App setzen (Cover hier speichern)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-21",
+   "titel": "Short 2A · Vogel auf der Leitung",
+   "art": "short",
+   "youtube": [
+    {
+     "mc": 401474791,
+     "format": "Short",
+     "bild": "video02/shorts_neu2/short02-a_vogel-auf-der-leitung_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video02/shorts_neu2/short02-a_vogel-auf-der-leitung.mp4",
+     "notiz": "Freigegeben 20.10."
+    }
+   ],
+   "instagram": [
+    {
+     "mc": 401474844,
+     "format": "Reel",
+     "bild": "video02/shorts_neu2/short02-a_vogel-auf-der-leitung_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video02/shorts_neu2/short02-a_vogel-auf-der-leitung_instagram.mp4",
+     "notiz": "Freigegeben 20.10."
+    }
+   ],
+   "tiktok": [
+    {
+     "mc": 401474887,
+     "format": "Video",
+     "bild": "video02/shorts_neu2/short02-a_vogel-auf-der-leitung_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video02/shorts_neu2/short02-a_vogel-auf-der-leitung_tiktok.mp4",
+     "notiz": "Freigegeben 20.10."
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-21",
+   "titel": "Short 2B · Wie groß ist U_CA?",
+   "art": "short",
+   "youtube": [
+    {
+     "mc": 401474938,
+     "format": "Short",
+     "bild": "video02/shorts_neu2/short02-b_pruefungsfrage-spannung_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video02/shorts_neu2/short02-b_pruefungsfrage-spannung.mp4",
+     "notiz": "Freigegeben 20.10."
+    }
+   ],
+   "instagram": [
+    {
+     "mc": 401475023,
+     "format": "Reel",
+     "bild": "video02/shorts_neu2/short02-b_pruefungsfrage-spannung_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video02/shorts_neu2/short02-b_pruefungsfrage-spannung_instagram.mp4",
+     "notiz": "Freigegeben 20.10."
+    }
+   ],
+   "tiktok": [
+    {
+     "mc": 401475044,
+     "format": "Video",
+     "bild": "video02/shorts_neu2/short02-b_pruefungsfrage-spannung_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video02/shorts_neu2/short02-b_pruefungsfrage-spannung_tiktok.mp4",
+     "notiz": "Freigegeben 20.10."
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-21",
+   "titel": "Slider zu Video 2 · Warum Vögel auf Stromleitungen überleben",
+   "art": "lang",
+   "youtube": [],
+   "tiktok": [],
+   "instagram": [
+    {
+     "format": "Karussell 9 Folien",
+     "bild": [
+      "video02/karussell/k01.jpg",
+      "video02/karussell/k02.jpg",
+      "video02/karussell/k03.jpg",
+      "video02/karussell/k04.jpg",
+      "video02/karussell/k05.jpg",
+      "video02/karussell/k06.jpg",
+      "video02/karussell/k07.jpg",
+      "video02/karussell/k08.jpg",
+      "video02/karussell/k09.jpg"
+     ],
+     "bild_art": "Folien",
+     "notiz": "Kommt vor Video 3, nach den Shorts 2A und 2B.",
+     "mc": 402636016
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-22",
+   "titel": "Video 3 · Leitungswiderstand berechnen",
+   "art": "lang",
+   "youtube": [
+    {
+     "mc": 402642666,
+     "format": "Langvideo 5:14",
+     "bild": "video03/video03_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "video": [],
+     "notiz": "Freigegeben 20.10."
+    }
+   ],
+   "instagram": [
+    {
+     "mc": 402642706,
+     "format": "Story „Neues Video online“",
+     "bild": "video03/story/video03_story_instagram.jpg",
+     "bild_art": "Story",
+     "video": "video03/story/video03_story_instagram.mp4"
+    }
+   ],
+   "tiktok": [
+    {
+     "mc": 402643050,
+     "format": "Ankündigung als Story",
+     "video": "video03/story/video03_tiktok_ankuendigung.mp4",
+     "aufgaben": [
+      {
+       "wer": "ivan",
+       "text": "Mi 17:15 kommt eine Push-Nachricht von Metricool: Clip als TikTok-Story posten"
+      }
+     ]
+    },
+    {
+     "mc": 402642728,
+     "format": "Ganzes Video",
+     "bild": "video03/video03_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "notiz": "Startet mit dem Thumbnail als erstem Bild, das Cover passt damit von selbst.",
+     "aufgaben": [
+      {
+       "wer": "ivan",
+       "text": "Optional: nach 20:00 das Hochformat-Cover in der App setzen",
+       "optional": true
+      }
+     ]
+    }
+   ],
+   "notiz": "Am 21.10. am Gratis-Limit von Metricool gescheitert, nach Ivans Upgrade auf Do 22.10. verschoben."
+  },
+  {
+   "datum": "2026-10-22",
+   "titel": "Short 3A · Dünne Leitung, doppelte Wärme",
+   "art": "short",
+   "youtube": [
+    {
+     "mc": 402642782,
+     "format": "Short",
+     "bild": "video03/shorts_neu2/short03-a_duenne-leitung-waerme_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video03/shorts_neu2/short03-a_duenne-leitung-waerme.mp4",
+     "notiz": "Freigegeben 20.10."
+    }
+   ],
+   "instagram": [
+    {
+     "mc": 402642838,
+     "format": "Reel",
+     "bild": "video03/shorts_neu2/short03-a_duenne-leitung-waerme_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video03/shorts_neu2/short03-a_duenne-leitung-waerme_instagram.mp4",
+     "notiz": "Freigegeben 20.10."
+    }
+   ],
+   "tiktok": [
+    {
+     "format": "Video",
+     "bild": "video03/shorts_neu2/short03-a_duenne-leitung-waerme_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video03/shorts_neu2/short03-a_duenne-leitung-waerme_tiktok.mp4",
+     "notiz": "Freigegeben 20.10.",
+     "mc": 403147436
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-22",
+   "titel": "Short 3B · Leitungswiderstand rechnen",
+   "art": "short",
+   "youtube": [
+    {
+     "mc": 403147490,
+     "format": "Short",
+     "bild": "video03/shorts_neu2/short03-b_pruefungsfrage-leitungswiderstand_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video03/shorts_neu2/short03-b_pruefungsfrage-leitungswiderstand.mp4",
+     "notiz": "Freigegeben 20.10."
+    }
+   ],
+   "instagram": [
+    {
+     "mc": 403147538,
+     "format": "Reel",
+     "bild": "video03/shorts_neu2/short03-b_pruefungsfrage-leitungswiderstand_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video03/shorts_neu2/short03-b_pruefungsfrage-leitungswiderstand_instagram.mp4",
+     "notiz": "Freigegeben 20.10."
+    }
+   ],
+   "tiktok": [
+    {
+     "format": "Video",
+     "bild": "video03/shorts_neu2/short03-b_pruefungsfrage-leitungswiderstand_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video03/shorts_neu2/short03-b_pruefungsfrage-leitungswiderstand_tiktok.mp4",
+     "notiz": "Freigegeben 20.10.",
+     "mc": 403148222
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-22",
+   "titel": "Slider zu Video 3 · Leitungswiderstand berechnen",
+   "art": "lang",
+   "youtube": [],
+   "tiktok": [],
+   "instagram": [
+    {
+     "mc": 402643022,
+     "format": "Karussell 7 Folien",
+     "bild": [
+      "video03/karussell/k01.jpg",
+      "video03/karussell/k02.jpg",
+      "video03/karussell/k03.jpg",
+      "video03/karussell/k04.jpg",
+      "video03/karussell/k05.jpg",
+      "video03/karussell/k06.jpg",
+      "video03/karussell/k07.jpg"
+     ],
+     "bild_art": "Folien"
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-24",
+   "titel": "Video 4 · Das ohmsche Gesetz",
+   "art": "lang",
+   "youtube": [
+    {
+     "mc": 404518363,
+     "format": "Langvideo",
+     "bild": "video04/video04_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "video": []
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "09:00",
+     "format": "Story „Neues Video online“",
+     "bild": "video04/story/video04_story_instagram.jpg",
+     "bild_art": "Story",
+     "video": "video04/story/video04_story_instagram.mp4",
+     "mc": 404231387
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "09:15",
+     "format": "Ankündigung als Story",
+     "video": "video04/story/video04_tiktok_ankuendigung.mp4",
+     "mc": 404231458
+    },
+    {
+     "zeit": "10:00",
+     "format": "Ganzes Video",
+     "bild": "video04/video04_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "video": "video04/detailfix/video04_tiktok_anfang.mp4",
+     "mc": 404518414
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-24",
+   "titel": "Short 4A · Wo sind die 6 Volt?",
+   "art": "short",
+   "youtube": [
+    {
+     "mc": 404231658,
+     "format": "Short",
+     "bild": "video04/shorts_neu2/short04-a_sechs-volt-weg_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video04/shorts_neu2/short04-a_sechs-volt-weg.mp4",
+     "zeit": "11:00"
+    }
+   ],
+   "instagram": [
+    {
+     "mc": 404231702,
+     "format": "Reel",
+     "bild": "video04/shorts_neu2/short04-a_sechs-volt-weg_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video04/shorts_neu2/short04-a_sechs-volt-weg_instagram.mp4",
+     "zeit": "11:00"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "11:00",
+     "format": "Video",
+     "bild": "video04/shorts_neu2/short04-a_sechs-volt-weg_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video04/shorts_neu2/short04-a_sechs-volt-weg_tiktok.mp4",
+     "mc": 404231752
+    }
+   ],
+   "notiz": "Ivan 22.10.: kommt am Samstag nach Video 4."
+  },
+  {
+   "datum": "2026-10-24",
+   "titel": "Short 4B · 12 V, 500 mA",
+   "art": "short",
+   "youtube": [
+    {
+     "mc": 404231798,
+     "format": "Short",
+     "bild": "video04/shorts_neu2/short04-b_pruefungsfrage-ohm_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video04/shorts_neu2/short04-b_pruefungsfrage-ohm.mp4",
+     "zeit": "12:00"
+    }
+   ],
+   "instagram": [
+    {
+     "mc": 404231867,
+     "format": "Reel",
+     "bild": "video04/shorts_neu2/short04-b_pruefungsfrage-ohm_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video04/shorts_neu2/short04-b_pruefungsfrage-ohm_instagram.mp4",
+     "zeit": "12:00"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "12:00",
+     "format": "Video",
+     "bild": "video04/shorts_neu2/short04-b_pruefungsfrage-ohm_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video04/shorts_neu2/short04-b_pruefungsfrage-ohm_tiktok.mp4",
+     "mc": 404875913
+    }
+   ],
+   "notiz": "Ivan 22.10.: kommt am Samstag nach Video 4."
+  },
+  {
+   "datum": "2026-10-24",
+   "titel": "Slider zu Video 4 · Das ohmsche Gesetz",
+   "art": "short",
+   "youtube": [],
+   "instagram": [
+    {
+     "mc": 404231970,
+     "format": "Karussell 7 Folien",
+     "bild": [
+      "video04/karussell/k01.jpg",
+      "video04/karussell/k02.jpg",
+      "video04/karussell/k03.jpg",
+      "video04/karussell/k04.jpg",
+      "video04/karussell/k05.jpg",
+      "video04/karussell/k06.jpg",
+      "video04/karussell/k07.jpg"
+     ],
+     "bild_art": "Folien",
+     "zeit": "13:00"
+    }
+   ],
+   "tiktok": [],
+   "notiz": "Ivan 22.10.: kommt am Samstag nach Video 4. Nur auf Instagram, vor Video 5."
+  },
+  {
+   "datum": "2026-10-27",
+   "titel": "Video 5 · Die Reihenschaltung",
+   "art": "lang",
+   "youtube": [
+    {
+     "zeit": "08:00",
+     "format": "Langvideo",
+     "bild": "video05/video05_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "video": [],
+     "notiz": "Titel: Warum geht die ganze Lichterkette aus? Reihenschaltung einfach erklärt | Watt?!",
+     "text": "Eine Birne für 23 V hängt an der Steckdose, und sie brennt nicht durch.\n\nWas schützt sie?\n\nIn der Reihenschaltung fließt überall derselbe Strom, die Widerstände addieren sich, und die Spannung teilt sich auf.\n\nAm Ende rechnest du selbst aus, wie ein einzelner Vorwiderstand eine Lampe schützt.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 2 (DE) · Elektroinstallateur/in EFZ 1. Lehrjahr (CH) · Elektrotechnik Grundlagen (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Das Rätsel der 23-Volt-Birne\n0:20 Ein Weg, ein Strom\n0:54 Gesamtwiderstand: R = R1 + R2 + R3\n1:18 Die Spannung teilt sich auf\n1:57 Spannungsfall als Reihenschaltung\n2:25 Prüfungsaufgabe: Vorwiderstand\n2:59 Typischer Fehler und Zusammenfassung\n\nMerke: In der Reihe ist der Strom überall gleich.\n\nDer Vorwiderstand bekommt nur die restliche Spannung.\n\nVorheriges Video: Das ohmsche Gesetz (Wo bleiben die 6 Volt?)\nNächstes Video: Die Parallelschaltung\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\nLichterketten nur bei gezogenem Stecker reparieren.",
+     "mc": 405913136
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "08:30",
+     "format": "Story „Neues Video online“",
+     "bild": "video05/story/video05_story_instagram.jpg",
+     "bild_art": "Story",
+     "video": "video05/story/video05_story_instagram.mp4",
+     "mc": 405913167
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "08:30",
+     "format": "Ankündigung als Story",
+     "video": "video05/story/video05_tiktok_ankuendigung.mp4",
+     "text": "Neues Video ist online!\n\nWarum geht die ganze Lichterkette aus, wenn eine Birne fehlt?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #reihenschaltung #elektroniker #elektroinstallateur #azubi",
+     "mc": 405913194
+    },
+    {
+     "zeit": "11:30",
+     "format": "Ganzes Video",
+     "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
+     "aufgaben": [],
+     "bild": "video05/video05_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "text": "Diese Birne verträgt nur 23 V und hängt an der Steckdose.\n\nTrotzdem brennt sie nicht durch.\n\nWas schützt sie?\n\nDie Reihenschaltung einfach erklärt, mit Prüfungsaufgabe zum Vorwiderstand.\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #reihenschaltung #lichterkette #azubi #elektroinstallateur",
+     "video": "video05/video05_tiktok_anfang.mp4",
+     "mc": 405913274
+    }
+   ]
+  },
+  {
+   "datum": "2026-10-27",
+   "titel": "Short 5A · Reihenschaltung",
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "19:00",
+     "format": "Short",
+     "bild": "video05/shorts_neu2/short05-a_lichterkette_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video05/shorts_neu2/short05-a_lichterkette.mp4",
+     "text": "23-Volt-Birnen an 230 Volt? #shorts\n\nZehn Birnen mit 23 V an 230 V, und eine fehlende Birne macht die ganze Kette dunkel. Warum? Video \"Die Reihenschaltung\" auf dem Kanal Watt?!",
+     "mc": 405913357
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "19:00",
+     "format": "Reel",
+     "bild": "video05/shorts_neu2/short05-a_lichterkette_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video05/shorts_neu2/short05-a_lichterkette_instagram.mp4",
+     "text": "23-Volt-Birnen an 230 Volt, und keine brennt durch. Aber eine fehlt, und alles ist dunkel. Warum? Ganzes Video: Link im Profil.\n\n#elektrotechnik #lehre #elektroniker #elektroinstallateur #azubi",
+     "mc": 406275938
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "19:00",
+     "format": "Video",
+     "bild": "video05/shorts_neu2/short05-a_lichterkette_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video05/shorts_neu2/short05-a_lichterkette_tiktok.mp4",
+     "text": "23-Volt-Birnen an 230 Volt, und keine brennt durch?! Und warum ist alles dunkel, wenn eine Birne fehlt? Beides hat denselben Grund.\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #reihenschaltung #elektroniker #elektroinstallateur #azubi",
+     "mc": 405913423
+    }
+   ],
+   "notiz": "Vor Video 6 (KI-Samstag 31.10. entfällt, Ivan 22.10.)."
+  },
+  {
+   "datum": "2026-10-27",
+   "titel": "Short 5B · Reihenschaltung",
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "20:00",
+     "format": "Short",
+     "bild": "video05/shorts_neu2/short05-b_pruefungsfrage-vorwiderstand_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video05/shorts_neu2/short05-b_pruefungsfrage-vorwiderstand.mp4",
+     "text": "Prüfungsfrage: Welcher Vorwiderstand für 6 V an 12 V? #shorts\n\nLampe 6 V / 0,5 A an 12 V: Wie groß muss der Vorwiderstand sein? Die ganze Erklärung: Video \"Die Reihenschaltung\" auf dem Kanal Watt?!",
+     "mc": 405913496
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "20:00",
+     "format": "Reel",
+     "bild": "video05/shorts_neu2/short05-b_pruefungsfrage-vorwiderstand_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video05/shorts_neu2/short05-b_pruefungsfrage-vorwiderstand_instagram.mp4",
+     "text": "Prüfungsfrage: Lampe 6 V / 0,5 A soll an 12 V. Welchen Vorwiderstand brauchst du? Schreib deine Lösung in die Kommentare. Ganzes Video: Link im Profil.\n\n#elektrotechnik #lehre #elektroniker #elektroinstallateur #azubi",
+     "mc": 406275958
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "20:00",
+     "format": "Video",
+     "bild": "video05/shorts_neu2/short05-b_pruefungsfrage-vorwiderstand_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video05/shorts_neu2/short05-b_pruefungsfrage-vorwiderstand_tiktok.mp4",
+     "text": "Prüfungsfrage: Lampe 6 V / 0,5 A soll an 12 V. Welchen Vorwiderstand brauchst du? Du hast 3 Sekunden. Schreib deine Lösung in die Kommentare!\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #reihenschaltung #elektroniker #elektroinstallateur #azubi",
+     "mc": 405944462
+    }
+   ],
+   "notiz": "Vor Video 6 (KI-Samstag 31.10. entfällt, Ivan 22.10.)."
+  },
+  {
+   "datum": "2026-10-27",
+   "titel": "Slider zu Video 5 · Die Reihenschaltung",
+   "art": "short",
+   "youtube": [],
+   "instagram": [
+    {
+     "zeit": "21:00",
+     "format": "Karussell 9 Folien",
+     "bild": [
+      "video05/karussell/k01.jpg",
+      "video05/karussell/k02.jpg",
+      "video05/karussell/k03.jpg",
+      "video05/karussell/k04.jpg",
+      "video05/karussell/k05.jpg",
+      "video05/karussell/k06.jpg",
+      "video05/karussell/k07.jpg",
+      "video05/karussell/k08.jpg",
+      "video05/karussell/k09.jpg"
+     ],
+     "bild_art": "Folien",
+     "text": "Die Reihenschaltung in 9 Folien: gleicher Strom, Widerstände addieren, Spannung teilt sich auf.\n\nDazu eine Prüfungsaufgabe zum Vorwiderstand und der Fehler, der dabei fast jedem passiert.\n\nRechne die Aufgabe ruhig selbst nach, die Lösung steht auf Folie 7.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #reihenschaltung #lichterkette #azubi #elektroinstallateur",
+     "mc": 405913696
+    }
+   ],
+   "tiktok": [],
+   "notiz": "Nur auf Instagram. Vor Video 6 (KI-Samstag 31.10. entfällt, Ivan 22.10.)."
+  },
+  {
+   "art": "lang",
+   "youtube": [
+    {
+     "zeit": "08:00",
+     "format": "Langvideo",
+     "bild": "video06/video06_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "video": [],
+     "notiz": "Titel: Warum fliegt die Sicherung? Parallelschaltung einfach erklärt | Watt?!",
+     "text": "Föhn an, Wasserkocher an, und kurz darauf fliegt die Sicherung raus.\n\nDabei läuft jedes Gerät allein problemlos.\n\nWas ist zu zweit anders?\n\nIn der Parallelschaltung liegt an jedem Gerät dieselbe Spannung.\n\nDie Ströme addieren sich, und jeder Zweig macht den Gesamtwiderstand kleiner.\n\nDu lernst, wie du ihn mit dem Kehrwert oder mit „Produkt durch Summe“ berechnest, und rechnest am Ende eine Prüfungsaufgabe selbst.\n\nSchritt für Schritt siehst du auch, was der Kehrwert ist und warum sich die Leitwerte addieren.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 2 (DE) · Elektroinstallateur/in EFZ 1. Lehrjahr (CH) · Elektrotechnik Grundlagen (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Warum fliegt die Sicherung?\n0:20 Überall dieselbe Spannung\n0:50 Die Ströme addieren sich\n1:26 Gesamtwiderstand und Produkt durch Summe\n2:03 Was ist der Kehrwert? Leitwert und Rechnen mit Brüchen\n3:15 Mehrfachsteckdose und Sicherung: 20 A\n3:51 Prüfungsaufgabe: 20 Ω und 30 Ω\n4:31 Typischer Fehler und Zusammenfassung\n\nMerke: Parallel ist der Gesamtwiderstand immer kleiner als der kleinste Einzelwiderstand.\n\nVorheriges Video: Die Reihenschaltung\nNächstes Video: Gemischte Schaltungen (ab 31.10.)\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\nSteckdosenleisten nie über die aufgedruckte Grenze belasten.",
+     "mc": 408337021
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "08:30",
+     "format": "Story „Neues Video online“",
+     "bild": "video06/story/video06_story_instagram.jpg",
+     "bild_art": "Story",
+     "video": "video06/story/video06_story_instagram.mp4",
+     "text": "",
+     "mc": 408337124
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "08:30",
+     "format": "Ankündigung als Story",
+     "video": "video06/story/video06_tiktok_ankuendigung.mp4",
+     "text": "Neues Video: Die Parallelschaltung.\n⠀\nFöhn an, Wasserkocher an, klack: Warum fliegt die Sicherung?\n⠀\nGanzes Video auf YouTube: Watt?! (Link im Profil)",
+     "mc": 408337161
+    },
+    {
+     "zeit": "11:30",
+     "format": "Ganzes Video",
+     "bild": "video06/video06_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "video": "video06/video06_tiktok_anfang.mp4",
+     "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
+     "text": "Föhn an, Wasserkocher an, und kurz darauf: klack, die Sicherung fliegt raus.\n⠀\nDabei läuft jedes Gerät allein.\n⠀\nWas ist zu zweit anders?\n⠀\nDie Antwort steckt in der Parallelschaltung.\n⠀\nGleiche Spannung, Ströme addieren sich, Gesamtwiderstand mit Kehrwert oder Produkt durch Summe.\n⠀\nMit Prüfungsaufgabe zum Mitrechnen.\n⠀\nMehr Videos auf YouTube: Watt?! (Link im Profil)\n⠀\n#elektrotechnik #parallelschaltung #elektriker #azubi #lernen",
+     "mc": 408337109
+    }
+   ],
+   "datum": "2026-10-29",
+   "titel": "Video 6 · Die Parallelschaltung"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "19:00",
+     "format": "Short",
+     "bild": "video06/shorts/short06-a_mehr-geraete_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video06/shorts/short06-a_mehr-geraete.mp4",
+     "text": "Jedes Gerät an der Mehrfachsteckdose macht den Widerstand kleiner und den Strom größer.\n\nWarum das so ist, siehst du im Video „Die Parallelschaltung“ auf dem Kanal Watt?!\n\n#elektrotechnik #parallelschaltung #shorts",
+     "mc": 408337806
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "19:00",
+     "format": "Reel",
+     "bild": "video06/shorts/short06-a_mehr-geraete_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video06/shorts/short06-a_mehr-geraete_instagram.mp4",
+     "text": "Zweiter Heizlüfter dazu, und der Widerstand wird kleiner.\n\nKlingt falsch, ist aber Physik.\n\nGenau deshalb kann eine Steckdosenleiste überlastet werden.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #parallelschaltung #elektriker #azubi #lernen",
+     "mc": 408337839
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "19:00",
+     "format": "Video",
+     "bild": "video06/shorts/short06-a_mehr-geraete_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video06/shorts/short06-a_mehr-geraete_tiktok.mp4",
+     "text": "Zweiter Heizlüfter dazu, und der Widerstand wird kleiner.\n⠀\nKlingt falsch, ist aber Physik.\n⠀\nGenau deshalb kann eine Steckdosenleiste überlastet werden.\n⠀\nGanzes Video: Link im Profil.\n⠀\n#elektrotechnik #parallelschaltung #elektriker #azubi #lernen",
+     "mc": 408337856
+    }
+   ],
+   "datum": "2026-10-29",
+   "titel": "Short 6A · Parallelschaltung"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "20:00",
+     "format": "Short",
+     "bild": "video06/shorts/short06-b_pruefungsfrage-parallel_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video06/shorts/short06-b_pruefungsfrage-parallel.mp4",
+     "text": "20 Ω und 30 Ω parallel: Wie groß ist der Gesamtwiderstand?\n\nSchreib deine Lösung in die Kommentare.\n\nDie ganze Erklärung: Video „Die Parallelschaltung“ auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts",
+     "mc": 408337879
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "20:00",
+     "format": "Reel",
+     "bild": "video06/shorts/short06-b_pruefungsfrage-parallel_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video06/shorts/short06-b_pruefungsfrage-parallel_instagram.mp4",
+     "text": "Prüfungsfrage: 20 Ω und 30 Ω parallel.\n\nWie groß ist der Gesamtwiderstand?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #parallelschaltung #prüfungsfrage #azubi #elektriker",
+     "mc": 408337912
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "20:00",
+     "format": "Video",
+     "bild": "video06/shorts/short06-b_pruefungsfrage-parallel_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video06/shorts/short06-b_pruefungsfrage-parallel_tiktok.mp4",
+     "text": "Prüfungsfrage: 20 Ω und 30 Ω parallel.\n⠀\nWie groß ist der Gesamtwiderstand?\n⠀\nSchreib deine Lösung in die Kommentare.\n⠀\nGanzes Video: Link im Profil.\n⠀\n#elektrotechnik #parallelschaltung #prüfungsfrage #azubi #elektriker",
+     "mc": 408337931
+    }
+   ],
+   "datum": "2026-10-29",
+   "titel": "Short 6B · Parallelschaltung"
+  },
+  {
+   "art": "short",
+   "youtube": [],
+   "instagram": [
+    {
+     "zeit": "21:00",
+     "format": "Karussell 10 Folien",
+     "bild": [
+      "video06/karussell/k01.jpg",
+      "video06/karussell/k02.jpg",
+      "video06/karussell/k03.jpg",
+      "video06/karussell/k04.jpg",
+      "video06/karussell/k05.jpg",
+      "video06/karussell/k06.jpg",
+      "video06/karussell/k07.jpg",
+      "video06/karussell/k08.jpg",
+      "video06/karussell/k09.jpg",
+      "video06/karussell/k10.jpg"
+     ],
+     "bild_art": "Folien",
+     "text": "Föhn an, Wasserkocher an, und klack: Die Sicherung fliegt raus.\n\nWarum?\n\nDie Parallelschaltung in 10 Folien, erklärt an der Mehrfachsteckdose.\n\nGleiche Spannung, Ströme addieren sich, und jeder Zweig ist wie eine zusätzliche Kasse im Supermarkt.\n\nDazu eine Prüfungsaufgabe und der Kehrwert-Fehler, der fast jedem passiert.\n\nRechne die Aufgabe ruhig selbst, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #parallelschaltung #elektriker #azubi #lernen",
+     "mc": 408337963
+    }
+   ],
+   "tiktok": [],
+   "notiz": "Nur auf Instagram.",
+   "datum": "2026-10-29",
+   "titel": "Slider zu Video 6 · Die Parallelschaltung"
+  },
+  {
+   "art": "lang",
+   "youtube": [
+    {
+     "zeit": "08:00",
+     "format": "Langvideo",
+     "bild": "video07/video07_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "video": [],
+     "notiz": "Titel: Warum wird die Lampe dunkler, wenn der Wasserkocher läuft? Gemischte Schaltung | Watt?!",
+     "text": "Du schaltest den Wasserkocher ein, und die alte Glühlampe daneben wird dunkler.\n\nDabei hängt sie parallel am Netz.\n\nDer Grund ist eine gemischte Schaltung: Die Leitung liegt in Reihe vor allen Geräten.\n\nHier lernst du, wie du jede Reihen-Parallel-Schaltung Schritt für Schritt vereinfachst und danach alle Ströme und Spannungen rückwärts ausrechnest.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 2 (DE) · Elektroinstallateur/in EFZ, erstes Lehrjahr (CH) · Elektrotechnik Grundlagen (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Warum wird die Lampe dunkler?\n0:10 Worum es geht\n0:20 Das Rezept: vereinfachen, dann rückwärts\n0:43 Beispiel: 4 Ω vor 12 Ω ∥ 6 Ω\n1:14 Rückwärts: 1,5 A, 6 V, 0,5 A, 1 A\n1:47 Zurück zur Lampe: die Leitung liegt in Reihe\n2:13 Prüfungsaufgabe: 2 Ω vor 6 Ω ∥ 3 Ω an 24 V\n2:46 Typischer Fehler und Zusammenfassung\n\nMerke: Erst den Parallelteil zu einem Ersatzwiderstand zusammenfassen, dann in Reihe addieren.\n\nAm Parallelteil liegt nie die volle Spannung, wenn davor noch ein Widerstand sitzt.\n\nVorheriges Video: Die Parallelschaltung\n\nNächstes Video: Leitung richtig dimensionieren (ab 3.11.)\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\n#elektrotechnik #gemischteschaltung #azubi",
+     "mc": 409385214
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "08:30",
+     "format": "Story „Neues Video online“",
+     "bild": "video07/story/video07_story_instagram.jpg",
+     "bild_art": "Story",
+     "video": "video07/story/video07_story_instagram.mp4",
+     "mc": 409385294
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "08:30",
+     "format": "Ankündigung als Story",
+     "video": "video07/story/video07_tiktok_ankuendigung.mp4",
+     "text": "Neues Video: Gemischte Schaltungen.\n\nWarum wird die Lampe dunkler?!\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)",
+     "mc": 409385326
+    },
+    {
+     "zeit": "12:00",
+     "format": "Ganzes Video",
+     "bild": "video07/video07_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "video": "video07/video07_tiktok_anfang.mp4",
+     "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
+     "text": "Wasserkocher an, und die alte Glühlampe wird dunkler.\n\nDabei hängt sie doch parallel am Netz!\n\nDer Haken steckt in der Leitung davor, und die liegt in Reihe.\n\nGemischte Schaltungen einfach erklärt, mit Rezept, Beispiel und Prüfungsaufgabe.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #gemischteschaltung #elektroniker #azubi #wattkanal",
+     "mc": 411137776
+    }
+   ],
+   "datum": "2026-10-31",
+   "titel": "Video 7 · Gemischte Schaltungen"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "19:00",
+     "format": "Short",
+     "bild": "video07/shorts_neu2/short07-a_lampe-dunkler_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video07/shorts_neu2/short07-a_lampe-dunkler.mp4",
+     "text": "Wasserkocher an, Lampe dunkler?! #shorts\n\nDie Lampe hängt parallel am Netz und wird trotzdem dunkler, sobald der Wasserkocher läuft.\n\nSchuld ist die Leitung davor, denn die liegt in Reihe.\n\nGanze Erklärung: Video \"Gemischte Schaltungen\" auf dem Kanal Watt?!\n\n#elektrotechnik #gemischteschaltung #shorts",
+     "mc": 409385352
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "19:00",
+     "format": "Reel",
+     "bild": "video07/shorts_neu2/short07-a_lampe-dunkler_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video07/shorts_neu2/short07-a_lampe-dunkler_instagram.mp4",
+     "text": "Wasserkocher an, und die alte Glühlampe wird dunkler.\n\nDabei hängt sie doch parallel!\n\nDer Haken steckt in der Leitung davor.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #gemischteschaltung #elektroniker #azubi #wattkanal",
+     "mc": 409385387
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "19:00",
+     "format": "Video",
+     "bild": "video07/shorts_neu2/short07-a_lampe-dunkler_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video07/shorts_neu2/short07-a_lampe-dunkler_tiktok.mp4",
+     "text": "Wasserkocher an, und die alte Glühlampe wird dunkler.\n\nDabei hängt sie doch parallel!\n\nDer Haken steckt in der Leitung davor.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #gemischteschaltung #elektroniker #azubi #wattkanal",
+     "mc": 409385417
+    }
+   ],
+   "datum": "2026-10-31",
+   "titel": "Short 7A · Gemischte Schaltungen"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "20:00",
+     "format": "Short",
+     "bild": "video07/shorts_neu2/short07-b_pruefungsfrage-gemischt_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video07/shorts_neu2/short07-b_pruefungsfrage-gemischt.mp4",
+     "text": "Prüfungsfrage: 2 Ω + (6 Ω ∥ 3 Ω) = ? #shorts\n\n2 Ω in Reihe vor 6 Ω parallel 3 Ω: Wie groß ist der Gesamtwiderstand?\n\nDie ganze Methode: Video \"Gemischte Schaltungen\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts",
+     "mc": 409385452
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "20:00",
+     "format": "Reel",
+     "bild": "video07/shorts_neu2/short07-b_pruefungsfrage-gemischt_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video07/shorts_neu2/short07-b_pruefungsfrage-gemischt_instagram.mp4",
+     "text": "Prüfungsfrage: 2 Ω in Reihe vor 6 Ω parallel 3 Ω.\n\nWie groß ist der Gesamtwiderstand?\n\nKleiner Tipp: 11 Ω ist es nicht.\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #gemischteschaltung #azubi #wattkanal",
+     "mc": 409385488
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "20:00",
+     "format": "Video",
+     "bild": "video07/shorts_neu2/short07-b_pruefungsfrage-gemischt_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video07/shorts_neu2/short07-b_pruefungsfrage-gemischt_tiktok.mp4",
+     "text": "Prüfungsfrage: 2 Ω in Reihe vor 6 Ω parallel 3 Ω.\n\nWie groß ist der Gesamtwiderstand?\n\nKleiner Tipp: 11 Ω ist es nicht.\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #gemischteschaltung #azubi #wattkanal",
+     "mc": 409385508
+    }
+   ],
+   "datum": "2026-10-31",
+   "titel": "Short 7B · Gemischte Schaltungen"
+  },
+  {
+   "art": "short",
+   "youtube": [],
+   "instagram": [
+    {
+     "zeit": "21:00",
+     "format": "Karussell 9 Folien",
+     "bild": [
+      "video07/karussell/k01.jpg",
+      "video07/karussell/k02.jpg",
+      "video07/karussell/k03.jpg",
+      "video07/karussell/k04.jpg",
+      "video07/karussell/k05.jpg",
+      "video07/karussell/k06.jpg",
+      "video07/karussell/k07.jpg",
+      "video07/karussell/k08.jpg",
+      "video07/karussell/k09.jpg"
+     ],
+     "bild_art": "Folien",
+     "text": "Wasserkocher an, und die Lampe wird dunkler, obwohl sie parallel hängt.\n\nDer Grund: Reihe und Parallel gemischt.\n\nIn 9 Folien: vom Wasserkocher zum Rezept, ein Beispiel an 12 V und eine Aufgabe zum Selberrechnen.\n\nDie Lösung steht auf Folie 7, der typische Fehler auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #gemischteschaltung #elektroniker #azubi #wattkanal",
+     "mc": 409385534
+    }
+   ],
+   "tiktok": [],
+   "notiz": "Nur auf Instagram.",
+   "datum": "2026-10-31",
+   "titel": "Slider zu Video 7 · Gemischte Schaltungen"
+  },
+  {
+   "art": "lang",
+   "youtube": [
+    {
+     "zeit": "08:00",
+     "format": "Langvideo",
+     "bild": "video08/video08_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "video": [],
+     "notiz": "Titel: Warum schafft die aufgerollte Kabeltrommel nur 1000 W? Leitung dimensionieren | Watt?!",
+     "text": "Auf vielen Kabeltrommeln steht: aufgerollt höchstens 1000 W, abgerollt 3500 W.\n\nGleiche Leitung, gleiches Kupfer, warum also der Unterschied?\n\nIn diesem Video wählst du eine Leitung richtig aus: Verlegeart, Umgebungstemperatur, Häufung, der passende Schutzschalter und der Spannungsfall.\n\nWo sich Deutschland, die Schweiz und Österreich unterscheiden, steht es im Bild.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 2 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Das Rätsel der Kabeltrommel\n0:13 Worum es geht\n0:23 Wärme und Strombelastbarkeit\n1:05 Verlegeart: die Daunenjacke\n2:06 Umgebungstemperatur und Häufung\n2:55 Der passende Schutzschalter\n3:44 Spannungsfall in DE, CH und AT\n4:41 Prüfungsaufgabe\n5:25 Typischer Fehler und Zusammenfassung\n\nMerke: Die Strombelastbarkeit I_z hängt von Verlegeart, Umgebungstemperatur und Häufung ab.\n\nDer Schutzschalter muss zur Leitung passen: I_B ≤ I_n ≤ I_z.\n\nDie Werte nimmst du immer aus der Norm deines Landes (DE: DIN VDE 0298-4, CH: NIN, AT: OVE E 8101).\n\nVorheriges Video: Gemischte Schaltungen\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\n#elektrotechnik #leitungsdimensionierung #azubi",
+     "mc": 414641126
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "08:30",
+     "format": "Story „Neues Video online“",
+     "bild": "video08/story/video08_story_instagram.jpg",
+     "bild_art": "Story",
+     "video": "video08/story/video08_story_instagram.mp4",
+     "mc": 414641193
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "08:30",
+     "format": "Ankündigung als Story",
+     "video": "video08/story/video08_tiktok_ankuendigung.mp4",
+     "text": "Neues Video: Leitung richtig dimensionieren.\n\nWarum wird die Kabeltrommel heiß?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)",
+     "mc": 414641214
+    },
+    {
+     "zeit": "18:00",
+     "format": "Ganzes Video",
+     "bild": "video08/video08_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "video": "video08/video08_tiktok_anfang.mp4",
+     "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
+     "text": "Aufgerollt 1000 W, abgerollt 3500 W.\n\nGleiche Kabeltrommel, gleiches Kupfer!\n\nDer Grund ist eine Daunenjacke, und sie betrifft jede Leitung in deiner Wand.\n\nLeitung richtig dimensionieren, mit Prüfungsaufgabe für DE, CH und AT.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #kabeltrommel #elektroniker #azubi #wattkanal",
+     "mc": 414641177
+    }
+   ],
+   "datum": "2026-11-03",
+   "titel": "Video 8 · Leitung richtig dimensionieren"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "19:00",
+     "format": "Short",
+     "bild": "video08/shorts_neu2/short08-a_kabeltrommel_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video08/shorts_neu2/short08-a_kabeltrommel.mp4",
+     "text": "Kabeltrommel: aufgerollt nur 1000 W?! #shorts\n\nAufgerollt 1000 W, abgerollt 3500 W, und es ist dieselbe Leitung.\n\nKleiner Tipp: Es hat mit einer Daunenjacke zu tun.\n\nGanze Erklärung: Video \"Leitung richtig dimensionieren\" auf dem Kanal Watt?!\n\n#elektrotechnik #kabeltrommel #shorts",
+     "mc": 414641231
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "19:00",
+     "format": "Reel",
+     "bild": "video08/shorts_neu2/short08-a_kabeltrommel_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video08/shorts_neu2/short08-a_kabeltrommel_instagram.mp4",
+     "text": "Aufgerollt 1000 W, abgerollt 3500 W.\n\nGleiche Leitung, gleiches Kupfer!\n\nKleiner Tipp: Es hat mit einer Daunenjacke zu tun.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #kabeltrommel #elektroniker #azubi #wattkanal",
+     "mc": 414641253
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "19:00",
+     "format": "Video",
+     "bild": "video08/shorts_neu2/short08-a_kabeltrommel_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video08/shorts_neu2/short08-a_kabeltrommel_tiktok.mp4",
+     "text": "Aufgerollt 1000 W, abgerollt 3500 W.\n\nGleiche Leitung, gleiches Kupfer!\n\nKleiner Tipp: Es hat mit einer Daunenjacke zu tun.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #kabeltrommel #elektroniker #azubi #wattkanal",
+     "mc": 414641277
+    }
+   ],
+   "datum": "2026-11-03",
+   "titel": "Short 8A · Leitung dimensionieren"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "20:00",
+     "format": "Short",
+     "bild": "video08/shorts_neu2/short08-b_pruefungsfrage-schutzschalter_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video08/shorts_neu2/short08-b_pruefungsfrage-schutzschalter.mp4",
+     "text": "Prüfungsfrage: 13, 16 oder 20 A? #shorts\n\nTabellenwert 24 A, Temperaturfaktor 0,87, Häufungsfaktor 0,8: Welchen Schutzschalter darfst du höchstens einsetzen?\n\nDie ganze Erklärung: Video \"Leitung richtig dimensionieren\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts",
+     "mc": 414641297
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "20:00",
+     "format": "Reel",
+     "bild": "video08/shorts_neu2/short08-b_pruefungsfrage-schutzschalter_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video08/shorts_neu2/short08-b_pruefungsfrage-schutzschalter_instagram.mp4",
+     "text": "Prüfungsfrage: Die Leitung verträgt laut Tabelle 24 A.\n\nTemperaturfaktor 0,87, Häufungsfaktor 0,8.\n\nWelcher Schutzschalter passt höchstens: 13, 16 oder 20 A?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal",
+     "mc": 414641316
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "20:00",
+     "format": "Video",
+     "bild": "video08/shorts_neu2/short08-b_pruefungsfrage-schutzschalter_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video08/shorts_neu2/short08-b_pruefungsfrage-schutzschalter_tiktok.mp4",
+     "text": "Prüfungsfrage: Die Leitung verträgt laut Tabelle 24 A.\n\nTemperaturfaktor 0,87, Häufungsfaktor 0,8.\n\nWelcher Schutzschalter passt höchstens: 13, 16 oder 20 A?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal",
+     "mc": 414641341
+    }
+   ],
+   "datum": "2026-11-03",
+   "titel": "Short 8B · Leitung dimensionieren"
+  },
+  {
+   "art": "short",
+   "youtube": [],
+   "instagram": [
+    {
+     "zeit": "21:00",
+     "format": "Karussell 10 Folien",
+     "bild": [
+      "video08/karussell/k01.jpg",
+      "video08/karussell/k02.jpg",
+      "video08/karussell/k03.jpg",
+      "video08/karussell/k04.jpg",
+      "video08/karussell/k05.jpg",
+      "video08/karussell/k06.jpg",
+      "video08/karussell/k07.jpg",
+      "video08/karussell/k08.jpg",
+      "video08/karussell/k09.jpg",
+      "video08/karussell/k10.jpg"
+     ],
+     "bild_art": "Folien",
+     "text": "Aufgerollt 1000 W, abgerollt 3500 W, warum eigentlich?\n\nIn 10 Folien: Wärme, Verlegeart als Daunenjacke, Temperatur und Häufung, der passende Schutzschalter und der Spannungsfall.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #leitungsdimensionierung #elektroniker #azubi #wattkanal",
+     "mc": 414641360
+    }
+   ],
+   "tiktok": [],
+   "notiz": "Nur auf Instagram.",
+   "datum": "2026-11-03",
+   "titel": "Slider zu Video 8 · Leitung richtig dimensionieren"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "07:00",
+     "format": "Short",
+     "bild": "video08/shorts_neu2/short08-c_fuenf-schritte_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video08/shorts_neu2/short08-c_fuenf-schritte.mp4",
+     "text": "Leitung dimensionieren in 5 Schritten #shorts\n\nSo gehst du auf der Baustelle vor: Strom berechnen, Sicherung wählen, Querschnitt aus der Tabelle, Spannungsfall prüfen, nach dem Einbau messen.\n\nBeispiel: Heizlüfter 3500 W, 25 m Leitung im Rohr.\n\nDie ganze Erklärung: Video \"Leitung richtig dimensionieren\" auf dem Kanal Watt?!\n\n#elektrotechnik #leitungsquerschnitt #shorts",
+     "mc": 418367777
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "07:00",
+     "format": "Reel",
+     "bild": "video08/shorts_neu2/short08-c_fuenf-schritte_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video08/shorts_neu2/short08-c_fuenf-schritte_instagram.mp4",
+     "text": "Leitung dimensionieren in 5 Schritten:\n\n1. Strom berechnen: 3500 W / 230 V = 15,2 A.\n\n2. Sicherung: nächste Größe darüber, 16 A.\n\n3. Querschnitt aus der Tabelle, mit allen Faktoren: 2,5 mm².\n\n4. Spannungsfall prüfen: 5,4 V, das sind 2,4 %.\n\n5. Nach dem Einbau messen.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #leitungsquerschnitt #elektroinstallateur #azubi #wattkanal",
+     "mc": 418367798
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "07:00",
+     "format": "Video",
+     "bild": "video08/shorts_neu2/short08-c_fuenf-schritte_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video08/shorts_neu2/short08-c_fuenf-schritte_tiktok.mp4",
+     "text": "Leitung dimensionieren in 5 Schritten:\n\n1. Strom berechnen: 3500 W / 230 V = 15,2 A.\n\n2. Sicherung: nächste Größe darüber, 16 A.\n\n3. Querschnitt aus der Tabelle, mit allen Faktoren: 2,5 mm².\n\n4. Spannungsfall prüfen: 5,4 V, das sind 2,4 %.\n\n5. Nach dem Einbau messen.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #leitungsquerschnitt #elektroinstallateur #azubi #wattkanal",
+     "mc": 418367815
+    }
+   ],
+   "datum": "2026-11-06",
+   "titel": "Short 8C · Leitung dimensionieren in 5 Schritten"
+  },
+  {
+   "art": "lang",
+   "youtube": [
+    {
+     "zeit": "08:00",
+     "format": "Langvideo",
+     "bild": "extra02_lichtbogen/extra02_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "video": [],
+     "notiz": "Titel: Lichtbogen im Schaltschrank: Warum ein Funke zum Feuerball wird | Watt?!",
+     "text": "Ziehst du den Stecker, während der Staubsauger läuft, knistert manchmal ein winziger Funke.\n\nIm Schaltschrank kann genau so ein Funke zum Feuerball werden, heißer als die Oberfläche der Sonne.\n\nIn diesem Video siehst du, was ein Lichtbogen ist, wie er im Schaltschrank zündet und was in den ersten Millisekunden passiert.\n\nDazu ein Ausflug in die Physik: Was Plasma ist, wie Stoßionisation aus einem Elektron eine Lawine macht und warum ein Lichtbogen sich selbst am Leben hält.\n\nDazu die drei Schutzebenen: spannungsfrei arbeiten, schnell abschalten und die richtige Schutzausrüstung.\n\nPasst zu: Elektroniker/in (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Arbeitssicherheit in Ausbildung und Studium\n\nKapitel\n0:00 Funke am Stecker, Feuerball im Schaltschrank\n0:17 Worum es geht\n0:27 Was ist ein Lichtbogen?\n0:57 Was ist Plasma? Atome und Luft als Isolator\n1:42 Stoßionisation: wie der Funke zündet\n2:44 Warum der Lichtbogen sich selbst nährt\n3:44 Wie er im Schaltschrank zündet\n4:15 Was in Millisekunden passiert\n4:43 Schutz 1: die 5 Sicherheitsregeln\n5:15 Schutz 2: schnell abschalten\n5:57 Schutz 3: Schutzausrüstung\n6:21 Prüfungsfrage und Zusammenfassung\n\nMerke: Ein Lichtbogen ist leitendes Plasma, 10 000 bis 20 000 °C heiß.\n\nGefährlich wird er dort, wo große Kurzschlussströme fließen.\n\nDie 5 Sicherheitsregeln stehen in Deutschland in der DIN VDE 0105-100.\n\nIn der Schweiz gehören sie zu den 5 + 5 lebenswichtigen Regeln der Suva.\n\nPassend dazu: Leitung richtig dimensionieren\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\n#elektrotechnik #lichtbogen #azubi",
+     "mc": 418409524
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "08:30",
+     "format": "Story „Neues Video online“",
+     "bild": "extra02_lichtbogen/story/videoE2_story_instagram.jpg",
+     "bild_art": "Story",
+     "video": "extra02_lichtbogen/story/videoE2_story_instagram.mp4",
+     "mc": 418409580
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "08:30",
+     "format": "Ankündigung als Story",
+     "video": "extra02_lichtbogen/story/videoE2_tiktok_ankuendigung.mp4",
+     "text": "Neues Video: Lichtbogen im Schaltschrank.\n\nWie wird ein Funke zum Feuerball?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)",
+     "mc": 418409593
+    },
+    {
+     "zeit": "18:00",
+     "format": "Ganzes Video",
+     "bild": "extra02_lichtbogen/extra02_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "video": "extra02_lichtbogen/extra02_tiktok_anfang.mp4",
+     "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
+     "text": "Ein Funke am Stecker ist harmlos.\n\nIm Schaltschrank wird genau so ein Funke zum Feuerball, heißer als die Sonnenoberfläche!\n\nDazu: Was ist eigentlich Plasma, und warum nährt sich ein Lichtbogen selbst?\n\nWas dabei in Millisekunden passiert und wie sich Elektriker schützen, mit Prüfungsfrage.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #lichtbogen #elektriker #azubi #wattkanal",
+     "mc": 418409563
+    }
+   ],
+   "titel": "Sondervideo · Lichtbogen im Schaltschrank",
+   "datum": "2026-11-06"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "19:00",
+     "format": "Short",
+     "bild": "extra02_lichtbogen/shorts_neu2/shortE2-a_feuerball_cover.jpg",
+     "bild_art": "Cover",
+     "video": "extra02_lichtbogen/shorts_neu2/shortE2-a_feuerball.mp4",
+     "text": "Vom Funken zum Feuerball: 20 000 °C im Schaltschrank #shorts\n\nDer Funke am Stecker ist harmlos, im Schaltschrank wird daraus ein Feuerball.\n\nGanze Erklärung: Video \"Lichtbogen im Schaltschrank\" auf dem Kanal Watt?!\n\n#elektrotechnik #lichtbogen #shorts",
+     "mc": 418409619
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "19:00",
+     "format": "Reel",
+     "bild": "extra02_lichtbogen/shorts_neu2/shortE2-a_feuerball_cover.jpg",
+     "bild_art": "Cover",
+     "video": "extra02_lichtbogen/shorts_neu2/shortE2-a_feuerball_instagram.mp4",
+     "text": "Ein Funke am Stecker ist harmlos.\n\nIm Schaltschrank wird daraus ein Feuerball, heißer als die Sonnenoberfläche!\n\nEs reicht ein vergessener Schraubenzieher.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #lichtbogen #elektriker #azubi #wattkanal",
+     "mc": 418409638
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "19:00",
+     "format": "Video",
+     "bild": "extra02_lichtbogen/shorts_neu2/shortE2-a_feuerball_cover.jpg",
+     "bild_art": "Cover",
+     "video": "extra02_lichtbogen/shorts_neu2/shortE2-a_feuerball_tiktok.mp4",
+     "text": "Ein Funke am Stecker ist harmlos.\n\nIm Schaltschrank wird daraus ein Feuerball, heißer als die Sonnenoberfläche!\n\nEs reicht ein vergessener Schraubenzieher.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #lichtbogen #elektriker #azubi #wattkanal",
+     "mc": 418409653
+    }
+   ],
+   "titel": "Short E2-a · Vom Funken zum Feuerball",
+   "datum": "2026-11-06"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "20:00",
+     "format": "Short",
+     "bild": "extra02_lichtbogen/shorts_neu2/shortE2-b_pruefungsfrage-sicherheitsregel_cover.jpg",
+     "bild_art": "Cover",
+     "video": "extra02_lichtbogen/shorts_neu2/shortE2-b_pruefungsfrage-sicherheitsregel.mp4",
+     "text": "Prüfungsfrage: Welche Regel kommt nach dem Freischalten? #shorts\n\nDie 5 Sicherheitsregeln: Welche kommt direkt nach dem Freischalten?\n\nDie ganze Erklärung: Video \"Lichtbogen im Schaltschrank\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts",
+     "mc": 418409676
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "20:00",
+     "format": "Reel",
+     "bild": "extra02_lichtbogen/shorts_neu2/shortE2-b_pruefungsfrage-sicherheitsregel_cover.jpg",
+     "bild_art": "Cover",
+     "video": "extra02_lichtbogen/shorts_neu2/shortE2-b_pruefungsfrage-sicherheitsregel_instagram.mp4",
+     "text": "Prüfungsfrage: die 5 Sicherheitsregeln.\n\nWelche kommt direkt nach dem Freischalten?\n\nSchreib deine Antwort in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal",
+     "mc": 418409699
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "20:00",
+     "format": "Video",
+     "bild": "extra02_lichtbogen/shorts_neu2/shortE2-b_pruefungsfrage-sicherheitsregel_cover.jpg",
+     "bild_art": "Cover",
+     "video": "extra02_lichtbogen/shorts_neu2/shortE2-b_pruefungsfrage-sicherheitsregel_tiktok.mp4",
+     "text": "Prüfungsfrage: die 5 Sicherheitsregeln.\n\nWelche kommt direkt nach dem Freischalten?\n\nSchreib deine Antwort in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal",
+     "mc": 418409713
+    }
+   ],
+   "titel": "Short E2-b · Prüfungsfrage Sicherheitsregel",
+   "datum": "2026-11-06"
+  },
+  {
+   "art": "short",
+   "youtube": [],
+   "instagram": [
+    {
+     "zeit": "21:00",
+     "format": "Karussell 11 Folien",
+     "bild": [
+      "extra02_lichtbogen/karussell/k01.jpg",
+      "extra02_lichtbogen/karussell/k02.jpg",
+      "extra02_lichtbogen/karussell/k03.jpg",
+      "extra02_lichtbogen/karussell/k04.jpg",
+      "extra02_lichtbogen/karussell/k05.jpg",
+      "extra02_lichtbogen/karussell/k06.jpg",
+      "extra02_lichtbogen/karussell/k07.jpg",
+      "extra02_lichtbogen/karussell/k08.jpg",
+      "extra02_lichtbogen/karussell/k09.jpg",
+      "extra02_lichtbogen/karussell/k10.jpg",
+      "extra02_lichtbogen/karussell/k11.jpg"
+     ],
+     "bild_art": "Folien",
+     "text": "Wie wird aus einem kleinen Funken ein Feuerball?\n\nIn 11 Folien: was ein Lichtbogen ist, was in Millisekunden passiert und die drei Schutzebenen.\n\nDazu eine Prüfungsfrage, die Lösung steht auf Folie 10.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #lichtbogen #elektriker #azubi #wattkanal",
+     "mc": 418409731
+    }
+   ],
+   "tiktok": [],
+   "notiz": "Nur auf Instagram.",
+   "titel": "Slider zum Sondervideo · Lichtbogen",
+   "datum": "2026-11-06"
+  },
+  {
+   "art": "lang",
+   "youtube": [
+    {
+     "zeit": "08:00",
+     "format": "Langvideo",
+     "bild": "video09/video09_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "video": [],
+     "notiz": "Titel: Föhn fällt in die Badewanne: Woher weiß der FI das? Knoten und Masche | Watt?!",
+     "text": "Ein Föhn fällt in die volle Badewanne, und klack: Der FI-Schalter hat abgeschaltet.\n\nDabei misst an der Wanne gar nichts.\n\nWoher weiß er also, dass Strom ins Wasser fließt?\n\nIn diesem Video lernst du die beiden Regeln von Kirchhoff: die Knotenregel und die Maschenregel.\n\nUnd am Ende weißt du, wann dich auch der FI nicht retten kann.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 2 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Föhn in der Badewanne: Woher weiß der FI das?\n0:16 Worum es geht, und was ein FI-Schalter ist (RCD)\n0:49 Knotenregel\n1:40 Das Bad als großer Knoten: so misst der FI\n2:59 Maschenregel\n3:55 Die Masche im Bad\n4:32 Prüfungsaufgabe\n5:15 Typischer Fehler, wann der FI nicht hilft, Zusammenfassung\n\nMerke: In jeden Knoten fließt genauso viel Strom hinein wie heraus (ΣI = 0).\n\nIn jeder Masche ist die Summe aller Spannungen null (ΣU = 0), mit Umlaufrichtung und Vorzeichen.\n\nDer FI-Schalter prüft nur, ob der ganze Strom zurückkommt.\n\n30 mA ist seine Auslöseschwelle: bis 15 mA darf er nicht abschalten, ab 30 mA muss er, spätestens nach 0,3 s.\n\nEr schützt nicht, wenn der Strom nur zwischen Außenleiter und Neutralleiter fließt.\n\nVorheriges Video: Leitung richtig dimensionieren\n\nHinweis: Elektrogeräte weg von der Badewanne. Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\n#elektrotechnik #kirchhoff #azubi",
+     "mc": 422440768
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "08:30",
+     "format": "Story „Neues Video online“",
+     "bild": "video09/story/video09_story_instagram.jpg",
+     "bild_art": "Story",
+     "video": "video09/story/video09_story_instagram.mp4",
+     "mc": 422440907
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "08:30",
+     "format": "Ankündigung als Story",
+     "video": "video09/story/video09_tiktok_ankuendigung.mp4",
+     "text": "Neues Video: Knoten und Masche.\n\nWoher weiß der FI-Schalter, dass Strom ins Wasser fließt?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)",
+     "mc": 422440929,
+     "zeigen": true,
+     "notiz": "TikTok-Story zum Selbstposten: Video speichern, in TikTok als Story hochladen, Text kopieren."
+    },
+    {
+     "zeit": "18:00",
+     "format": "Ganzes Video",
+     "bild": "video09/video09_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "video": "video09/video09_tiktok_anfang.mp4",
+     "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
+     "text": "Ein Föhn fällt in die Badewanne, und klack, das Licht ist aus.\n\nDer FI misst weder das Wasser noch dich!\n\nWoher weiß er es trotzdem?\n\nKnoten und Masche, mit Prüfungsaufgabe zum Mitrechnen.\n\nZweimal pro Woche ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #fischalter #elektroniker #azubi #wattkanal",
+     "mc": 422440886
+    }
+   ],
+   "datum": "2026-11-10",
+   "titel": "Video 9 · Knoten und Masche"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "19:00",
+     "format": "Short",
+     "bild": "video09/shorts_neu2/short09-a_foehn_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video09/shorts_neu2/short09-a_foehn.mp4",
+     "text": "Föhn in der Wanne: Woher weiß der FI das? #shorts\n\nEin Föhn fällt in die Badewanne, und der Strom ist sofort weg.\n\nDabei misst der FI-Schalter weder das Wasser noch dich.\n\nGanze Erklärung: Video \"Knoten und Masche\" auf dem Kanal Watt?!\n\n#elektrotechnik #fischalter #shorts",
+     "mc": 422441528
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "19:00",
+     "format": "Reel",
+     "bild": "video09/shorts_neu2/short09-a_foehn_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video09/shorts_neu2/short09-a_foehn_instagram.mp4",
+     "text": "Ein Föhn fällt in die Badewanne, und der Strom ist sofort weg.\n\nDer FI misst weder das Wasser noch dich.\n\nEr zählt nur nach, ob der ganze Strom zurückkommt.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #fischalter #elektroniker #azubi #wattkanal",
+     "mc": 422441578
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "19:00",
+     "format": "Video",
+     "bild": "video09/shorts_neu2/short09-a_foehn_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video09/shorts_neu2/short09-a_foehn_tiktok.mp4",
+     "text": "Ein Föhn fällt in die Badewanne, und der Strom ist sofort weg.\n\nDer FI misst weder das Wasser noch dich.\n\nEr zählt nur nach, ob der ganze Strom zurückkommt.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #fischalter #elektroniker #azubi #wattkanal",
+     "mc": 422441625
+    }
+   ],
+   "datum": "2026-11-10",
+   "titel": "Short 9A · Föhn im Wasser"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "20:00",
+     "format": "Short",
+     "bild": "video09/shorts_neu2/short09-b_pruefungsfrage-knoten_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video09/shorts_neu2/short09-b_pruefungsfrage-knoten.mp4",
+     "text": "Prüfungsfrage: Wie groß ist der dritte Strom? #shorts\n\nIn einen Knoten fließen 5 A hinein, heraus fließen 2 A und 1,2 A.\n\nWie groß ist der dritte Strom?\n\nDie ganze Erklärung: Video \"Knoten und Masche\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts",
+     "mc": 422441661
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "20:00",
+     "format": "Reel",
+     "bild": "video09/shorts_neu2/short09-b_pruefungsfrage-knoten_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video09/shorts_neu2/short09-b_pruefungsfrage-knoten_instagram.mp4",
+     "text": "Prüfungsfrage: In einen Knoten fließen 5 A hinein.\n\nHeraus fließen 2 A und 1,2 A.\n\nWie groß ist der dritte Strom?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal",
+     "mc": 422441699
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "20:00",
+     "format": "Video",
+     "bild": "video09/shorts_neu2/short09-b_pruefungsfrage-knoten_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video09/shorts_neu2/short09-b_pruefungsfrage-knoten_tiktok.mp4",
+     "text": "Prüfungsfrage: In einen Knoten fließen 5 A hinein.\n\nHeraus fließen 2 A und 1,2 A.\n\nWie groß ist der dritte Strom?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal",
+     "mc": 422441733
+    }
+   ],
+   "datum": "2026-11-10",
+   "titel": "Short 9B · Prüfungsfrage Knoten"
+  },
+  {
+   "art": "short",
+   "youtube": [],
+   "instagram": [
+    {
+     "zeit": "21:00",
+     "format": "Karussell 10 Folien",
+     "bild": [
+      "video09/karussell/k01.jpg",
+      "video09/karussell/k02.jpg",
+      "video09/karussell/k03.jpg",
+      "video09/karussell/k04.jpg",
+      "video09/karussell/k05.jpg",
+      "video09/karussell/k06.jpg",
+      "video09/karussell/k07.jpg",
+      "video09/karussell/k08.jpg",
+      "video09/karussell/k09.jpg",
+      "video09/karussell/k10.jpg"
+     ],
+     "bild_art": "Folien",
+     "text": "5 A hinein, 2 A und 1,2 A heraus: Wie viel fließt im dritten Draht?\n\nIn 10 Folien: Knotenregel, warum der FI-Schalter den Föhn in der Wanne bemerkt, Maschenregel und wann der FI dich nicht rettet.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 7.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #kirchhoff #elektroniker #azubi #wattkanal",
+     "mc": 422441788
+    }
+   ],
+   "tiktok": [],
+   "notiz": "Nur auf Instagram.",
+   "datum": "2026-11-10",
+   "titel": "Slider zu Video 9 · Knoten und Masche"
+  },
+  {
+   "art": "lang",
+   "youtube": [
+    {
+     "zeit": "08:00",
+     "format": "Langvideo",
+     "bild": "video10/video10_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "video": [
+      "video10/teile/video10_teil0.mp4",
+      "video10/teile/video10_teil1.mp4",
+      "video10/teile/video10_teil2.mp4",
+      "video10/teile/video10_teil3.mp4",
+      "video10/teile/video10_teil4.mp4",
+      "video10/teile/video10_teil5.mp4"
+     ],
+     "notiz": "Titel: Woher weiß die Tanknadel, wie viel Benzin noch drin ist? Spannungsteiler | Watt?!",
+     "text": "Die Tanknadel kriecht Richtung Reserve.\n\nDabei zählt im Tank niemand die Liter, da schwimmt nur ein Stück Kunststoff.\n\nWoher kennt die Nadel trotzdem den Füllstand?\n\nIn diesem Video lernst du den Spannungsteiler: zwei Widerstände in Reihe, die Formel, das Potentiometer und den typischen Fehler mit einer Last.\n\nUnd am Ende weißt du, warum die Nadel ruhig bleibt, obwohl das Benzin in jeder Kurve schwappt.\n\nPasst zu: Elektroniker/in Lernfeld 1 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Woher weiß die Tanknadel, wie viel Benzin drin ist?\n0:14 Worum es geht\n0:25 Zwei Widerstände teilen die Spannung\n1:24 Die Formel für den Spannungsteiler\n2:11 Das Potentiometer\n2:51 So misst der Tankgeber\n3:43 Prüfungsaufgabe\n4:30 Typischer Fehler, warum die Nadel ruhig bleibt, Zusammenfassung\n\nMerke: Zwei Widerstände in Reihe teilen die Spannung im Verhältnis ihrer Widerstände: U₂ = U · R₂ / (R₁ + R₂).\n\nEin Potentiometer ist ein verstellbarer Spannungsteiler: Der Schleifer teilt die Widerstandsbahn in zwei Teile.\n\nHängst du an die Teilspannung eine Last, sinkt sie. Der Teiler hält seine Spannung nur, solange kaum Strom abgezweigt wird.\n\nVorheriges Video: Knoten und Masche\n\nNächstes Video: Leistung und Stromrechnung (ab 17.11.)\n\nHinweis: Arbeiten an elektrischen Anlagen und am Kraftstoffsystem nur durch Fachleute.\n\n#elektrotechnik #spannungsteiler #azubi",
+     "mc": 422452369
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "08:30",
+     "format": "Story „Neues Video online“",
+     "bild": "video10/story/video10_story_instagram.jpg",
+     "bild_art": "Story",
+     "video": "video10/story/video10_story_instagram.mp4",
+     "mc": 422452455
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "08:30",
+     "format": "Ankündigung als Story",
+     "video": "video10/story/video10_tiktok_ankuendigung.mp4",
+     "text": "Neues Video: der Spannungsteiler.\n\nWoher weiß die Tanknadel, wie viel Benzin noch drin ist?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)",
+     "mc": 422452484
+    },
+    {
+     "zeit": "18:00",
+     "format": "Ganzes Video",
+     "bild": "video10/video10_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "video": "video10/video10_tiktok_anfang.mp4",
+     "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
+     "text": "Die Tanknadel kriecht Richtung Reserve.\n\nDabei zählt im Tank niemand die Liter!\n\nDa schwimmt nur ein Stück Kunststoff auf dem Benzin.\n\nWoher kennt die Nadel trotzdem den Füllstand?\n\nDer Spannungsteiler, mit Prüfungsaufgabe zum Mitrechnen.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #spannungsteiler #elektroniker #azubi #wattkanal",
+     "mc": 422452437
+    }
+   ],
+   "datum": "2026-11-13",
+   "titel": "Video 10 · Der Spannungsteiler"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "19:00",
+     "format": "Short",
+     "bild": "video10/shorts_neu2/short10-a_tankanzeige_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video10/shorts_neu2/short10-a_tankanzeige.mp4",
+     "text": "Wer zählt im Tank das Benzin? #shorts\n\nIm Tank zählt niemand die Liter, da schwimmt nur ein Stück Kunststoff.\n\nTrotzdem weiß die Tanknadel ziemlich genau, wie voll der Tank ist.\n\nGanze Erklärung: Video \"Der Spannungsteiler\" auf dem Kanal Watt?!\n\n#elektrotechnik #spannungsteiler #shorts",
+     "mc": 422452506
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "19:00",
+     "format": "Reel",
+     "bild": "video10/shorts_neu2/short10-a_tankanzeige_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video10/shorts_neu2/short10-a_tankanzeige_instagram.mp4",
+     "text": "Im Tank zählt niemand die Liter.\n\nDa schwimmt nur ein Stück Kunststoff auf dem Benzin.\n\nDer Schwimmer schiebt einen Schleifer über einen Widerstand, und die Elektronik misst nur eine Spannung.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #spannungsteiler #elektroniker #azubi #wattkanal",
+     "mc": 422452535
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "19:00",
+     "format": "Video",
+     "bild": "video10/shorts_neu2/short10-a_tankanzeige_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video10/shorts_neu2/short10-a_tankanzeige_tiktok.mp4",
+     "text": "Im Tank zählt niemand die Liter.\n\nDa schwimmt nur ein Stück Kunststoff auf dem Benzin.\n\nDer Schwimmer schiebt einen Schleifer über einen Widerstand, und die Elektronik misst nur eine Spannung.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #spannungsteiler #elektroniker #azubi #wattkanal",
+     "mc": 422452556
+    }
+   ],
+   "datum": "2026-11-13",
+   "titel": "Short 10A · Tankanzeige"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "20:00",
+     "format": "Short",
+     "bild": "video10/shorts_neu2/short10-b_pruefungsfrage-spannungsteiler_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video10/shorts_neu2/short10-b_pruefungsfrage-spannungsteiler.mp4",
+     "text": "Prüfungsfrage: Welche Spannung liegt am größeren Widerstand? #shorts\n\n9 V liegen an zwei Widerständen in Reihe, 1 kΩ und 2 kΩ.\n\nWelche Spannung liegt am größeren Widerstand?\n\nDie ganze Erklärung: Video \"Der Spannungsteiler\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts",
+     "mc": 422452578
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "20:00",
+     "format": "Reel",
+     "bild": "video10/shorts_neu2/short10-b_pruefungsfrage-spannungsteiler_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video10/shorts_neu2/short10-b_pruefungsfrage-spannungsteiler_instagram.mp4",
+     "text": "Prüfungsfrage: 9 V liegen an 1 kΩ und 2 kΩ in Reihe.\n\nWelche Spannung liegt am größeren Widerstand?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal",
+     "mc": 422452599
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "20:00",
+     "format": "Video",
+     "bild": "video10/shorts_neu2/short10-b_pruefungsfrage-spannungsteiler_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video10/shorts_neu2/short10-b_pruefungsfrage-spannungsteiler_tiktok.mp4",
+     "text": "Prüfungsfrage: 9 V liegen an 1 kΩ und 2 kΩ in Reihe.\n\nWelche Spannung liegt am größeren Widerstand?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal",
+     "mc": 422452626
+    }
+   ],
+   "datum": "2026-11-13",
+   "titel": "Short 10B · Prüfungsfrage Spannungsteiler"
+  },
+  {
+   "art": "short",
+   "youtube": [],
+   "instagram": [
+    {
+     "zeit": "21:00",
+     "format": "Karussell 10 Folien",
+     "bild": [
+      "video10/karussell/k01.jpg",
+      "video10/karussell/k02.jpg",
+      "video10/karussell/k03.jpg",
+      "video10/karussell/k04.jpg",
+      "video10/karussell/k05.jpg",
+      "video10/karussell/k06.jpg",
+      "video10/karussell/k07.jpg",
+      "video10/karussell/k08.jpg",
+      "video10/karussell/k09.jpg",
+      "video10/karussell/k10.jpg"
+     ],
+     "bild_art": "Folien",
+     "text": "24 V an 1 kΩ und 3 kΩ in Reihe: Wie viel Spannung bekommt der größere Widerstand?\n\nIn 10 Folien: wie die Tankanzeige misst, die Spannung als Rampe, die Formel, das Poti und der typische Fehler mit einer Last.\n\nDie Lösung der Aufgabe steht auf Folie 5.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #spannungsteiler #elektroniker #azubi #wattkanal",
+     "mc": 422452660
+    }
+   ],
+   "tiktok": [],
+   "notiz": "Nur auf Instagram.",
+   "datum": "2026-11-13",
+   "titel": "Slider zu Video 10 · Der Spannungsteiler"
+  },
+  {
+   "art": "lang",
+   "youtube": [
+    {
+     "zeit": "08:00",
+     "format": "Langvideo",
+     "status": "offen",
+     "bild": "video11/video11_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "video": [
+      "video11/teile/video11_teil0.mp4",
+      "video11/teile/video11_teil1.mp4",
+      "video11/teile/video11_teil2.mp4",
+      "video11/teile/video11_teil3.mp4",
+      "video11/teile/video11_teil4.mp4",
+      "video11/teile/video11_teil5.mp4",
+      "video11/teile/video11_teil6.mp4",
+      "video11/teile/video11_teil7.mp4",
+      "video11/teile/video11_teil8.mp4"
+     ],
+     "notiz": "Titel: 1 Jahr Handy laden oder 2 Runden Trockner: Was braucht mehr Strom? Leistung und Energie | Watt?!",
+     "text": "Ein ganzes Jahr lang lädst du jeden Tag dein Handy.\n\nDer alte Wäschetrockner daneben läuft nur zwei Runden und braucht trotzdem mehr Strom.\n\nWie kann das sein?\n\nIn diesem Video lernst du den Unterschied zwischen Leistung und Energie: P = U · I und W = P · t.\n\nUnd am Ende weißt du, was ein ganzes Jahr Handy laden wirklich kostet, in Franken und in Euro.\n\nPasst zu: Elektroniker/in Lernfeld 1 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Handy gegen Wäschetrockner: Wer braucht mehr Strom?\n0:12 Worum es geht\n0:23 Leistung: P = U · I\n1:23 Energie: W = P · t und die Kilowattstunde\n2:14 Handy gegen Trockner nachgerechnet\n3:24 Die Stromrechnung\n4:11 Prüfungsaufgabe: Föhn\n5:04 Typischer Fehler, Auflösung, Zusammenfassung\n\nMerke: Leistung in Watt ist das Tempo (P = U · I).\n\nEnergie in Kilowattstunden ist die Strecke (W = P · t), und die Rechnung ist Kilowattstunden mal Preis.\n\nDie Zahlen: Handyakku etwa 15 Wh, mit Ladeverlusten rund 20 Wh pro Ladung, also 7,3 kWh im Jahr.\n\nKondenstrockner ohne Wärmepumpe (8 kg, Datenblatt): rund 4,7 kWh pro volle Trommel.\n\nStrompreise 2026: Schweiz im Median 27,7 Rp./kWh (ElCom, typischer Haushalt), Deutschland im Schnitt rund 37 ct/kWh (BDEW).\n\nDein eigener Preis hängt von Wohnort, Anbieter und Grundgebühr ab.\n\nVorheriges Video: Der Spannungsteiler (Tankanzeige)\n\nNächstes Video: Die Stromdichte, ab 20.11.\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\n#elektrotechnik #stromrechnung #azubi"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "08:30",
+     "format": "Story „Neues Video online“",
+     "status": "offen",
+     "bild": "video11/story/video11_story_instagram.jpg",
+     "bild_art": "Story",
+     "video": "video11/story/video11_story_instagram.mp4"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "08:30",
+     "format": "Ankündigung als Story",
+     "status": "offen",
+     "video": "video11/story/video11_tiktok_ankuendigung.mp4",
+     "text": "Neues Video: Leistung, Energie und Stromrechnung.\n\nWarum braucht der alte Trockner in zwei Runden mehr Strom als dein Handy im ganzen Jahr?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)"
+    },
+    {
+     "zeit": "18:00",
+     "format": "Ganzes Video",
+     "status": "offen",
+     "bild": "video11/video11_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "video": "video11/video11_tiktok_anfang.mp4",
+     "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
+     "text": "Ein ganzes Jahr Handy laden braucht weniger Strom als zwei Runden im alten Trockner.\n\nKlingt verrückt, stimmt aber!\n\nDer Trick: Watt ist das Tempo, die Kilowattstunde ist die Strecke.\n\nLeistung, Energie und Stromrechnung, mit Prüfungsaufgabe zum Mitrechnen.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #stromrechnung #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-11-17",
+   "titel": "Video 11 · Leistung und Stromrechnung",
+   "pruefen": "video11"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "19:00",
+     "format": "Short",
+     "status": "offen",
+     "bild": "video11/shorts_neu2/short11-a_handy-trockner_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video11/shorts_neu2/short11-a_handy-trockner.mp4",
+     "text": "2 Runden Trockner, mehr Strom als 1 Jahr Handy? #shorts\n\nZwei Runden im alten Wäschetrockner brauchen mehr Strom als ein ganzes Jahr Handy laden.\n\nDer Trick steckt im Unterschied zwischen Watt und Kilowattstunde.\n\nGanze Erklärung: Video \"Leistung, Energie und Stromrechnung\" auf dem Kanal Watt?!\n\n#elektrotechnik #stromrechnung #shorts"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "19:00",
+     "format": "Reel",
+     "status": "offen",
+     "bild": "video11/shorts_neu2/short11-a_handy-trockner_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video11/shorts_neu2/short11-a_handy-trockner_instagram.mp4",
+     "text": "Zwei Runden im alten Wäschetrockner brauchen mehr Strom als ein ganzes Jahr Handy laden.\n\nKlingt verrückt, stimmt aber.\n\nWatt sagt nur, wie schnell ein Gerät Energie umsetzt, erst mit der Zeit wird daraus Verbrauch.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromrechnung #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "19:00",
+     "format": "Video",
+     "status": "offen",
+     "bild": "video11/shorts_neu2/short11-a_handy-trockner_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video11/shorts_neu2/short11-a_handy-trockner_tiktok.mp4",
+     "text": "Zwei Runden im alten Wäschetrockner brauchen mehr Strom als ein ganzes Jahr Handy laden.\n\nKlingt verrückt, stimmt aber.\n\nWatt sagt nur, wie schnell ein Gerät Energie umsetzt, erst mit der Zeit wird daraus Verbrauch.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromrechnung #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-11-17",
+   "titel": "Short 11A · Handy oder Trockner",
+   "pruefen": "video11"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "20:00",
+     "format": "Short",
+     "status": "offen",
+     "bild": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher.mp4",
+     "text": "Prüfungsfrage: Wie viele kWh braucht der Wasserkocher? #shorts\n\nEin Wasserkocher hat 2000 W und läuft 3 Minuten.\n\nWie viele Kilowattstunden braucht er?\n\nDie ganze Erklärung: Video \"Leistung, Energie und Stromrechnung\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "20:00",
+     "format": "Reel",
+     "status": "offen",
+     "bild": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher_instagram.mp4",
+     "text": "Prüfungsfrage: Ein Wasserkocher hat 2000 W und läuft 3 Minuten.\n\nWie viele Kilowattstunden braucht er?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "20:00",
+     "format": "Video",
+     "status": "offen",
+     "bild": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher_tiktok.mp4",
+     "text": "Prüfungsfrage: Ein Wasserkocher hat 2000 W und läuft 3 Minuten.\n\nWie viele Kilowattstunden braucht er?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-11-17",
+   "titel": "Short 11B · Prüfungsfrage Wasserkocher",
+   "pruefen": "video11"
+  },
+  {
+   "art": "short",
+   "youtube": [],
+   "instagram": [
+    {
+     "zeit": "21:00",
+     "format": "Karussell 10 Folien",
+     "status": "offen",
+     "bild": [
+      "video11/karussell/k01.jpg",
+      "video11/karussell/k02.jpg",
+      "video11/karussell/k03.jpg",
+      "video11/karussell/k04.jpg",
+      "video11/karussell/k05.jpg",
+      "video11/karussell/k06.jpg",
+      "video11/karussell/k07.jpg",
+      "video11/karussell/k08.jpg",
+      "video11/karussell/k09.jpg",
+      "video11/karussell/k10.jpg"
+     ],
+     "bild_art": "Folien",
+     "text": "Ein Jahr Handy laden oder zwei Runden im alten Trockner: Was braucht mehr Strom?\n\nIn 10 Folien: Leistung als Tacho, Energie als Kilometerzähler, Schnecke gegen Rennwagen und was das auf der Stromrechnung kostet.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromrechnung #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [],
+   "notiz": "Nur auf Instagram.",
+   "datum": "2026-11-17",
+   "titel": "Slider zu Video 11 · Leistung und Stromrechnung",
+   "pruefen": "video11"
+  },
+  {
+   "art": "lang",
+   "youtube": [
+    {
+     "zeit": "08:00",
+     "format": "Langvideo",
+     "status": "offen",
+     "bild": "video12/video12_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "video": [
+      "video12/teile/video12_teil0.mp4",
+      "video12/teile/video12_teil1.mp4",
+      "video12/teile/video12_teil2.mp4",
+      "video12/teile/video12_teil3.mp4",
+      "video12/teile/video12_teil4.mp4",
+      "video12/teile/video12_teil5.mp4",
+      "video12/teile/video12_teil6.mp4"
+     ],
+     "notiz": "Titel: Warum brennt die Sicherung genau in der Mitte durch? Stromdichte erklärt | Watt?!",
+     "text": "Eine Sicherung aus dem Auto brennt durch, und zwar immer genau in der Mitte.\n\nDabei fließt durch ihren ganzen Metallstreifen überall gleich viel Strom.\n\nWarum wird es dann nur an dieser einen Stelle heiß?\n\nIn diesem Video lernst du die Stromdichte kennen: Strom geteilt durch Querschnittsfläche, J = I / A, meist in A/mm².\n\nUnd am Ende weißt du, warum genau diese Schwachstelle dein Auto vor einem Kabelbrand schützt.\n\nPasst zu: Elektroniker/in Lernfeld 1 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Autosicherung: Warum brennt sie genau in der Mitte durch?\n0:15 Worum es geht\n0:25 Fluss mit Engstelle: Stromdichte J = I / A\n1:29 Warum wird die Engstelle heiß?\n2:27 Dicke Leitungen und geknickte Kabel\n3:46 So ist die Sicherung gebaut\n4:36 Prüfungsaufgabe\n5:37 Typischer Fehler: Durchmesser statt Fläche, Auflösung\n\nMerke: Stromdichte J = I / A. Gleicher Strom auf weniger Fläche heißt höhere Stromdichte.\n\nDie Wärme pro Volumen wächst mit dem Quadrat der Stromdichte. Darum wird eine Engstelle zuerst heiß.\n\nHalber Durchmesser heißt nur ein Viertel der Fläche und damit die vierfache Stromdichte (A = π · d² / 4).\n\nBelastbarkeit aus DIN VDE 0298-4 (Kupfer, PVC, Verlegeart C, 2 belastete Adern, 30 °C): 1,5 mm² → 19,5 A, 16 mm² → 85 A. In der Schweiz gelten die Werte der NIN.\n\nVorheriges Video: Leistung und Stromrechnung\nNächstes Video: Der Innenwiderstand (ab 24.11.)\n\nHinweis: Eine durchgebrannte Sicherung nur durch eine mit gleichem Nennstrom ersetzen, nie überbrücken. Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\n#elektrotechnik #stromdichte #azubi"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "08:30",
+     "format": "Story „Neues Video online“",
+     "status": "offen",
+     "bild": "video12/story/video12_story_instagram.jpg",
+     "bild_art": "Story",
+     "video": "video12/story/video12_story_instagram.mp4"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "08:30",
+     "format": "Ankündigung als Story",
+     "status": "offen",
+     "video": "video12/story/video12_tiktok_ankuendigung.mp4",
+     "text": "Neues Video: Stromdichte.\n\nWarum brennt eine Autosicherung genau in der Mitte durch?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)"
+    },
+    {
+     "zeit": "18:00",
+     "format": "Ganzes Video",
+     "status": "offen",
+     "bild": "video12/video12_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "video": "video12/video12_tiktok_anfang.mp4",
+     "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
+     "text": "Eine Autosicherung brennt immer genau in der Mitte durch.\n\nDabei fließt überall im Streifen gleich viel Strom!\n\nWarum wird es nur dort heiß?\n\nStromdichte erklärt, mit Prüfungsaufgabe zum Mitrechnen.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #stromdichte #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-11-20",
+   "titel": "Video 12 · Stromdichte",
+   "pruefen": "video12"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "19:00",
+     "format": "Short",
+     "status": "offen",
+     "bild": "video12/shorts_neu2/short12-a_sicherung_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video12/shorts_neu2/short12-a_sicherung.mp4",
+     "text": "Warum brennt die Sicherung genau in der Mitte durch? #shorts\n\nDiese Autosicherung ist genau in der Mitte durchgebrannt.\n\nDabei floss durch den ganzen Streifen überall gleich viel Strom.\n\nGanze Erklärung: Video \"Stromdichte\" auf dem Kanal Watt?!\n\n#elektrotechnik #stromdichte #shorts"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "19:00",
+     "format": "Reel",
+     "status": "offen",
+     "bild": "video12/shorts_neu2/short12-a_sicherung_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video12/shorts_neu2/short12-a_sicherung_instagram.mp4",
+     "text": "Diese Autosicherung ist genau in der Mitte durchgebrannt.\n\nDabei floss überall gleich viel Strom.\n\nKein Zufall: Die Stelle ist mit Absicht so gebaut.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromdichte #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "19:00",
+     "format": "Video",
+     "status": "offen",
+     "bild": "video12/shorts_neu2/short12-a_sicherung_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video12/shorts_neu2/short12-a_sicherung_tiktok.mp4",
+     "text": "Diese Autosicherung ist genau in der Mitte durchgebrannt.\n\nDabei floss überall gleich viel Strom.\n\nKein Zufall: Die Stelle ist mit Absicht so gebaut.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromdichte #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-11-20",
+   "titel": "Short 12A · Sicherung",
+   "pruefen": "video12"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "20:00",
+     "format": "Short",
+     "status": "offen",
+     "bild": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte.mp4",
+     "text": "Prüfungsfrage: Halber Durchmesser, wie viel mehr Stromdichte? #shorts\n\nZwei Drähte führen den gleichen Strom, der zweite hat nur den halben Durchmesser.\n\nIst seine Stromdichte doppelt, viermal oder achtmal so groß?\n\nDie ganze Erklärung: Video \"Stromdichte\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "20:00",
+     "format": "Reel",
+     "status": "offen",
+     "bild": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte_instagram.mp4",
+     "text": "Prüfungsfrage: Zwei Drähte führen den gleichen Strom.\n\nDer zweite hat nur den halben Durchmesser.\n\nIst seine Stromdichte doppelt, viermal oder achtmal so groß?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "20:00",
+     "format": "Video",
+     "status": "offen",
+     "bild": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte_tiktok.mp4",
+     "text": "Prüfungsfrage: Zwei Drähte führen den gleichen Strom.\n\nDer zweite hat nur den halben Durchmesser.\n\nIst seine Stromdichte doppelt, viermal oder achtmal so groß?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-11-20",
+   "titel": "Short 12B · Prüfungsfrage Stromdichte",
+   "pruefen": "video12"
+  },
+  {
+   "art": "short",
+   "youtube": [],
+   "instagram": [
+    {
+     "zeit": "21:00",
+     "format": "Karussell 10 Folien",
+     "status": "offen",
+     "bild": [
+      "video12/karussell/k01.jpg",
+      "video12/karussell/k02.jpg",
+      "video12/karussell/k03.jpg",
+      "video12/karussell/k04.jpg",
+      "video12/karussell/k05.jpg",
+      "video12/karussell/k06.jpg",
+      "video12/karussell/k07.jpg",
+      "video12/karussell/k08.jpg",
+      "video12/karussell/k09.jpg",
+      "video12/karussell/k10.jpg"
+     ],
+     "bild_art": "Folien",
+     "text": "Überall im Streifen fließt gleich viel Strom: Warum brennt die Autosicherung nur in der Mitte durch?\n\nIn 10 Folien: ein Fluss mit Engstelle, die Stromdichte J = I / A, warum Engstellen heiß werden und wie die Sicherung gebaut ist.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromdichte #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [],
+   "notiz": "Nur auf Instagram.",
+   "datum": "2026-11-20",
+   "titel": "Slider zu Video 12 · Stromdichte",
+   "pruefen": "video12"
+  },
+  {
+   "art": "lang",
+   "youtube": [
+    {
+     "zeit": "08:00",
+     "format": "Langvideo",
+     "status": "offen",
+     "bild": "video13/video13_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "video": [
+      "video13/teile/video13_teil0.mp4",
+      "video13/teile/video13_teil1.mp4",
+      "video13/teile/video13_teil2.mp4",
+      "video13/teile/video13_teil3.mp4",
+      "video13/teile/video13_teil4.mp4",
+      "video13/teile/video13_teil5.mp4",
+      "video13/teile/video13_teil6.mp4",
+      "video13/teile/video13_teil7.mp4"
+     ],
+     "notiz": "Titel: Batterie zeigt 1,3 V und ist trotzdem leer? Der Innenwiderstand erklärt | Watt?!",
+     "text": "Die Fernbedienung ist tot, aber das Messgerät zeigt an der Batterie 1,3 V: fast voll.\n\nWer lügt hier, das Messgerät oder die Fernbedienung?\n\nDie Antwort steckt in einem Widerstand, der in jeder Batterie versteckt ist: dem Innenwiderstand Rᵢ.\n\nIn diesem Video lernst du das Ersatzschaltbild einer Spannungsquelle kennen und die Formel Uₖ = U₀ − I · Rᵢ.\n\nDu siehst, warum beim Starten die Scheinwerfer dunkler werden, was beim Kurzschluss passiert und wie du den Innenwiderstand mit zwei Messungen selbst bestimmst.\n\nPasst zu: Elektroniker/in Lernfeld 1 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Fernbedienung tot, Batterie fast voll?\n0:18 Worum es geht\n0:31 Wasserturm und Ersatzschaltbild: Uₖ = U₀ − I · Rᵢ\n1:36 Messgerät gegen Fernbedienung\n2:51 Auto beim Starten und Rᵢ selbst bestimmen\n4:01 Kurzschluss und Leistungsanpassung\n5:13 Prüfungsaufgabe\n6:09 Typischer Fehler und Auflösung\n\nMerke: Eine leere Batterie hat meist noch fast die volle Leerlaufspannung, aber einen hohen Innenwiderstand.\n\nOhne Strom siehst du U₀, mit Strom bricht die Klemmenspannung um I · Rᵢ ein.\n\nDarum prüfst du eine Batterie immer unter Last.\n\nRᵢ selbst bestimmen: Leerlaufspannung U₀ messen, dann bei bekanntem Strom I die Klemmenspannung Uₖ messen, Rᵢ = (U₀ − Uₖ) / I.\n\nKurzschlussstrom: Iₖ = U₀ / Rᵢ. Bei einer Autobatterie sind das über 2000 A, darum beim Abklemmen immer den Minuspol zuerst.\n\nLeistungsanpassung: Bei Rₐ = Rᵢ gibt die Quelle die größte Leistung ab, der Wirkungsgrad ist dann nur 50 %.\n\nVorheriges Video: Stromdichte\nNächstes Video: Richtig messen (ab 27.11.)\n\nHinweis: Werte im Video sind typische Beispielwerte, echte Batterien weichen ab. Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\n#elektrotechnik #innenwiderstand #azubi"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "08:30",
+     "format": "Story „Neues Video online“",
+     "status": "offen",
+     "bild": "video13/story/video13_story_instagram.jpg",
+     "bild_art": "Story",
+     "video": "video13/story/video13_story_instagram.mp4"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "08:30",
+     "format": "Ankündigung als Story",
+     "status": "offen",
+     "video": "video13/story/video13_tiktok_ankuendigung.mp4",
+     "text": "Neues Video: Innenwiderstand.\n\nBatterie zeigt 1,3 V und die Fernbedienung ist trotzdem tot. Wer lügt?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)"
+    },
+    {
+     "zeit": "18:00",
+     "format": "Ganzes Video",
+     "status": "offen",
+     "bild": "video13/video13_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "video": "video13/video13_tiktok_anfang.mp4",
+     "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
+     "text": "Die Fernbedienung ist tot, aber die Batterie zeigt 1,3 V.\n\nWer lügt: das Messgerät oder die Fernbedienung?\n\nDie Antwort steckt in jeder Batterie: der Innenwiderstand.\n\nMit Auto beim Starten, Kurzschluss und Prüfungsaufgabe zum Mitrechnen.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #innenwiderstand #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-11-24",
+   "titel": "Video 13 · Innenwiderstand",
+   "pruefen": "video13"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "19:00",
+     "format": "Short",
+     "status": "offen",
+     "bild": "video13/shorts_neu2/short13-a_fernbedienung_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video13/shorts_neu2/short13-a_fernbedienung.mp4",
+     "text": "Batterie fast voll, Fernbedienung tot: Wer lügt? #shorts\n\nDie Fernbedienung ist tot, aber das Messgerät zeigt an der Batterie 1,3 V.\n\nWer lügt hier?\n\nGanze Erklärung: Video \"Der Innenwiderstand\" auf dem Kanal Watt?!\n\n#elektrotechnik #innenwiderstand #shorts"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "19:00",
+     "format": "Reel",
+     "status": "offen",
+     "bild": "video13/shorts_neu2/short13-a_fernbedienung_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video13/shorts_neu2/short13-a_fernbedienung_instagram.mp4",
+     "text": "Die Fernbedienung ist tot, aber die Batterie zeigt 1,3 V.\n\nWer lügt: das Messgerät oder die Fernbedienung?\n\nDie Antwort steckt in einem Widerstand, der in jeder Batterie versteckt ist.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #innenwiderstand #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "19:00",
+     "format": "Video",
+     "status": "offen",
+     "bild": "video13/shorts_neu2/short13-a_fernbedienung_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video13/shorts_neu2/short13-a_fernbedienung_tiktok.mp4",
+     "text": "Die Fernbedienung ist tot, aber die Batterie zeigt 1,3 V.\n\nWer lügt: das Messgerät oder die Fernbedienung?\n\nDie Antwort steckt in einem Widerstand, der in jeder Batterie versteckt ist.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #innenwiderstand #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-11-24",
+   "titel": "Short 13A · Fernbedienung tot, Batterie fast voll",
+   "pruefen": "video13"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "20:00",
+     "format": "Short",
+     "status": "offen",
+     "bild": "video13/shorts_neu2/short13-b_pruefungsfrage-innenwiderstand_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video13/shorts_neu2/short13-b_pruefungsfrage-innenwiderstand.mp4",
+     "text": "Prüfungsfrage: Klemmenspannung bei 12 V, 0,5 Ω und 4 A? #shorts\n\nEin Akku hat 12 V Leerlaufspannung und 0,5 Ω Innenwiderstand, es fließen 4 A.\n\nKlemmenspannung: 10, 11 oder 12 V?\n\nDie ganze Erklärung: Video \"Der Innenwiderstand\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "20:00",
+     "format": "Reel",
+     "status": "offen",
+     "bild": "video13/shorts_neu2/short13-b_pruefungsfrage-innenwiderstand_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video13/shorts_neu2/short13-b_pruefungsfrage-innenwiderstand_instagram.mp4",
+     "text": "Prüfungsfrage: Ein Akku hat 12 V Leerlaufspannung und 0,5 Ω Innenwiderstand.\n\nEs fließen 4 A.\n\nWie groß ist die Klemmenspannung: 10, 11 oder 12 V?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "20:00",
+     "format": "Video",
+     "status": "offen",
+     "bild": "video13/shorts_neu2/short13-b_pruefungsfrage-innenwiderstand_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video13/shorts_neu2/short13-b_pruefungsfrage-innenwiderstand_tiktok.mp4",
+     "text": "Prüfungsfrage: Ein Akku hat 12 V Leerlaufspannung und 0,5 Ω Innenwiderstand.\n\nEs fließen 4 A.\n\nWie groß ist die Klemmenspannung: 10, 11 oder 12 V?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-11-24",
+   "titel": "Short 13B · Prüfungsfrage Klemmenspannung",
+   "pruefen": "video13"
+  },
+  {
+   "art": "short",
+   "youtube": [],
+   "instagram": [
+    {
+     "zeit": "21:00",
+     "format": "Karussell 10 Folien",
+     "status": "offen",
+     "bild": [
+      "video13/karussell/k01.jpg",
+      "video13/karussell/k02.jpg",
+      "video13/karussell/k03.jpg",
+      "video13/karussell/k04.jpg",
+      "video13/karussell/k05.jpg",
+      "video13/karussell/k06.jpg",
+      "video13/karussell/k07.jpg",
+      "video13/karussell/k08.jpg",
+      "video13/karussell/k09.jpg",
+      "video13/karussell/k10.jpg"
+     ],
+     "bild_art": "Folien",
+     "text": "Das Messgerät sagt: fast voll. Die Fernbedienung sagt: tot. Wer lügt?\n\nIn 10 Folien: der Wasserturm mit verkalktem Rohr, die Formel Uₖ = U₀ − I · Rᵢ, warum beim Starten die Scheinwerfer dunkler werden und wie du Rᵢ selbst bestimmst.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #innenwiderstand #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [],
+   "notiz": "Nur auf Instagram.",
+   "datum": "2026-11-24",
+   "titel": "Slider zu Video 13 · Innenwiderstand",
+   "pruefen": "video13"
+  },
+  {
+   "art": "lang",
+   "youtube": [
+    {
+     "zeit": "08:00",
+     "format": "Langvideo",
+     "status": "offen",
+     "bild": "video14/video14_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "video": [
+      "video14/teile/video14_teil00.mp4",
+      "video14/teile/video14_teil01.mp4",
+      "video14/teile/video14_teil02.mp4",
+      "video14/teile/video14_teil03.mp4",
+      "video14/teile/video14_teil04.mp4",
+      "video14/teile/video14_teil05.mp4",
+      "video14/teile/video14_teil06.mp4",
+      "video14/teile/video14_teil07.mp4",
+      "video14/teile/video14_teil08.mp4",
+      "video14/teile/video14_teil09.mp4"
+     ],
+     "notiz": "Titel: Messgerät an der Steckdose und es knallt? Spannung, Strom und Widerstand richtig messen | Watt?!",
+     "text": "Du willst nur wissen, ob die Steckdose Spannung hat. Messgerät dran, und es knallt.\n\nDabei war die Steckdose völlig in Ordnung. Was ist da passiert?\n\nIn diesem Video lernst du, wie du Spannung, Strom und Widerstand richtig misst, und was dabei im Messgerät passiert.\n\nDu siehst, warum das Voltmeter hochohmig und das Amperemeter niederohmig ist, wie der Messbereich mit Vorwiderstand und Shunt erweitert wird, und warum eine einzige Messleitung in der falschen Buchse zum Kurzschluss führt.\n\nPasst zu: Elektroniker/in Lernfeld 1 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Messgerät an der Steckdose, es knallt\n0:14 Worum es geht\n0:31 Spannung messen: parallel, 10 MΩ\n1:23 Strom messen: in Reihe, Shunt\n2:14 Das Messgerät verändert die Schaltung, Messbereich\n3:33 Widerstand messen, Durchgang, Stromzange\n4:25 Prüfungsaufgabe: Vorwiderstand\n5:14 Typischer Fehler, Auflösung, Sicherheitsregeln\n\nMerke: Spannung misst du parallel, das Voltmeter ist hochohmig (rund 10 MΩ).\n\nStrom misst du in Reihe, das Amperemeter ist niederohmig (Shunt mit Hundertstel Ohm).\n\nWiderstand misst du nur spannungsfrei und ausgebaut.\n\nMessbereich erweitern: Vorwiderstand in Reihe (Voltmeter), Parallelwiderstand (Amperemeter). Rechenbeispiel: Messwerk 100 µA, Rᵢ = 1 kΩ, Bereich 10 V: Rᵥ = 9,9 V / 100 µA = 99 kΩ.\n\nVor jeder Messung: Drehschalter, Buchsen und Messleitungen prüfen. Spannung immer in der Buchse für Volt, Strom im Netz nur mit der Stromzange, für Steckdose und Verteiler ein Messgerät der Kategorie CAT III.\n\nVorheriges Video: Innenwiderstand\nNächstes Video: Brückenschaltung (ab 1.12.)\n\nHinweis: Werte im Video sind typische Beispielwerte. Messen an Netzspannung nur durch Elektrofachkräfte.\n\n#elektrotechnik #multimeter #azubi"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "08:30",
+     "format": "Story „Neues Video online“",
+     "status": "offen",
+     "bild": "video14/story/video14_story_instagram.jpg",
+     "bild_art": "Story",
+     "video": "video14/story/video14_story_instagram.mp4"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "08:30",
+     "format": "Ankündigung als Story",
+     "status": "offen",
+     "video": "video14/story/video14_tiktok_ankuendigung.mp4",
+     "text": "Neues Video: Richtig messen.\n\nMessgerät an der Steckdose, und es knallt. Dabei war die Steckdose in Ordnung.\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)"
+    },
+    {
+     "zeit": "18:00",
+     "format": "Ganzes Video",
+     "status": "offen",
+     "bild": "video14/video14_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "video": "video14/video14_tiktok_anfang.mp4",
+     "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
+     "text": "Du willst nur die Steckdose messen, und es knallt.\n\nDabei war die Steckdose völlig in Ordnung. Was ist passiert?\n\nDer Fehler steckt in einer einzigen Buchse am Messgerät.\n\nMit Spannung, Strom, Widerstand und Prüfungsaufgabe zum Mitrechnen.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #multimeter #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-11-27",
+   "titel": "Video 14 · Richtig messen",
+   "pruefen": "video14"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "19:00",
+     "format": "Short",
+     "status": "offen",
+     "bild": "video14/shorts_neu2/short14-a_knall_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video14/shorts_neu2/short14-a_knall.mp4",
+     "text": "Messgerät an der Steckdose, und es knallt: Warum? #shorts\n\nDu willst nur wissen, ob die Steckdose Spannung hat. Messgerät dran, und es knallt.\n\nDer Fehler steckt in einer einzigen Buchse.\n\nGanze Erklärung: Video \"Richtig messen\" auf dem Kanal Watt?!\n\n#elektrotechnik #multimeter #shorts"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "19:00",
+     "format": "Reel",
+     "status": "offen",
+     "bild": "video14/shorts_neu2/short14-a_knall_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video14/shorts_neu2/short14-a_knall_instagram.mp4",
+     "text": "Du willst nur die Steckdose messen, und es knallt.\n\nDabei war die Steckdose völlig in Ordnung.\n\nDer Fehler steckt in einer einzigen Buchse am Messgerät. Weißt du, welche?\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #multimeter #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "19:00",
+     "format": "Video",
+     "status": "offen",
+     "bild": "video14/shorts_neu2/short14-a_knall_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video14/shorts_neu2/short14-a_knall_tiktok.mp4",
+     "text": "Du willst nur die Steckdose messen, und es knallt.\n\nDabei war die Steckdose völlig in Ordnung.\n\nDer Fehler steckt in einer einzigen Buchse am Messgerät. Weißt du, welche?\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #multimeter #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-11-27",
+   "titel": "Short 14A · Knall an der Steckdose",
+   "pruefen": "video14"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "20:00",
+     "format": "Short",
+     "status": "offen",
+     "bild": "video14/shorts_neu2/short14-b_pruefungsfrage-vorwiderstand_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video14/shorts_neu2/short14-b_pruefungsfrage-vorwiderstand.mp4",
+     "text": "Prüfungsfrage: Vorwiderstand für 10 V bei 100 µA und 1 kΩ? #shorts\n\nEin Messwerk hat 100 µA Vollausschlag und 1 kΩ Innenwiderstand. Du willst bis 10 V messen.\n\nVorwiderstand: 9,9 kΩ, 99 kΩ oder 999 kΩ?\n\nDie ganze Erklärung: Video \"Richtig messen\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "20:00",
+     "format": "Reel",
+     "status": "offen",
+     "bild": "video14/shorts_neu2/short14-b_pruefungsfrage-vorwiderstand_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video14/shorts_neu2/short14-b_pruefungsfrage-vorwiderstand_instagram.mp4",
+     "text": "Prüfungsfrage: Ein Messwerk hat 100 µA Vollausschlag und 1 kΩ Innenwiderstand.\n\nDu willst damit bis 10 V messen.\n\nWie groß ist der Vorwiderstand: 9,9 kΩ, 99 kΩ oder 999 kΩ?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "20:00",
+     "format": "Video",
+     "status": "offen",
+     "bild": "video14/shorts_neu2/short14-b_pruefungsfrage-vorwiderstand_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video14/shorts_neu2/short14-b_pruefungsfrage-vorwiderstand_tiktok.mp4",
+     "text": "Prüfungsfrage: Ein Messwerk hat 100 µA Vollausschlag und 1 kΩ Innenwiderstand.\n\nDu willst damit bis 10 V messen.\n\nWie groß ist der Vorwiderstand: 9,9 kΩ, 99 kΩ oder 999 kΩ?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-11-27",
+   "titel": "Short 14B · Prüfungsfrage Vorwiderstand",
+   "pruefen": "video14"
+  },
+  {
+   "art": "short",
+   "youtube": [],
+   "instagram": [
+    {
+     "zeit": "21:00",
+     "format": "Karussell 10 Folien",
+     "status": "offen",
+     "bild": [
+      "video14/karussell/k01.jpg",
+      "video14/karussell/k02.jpg",
+      "video14/karussell/k03.jpg",
+      "video14/karussell/k04.jpg",
+      "video14/karussell/k05.jpg",
+      "video14/karussell/k06.jpg",
+      "video14/karussell/k07.jpg",
+      "video14/karussell/k08.jpg",
+      "video14/karussell/k09.jpg",
+      "video14/karussell/k10.jpg"
+     ],
+     "bild_art": "Folien",
+     "text": "Messgerät an der Steckdose, und es knallt. Dabei war die Steckdose in Ordnung. Was ist passiert?\n\nIn 10 Folien: Manometer und Wasseruhr, warum das Voltmeter hochohmig und das Amperemeter niederohmig ist, wie der Messbereich erweitert wird und was in der 10-A-Buchse steckt.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #multimeter #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [],
+   "notiz": "Nur auf Instagram.",
+   "datum": "2026-11-27",
+   "titel": "Slider zu Video 14 · Richtig messen",
+   "pruefen": "video14"
+  },
+  {
+   "art": "lang",
+   "youtube": [
+    {
+     "zeit": "08:00",
+     "format": "Langvideo",
+     "status": "offen",
+     "bild": "video15/video15_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "video": [
+      "video15/teile/video15_teil00.mp4",
+      "video15/teile/video15_teil01.mp4",
+      "video15/teile/video15_teil02.mp4",
+      "video15/teile/video15_teil03.mp4",
+      "video15/teile/video15_teil04.mp4",
+      "video15/teile/video15_teil05.mp4",
+      "video15/teile/video15_teil06.mp4",
+      "video15/teile/video15_teil07.mp4",
+      "video15/teile/video15_teil08.mp4",
+      "video15/teile/video15_teil09.mp4",
+      "video15/teile/video15_teil10.mp4"
+     ],
+     "notiz": "Titel: Warum deine Personenwaage mit Strom wiegt: Brückenschaltung und Dehnmessstreifen erklärt | Watt?!",
+     "text": "Du stellst dich auf die Waage im Bad. Keine Feder, kein Zeiger, nur ein Stück Metall und ein Folienplättchen.\n\nDas Metall biegt sich unter dir nicht einmal einen halben Millimeter. Trotzdem steht da dein Gewicht auf 100 g genau. Wie wiegt die Waage mit Strom?\n\nIn diesem Video lernst du die Brückenschaltung: vier Widerstände, die winzige Änderungen sichtbar machen.\n\nDu siehst, wie ein Dehnmessstreifen funktioniert, warum ein Ohmmeter die Änderung nicht sieht und die Brücke doch, wie du eine Messbrücke abgleichst und mit der Regel \"über Kreuz gleich\" einen unbekannten Widerstand bestimmst.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 4 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Messtechnik (Studium)\n\nKapitel\n0:00 Die Waage im Bad hat keine Feder\n0:21 Worum es geht\n0:38 Dehnmessstreifen: 120 Ω werden 120,2 Ω\n1:22 Vom Spannungsteiler zur Brücke, zwei Wassertürme\n2:34 Abgleich: über Kreuz gleich, Messbrücke Schritt für Schritt\n3:49 Vier Streifen in der Waage, Aufzug, Pt100\n4:58 Prüfungsaufgabe: R₄ und Brückenspannung\n6:05 Typischer Fehler, Auflösung Teppich, Zusammenfassung\n\nMerke: Die Brücke misst den Unterschied zweier Spannungsteiler, nicht die Spannung selbst.\n\nAbgeglichen ist die Brücke bei R₁ · R₄ = R₂ · R₃ (über Kreuz gleich). Dann gilt Rₓ = R₂ · R₃ / R₁.\n\nRechenbeispiel: R₁ = 100 Ω, R₂ = 200 Ω, R₃ = 150 Ω → R₄ = 300 Ω. Wird R₄ um 1 % größer (303 Ω), liegt die Brückenspannung bei 10 V Versorgung bei rund 22 mV.\n\nVier Dehnmessstreifen in der Vollbrücke: zwei gedehnt, zwei gestaucht, Signal mal vier, Temperatur hebt sich auf. Typisch 2 mV/V, bei 5 V also 10 mV bei voller Last.\n\nVorheriges Video: Richtig messen\nNächstes Video: Der Kondensator (ab 4.12.)\n\nHinweis: Werte im Video sind typische Beispielwerte.\n\n#elektrotechnik #brückenschaltung #azubi"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "08:30",
+     "format": "Story „Neues Video online“",
+     "status": "offen",
+     "bild": "video15/story/video15_story_instagram.jpg",
+     "bild_art": "Story",
+     "video": "video15/story/video15_story_instagram.mp4"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "08:30",
+     "format": "Ankündigung als Story",
+     "status": "offen",
+     "video": "video15/story/video15_tiktok_ankuendigung.mp4",
+     "text": "Neues Video: Die Brückenschaltung.\n\nDeine Personenwaage hat keine Feder. Sie wiegt mit Strom, und zwar mit vier Widerständen.\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)"
+    },
+    {
+     "zeit": "18:00",
+     "format": "Ganzes Video",
+     "status": "offen",
+     "bild": "video15/video15_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "video": "video15/video15_tiktok_anfang.mp4",
+     "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
+     "text": "Deine Waage im Bad hat keine Feder. Sie wiegt mit Strom.\n\nDas Metall darin biegt sich nicht einmal einen halben Millimeter, trotzdem stimmt dein Gewicht auf 100 g genau.\n\nDer Trick heißt Brückenschaltung: vier Widerstände, die winzige Änderungen sichtbar machen.\n\nMit Dehnmessstreifen, Abgleich und Prüfungsaufgabe zum Mitrechnen.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #brückenschaltung #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-12-01",
+   "titel": "Video 15 · Brückenschaltung",
+   "pruefen": "video15"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "19:00",
+     "format": "Short",
+     "status": "offen",
+     "bild": "video15/shorts_neu2/short15-a_waage_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video15/shorts_neu2/short15-a_waage.mp4",
+     "text": "Deine Waage hat keine Feder: Sie wiegt mit Strom #shorts\n\nDu stellst dich auf die Waage im Bad. Keine Feder, kein Zeiger, nur ein Stück Metall und ein Folienplättchen.\n\nDie Waage wiegt mit Strom, mit vier Widerständen. Wie?\n\nGanze Erklärung: Video \"Brückenschaltung\" auf dem Kanal Watt?!\n\n#elektrotechnik #brückenschaltung #shorts"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "19:00",
+     "format": "Reel",
+     "status": "offen",
+     "bild": "video15/shorts_neu2/short15-a_waage_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video15/shorts_neu2/short15-a_waage_instagram.mp4",
+     "text": "Deine Waage im Bad hat keine Feder und keinen Zeiger.\n\nDas Metall darin biegt sich nicht einmal einen halben Millimeter, trotzdem stimmt dein Gewicht auf 100 g genau.\n\nSie wiegt mit Strom, mit vier Widerständen. Wie, meinst du?\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #brückenschaltung #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "19:00",
+     "format": "Video",
+     "status": "offen",
+     "bild": "video15/shorts_neu2/short15-a_waage_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video15/shorts_neu2/short15-a_waage_tiktok.mp4",
+     "text": "Deine Waage im Bad hat keine Feder und keinen Zeiger.\n\nDas Metall darin biegt sich nicht einmal einen halben Millimeter, trotzdem stimmt dein Gewicht auf 100 g genau.\n\nSie wiegt mit Strom, mit vier Widerständen. Wie, meinst du?\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #brückenschaltung #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-12-01",
+   "titel": "Short 15A · Waage ohne Feder",
+   "pruefen": "video15"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "20:00",
+     "format": "Short",
+     "status": "offen",
+     "bild": "video15/shorts_neu2/short15-b_pruefungsfrage-bruecke_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video15/shorts_neu2/short15-b_pruefungsfrage-bruecke.mp4",
+     "text": "Prüfungsfrage: Wie groß muss R₄ sein, damit die Brücke abgeglichen ist? #shorts\n\nEine Brückenschaltung: R₁ = 100 Ω, R₂ = 200 Ω, R₃ = 150 Ω.\n\nWie groß muss R₄ sein, damit die Brücke abgeglichen ist: 150, 300 oder 600 Ω?\n\nDie ganze Erklärung: Video \"Brückenschaltung\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "20:00",
+     "format": "Reel",
+     "status": "offen",
+     "bild": "video15/shorts_neu2/short15-b_pruefungsfrage-bruecke_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video15/shorts_neu2/short15-b_pruefungsfrage-bruecke_instagram.mp4",
+     "text": "Prüfungsfrage: Eine Brückenschaltung mit R₁ = 100 Ω, R₂ = 200 Ω und R₃ = 150 Ω.\n\nWie groß muss R₄ sein, damit die Brücke abgeglichen ist: 150, 300 oder 600 Ω?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "20:00",
+     "format": "Video",
+     "status": "offen",
+     "bild": "video15/shorts_neu2/short15-b_pruefungsfrage-bruecke_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video15/shorts_neu2/short15-b_pruefungsfrage-bruecke_tiktok.mp4",
+     "text": "Prüfungsfrage: Eine Brückenschaltung mit R₁ = 100 Ω, R₂ = 200 Ω und R₃ = 150 Ω.\n\nWie groß muss R₄ sein, damit die Brücke abgeglichen ist: 150, 300 oder 600 Ω?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-12-01",
+   "titel": "Short 15B · Prüfungsfrage Brücke",
+   "pruefen": "video15"
+  },
+  {
+   "art": "short",
+   "youtube": [],
+   "instagram": [
+    {
+     "zeit": "21:00",
+     "format": "Karussell 10 Folien",
+     "status": "offen",
+     "bild": [
+      "video15/karussell/k01.jpg",
+      "video15/karussell/k02.jpg",
+      "video15/karussell/k03.jpg",
+      "video15/karussell/k04.jpg",
+      "video15/karussell/k05.jpg",
+      "video15/karussell/k06.jpg",
+      "video15/karussell/k07.jpg",
+      "video15/karussell/k08.jpg",
+      "video15/karussell/k09.jpg",
+      "video15/karussell/k10.jpg"
+     ],
+     "bild_art": "Folien",
+     "text": "Deine Personenwaage hat keine Feder. Sie wiegt mit Strom, und zwar mit vier Widerständen.\n\nIn 10 Folien: Dehnmessstreifen, zwei Wassertürme mit Brückenrohr, warum die Brücke nur den Unterschied zeigt, Abgleich über Kreuz und die Messbrücke Schritt für Schritt.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #brückenschaltung #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [],
+   "notiz": "Nur auf Instagram.",
+   "datum": "2026-12-01",
+   "titel": "Slider zu Video 15 · Brückenschaltung",
+   "pruefen": "video15"
+  },
+  {
+   "art": "lang",
+   "youtube": [
+    {
+     "zeit": "08:00",
+     "format": "Langvideo",
+     "status": "offen",
+     "bild": "video17/video17_thumbnail.png",
+     "bild_art": "Thumbnail",
+     "video": [
+      "video17/teile/video17_teil00.mp4",
+      "video17/teile/video17_teil01.mp4",
+      "video17/teile/video17_teil02.mp4",
+      "video17/teile/video17_teil03.mp4",
+      "video17/teile/video17_teil04.mp4",
+      "video17/teile/video17_teil05.mp4",
+      "video17/teile/video17_teil06.mp4",
+      "video17/teile/video17_teil07.mp4",
+      "video17/teile/video17_teil08.mp4",
+      "video17/teile/video17_teil09.mp4"
+     ],
+     "notiz": "Titel: Lampe flackert in Zeitlupe: Wechselstrom und 50 Hz einfach erklärt | Watt?!",
+     "text": "Du filmst deine Deckenlampe mit dem Handy in Zeitlupe, und auf dem Bildschirm flackert sie: hell, dunkel, hell, dunkel. Du schaust hoch: ruhiges Licht.\n\nKein Dimmer, kein Wackelkontakt. Warum flackert die Lampe?\n\nIn diesem Video lernst du den Wechselstrom: das, was aus jeder Steckdose kommt.\n\nDu siehst, was eine Periode und die Frequenz sind, warum die 230 V in Wahrheit einen Scheitelwert von 325 V haben, woher die 50 Hz kommen, und warum deine Lampe 100-mal pro Sekunde flackert, ohne dass du es siehst.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 5 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Lampe flackert in Zeitlupe\n0:20 Worum es geht\n0:40 Gleichstrom, Wechselstrom, Periode und Frequenz, die Handsäge\n1:41 Scheitelwert 325 V und Effektivwert 230 V\n2:50 Woher die 50 Hz kommen, Verbundnetz, Trafo-Brummen\n3:30 Die Lampe flackert mit 100 Hz, Stroboskop-Effekt auf der Baustelle\n4:45 Prüfungsaufgabe: Scheitelwert, Periode, Nulldurchgänge\n5:28 Typischer Fehler, Auflösung, Zusammenfassung\n\nMerke: Wechselspannung läuft als Sinus. Bei uns 50 Hz, also 20 ms pro Periode. Frequenz f = 1 / T.\n\n230 V ist der Effektivwert: er macht in einer Heizung so viel Wärme wie 230 V Gleichspannung. Der Scheitelwert ist û = U · √2 = 325 V. Das Messgerät zeigt U, die Isolation muss û aushalten.\n\nDie 50 Hz kommen aus dem Generator: 50 Umdrehungen pro Sekunde, 3000 pro Minute, in ganz Europa im selben Takt. Ein Trafo brummt mit 100 Hz.\n\nDie Lampe bekommt 100-mal pro Sekunde kurz keine Leistung. Glühlampen sind träge, billige LED-Lampen flackern sichtbar in der Zeitlupe. An drehenden Maschinen braucht es flackerfreies Licht (Stroboskop-Effekt).\n\nTypischer Fehler: Multimeter auf Gleichspannung zeigt am Netz 0 V. Der Schalter gehört auf V~, und vor dem Anfassen gilt der zweipolige Spannungsprüfer.\n\nVorheriges Video: Kondensator\nNächstes Video: Induktion (ab 11.12.)\n\nHinweis: Werte im Video sind die Standardwerte des europäischen Netzes. Arbeiten an Netzspannung nur durch Elektrofachkräfte.\n\n#elektrotechnik #wechselstrom #azubi"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "08:30",
+     "format": "Story „Neues Video online“",
+     "status": "offen",
+     "bild": "video17/story/video17_story_instagram.jpg",
+     "bild_art": "Story",
+     "video": "video17/story/video17_story_instagram.mp4"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "08:30",
+     "format": "Ankündigung als Story",
+     "status": "offen",
+     "video": "video17/story/video17_tiktok_ankuendigung.mp4",
+     "text": "Neues Video: Der Wechselstrom.\n\nDu filmst deine Deckenlampe in Zeitlupe, und sie flackert. Mit bloßem Auge siehst du nichts. Warum?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)"
+    },
+    {
+     "zeit": "18:00",
+     "format": "Ganzes Video",
+     "status": "offen",
+     "bild": "video17/video17_cover_tiktok_1080x1920.jpg",
+     "bild_art": "Cover 9:16",
+     "video": "video17/video17_tiktok_anfang.mp4",
+     "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
+     "text": "Du filmst deine Deckenlampe mit dem Handy in Zeitlupe, und auf dem Bildschirm flackert sie. Du schaust hoch: ruhiges Licht. Warum?\n\nAus der Steckdose kommt Wechselstrom. Die Spannung wechselt 50-mal pro Sekunde die Richtung, und die Lampe geht 100-mal pro Sekunde durch Null.\n\nWas Periode und Frequenz sind, warum die 230 V in Wahrheit einen Scheitelwert von 325 V haben, und woher die 50 Hz kommen.\n\nMit Prüfungsaufgabe zum Mitrechnen.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #wechselstrom #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-12-08",
+   "titel": "Video 17 · Wechselstrom",
+   "pruefen": "video17"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "19:00",
+     "format": "Short",
+     "status": "offen",
+     "bild": "video17/shorts_neu2/short17-a_zeitlupe_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video17/shorts_neu2/short17-a_zeitlupe.mp4",
+     "text": "Lampe flackert in Zeitlupe: Warum siehst du es nicht? #shorts\n\nDu filmst deine Deckenlampe in Zeitlupe, und auf dem Handy flackert sie. Mit bloßem Auge: ruhiges Licht.\n\nDie Lampe flackert wirklich, 100-mal pro Sekunde. Warum?\n\nGanze Erklärung: Video \"Wechselstrom\" auf dem Kanal Watt?!\n\n#elektrotechnik #wechselstrom #shorts"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "19:00",
+     "format": "Reel",
+     "status": "offen",
+     "bild": "video17/shorts_neu2/short17-a_zeitlupe_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video17/shorts_neu2/short17-a_zeitlupe_instagram.mp4",
+     "text": "Du filmst deine Deckenlampe in Zeitlupe, und auf dem Handy flackert sie: hell, dunkel, hell, dunkel. Du schaust hoch: ruhiges Licht.\n\nDie Lampe flackert wirklich, 100-mal pro Sekunde, und dein Auge merkt nichts.\n\nWeißt du, warum?\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #wechselstrom #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "19:00",
+     "format": "Video",
+     "status": "offen",
+     "bild": "video17/shorts_neu2/short17-a_zeitlupe_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video17/shorts_neu2/short17-a_zeitlupe_tiktok.mp4",
+     "text": "Du filmst deine Deckenlampe in Zeitlupe, und auf dem Handy flackert sie: hell, dunkel, hell, dunkel. Du schaust hoch: ruhiges Licht.\n\nDie Lampe flackert wirklich, 100-mal pro Sekunde, und dein Auge merkt nichts.\n\nWeißt du, warum?\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #wechselstrom #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-12-08",
+   "titel": "Short 17A · Lampe in Zeitlupe",
+   "pruefen": "video17"
+  },
+  {
+   "art": "short",
+   "youtube": [
+    {
+     "zeit": "20:00",
+     "format": "Short",
+     "status": "offen",
+     "bild": "video17/shorts_neu2/short17-b_pruefungsfrage-scheitelwert_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video17/shorts_neu2/short17-b_pruefungsfrage-scheitelwert.mp4",
+     "text": "Prüfungsfrage: Wie groß ist der Scheitelwert der Netzspannung? #shorts\n\nDie Netzspannung hat 230 V Effektivwert.\n\nWie groß ist der Scheitelwert: 230 V, 325 V oder 460 V?\n\nDie ganze Erklärung: Video \"Wechselstrom\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts"
+    }
+   ],
+   "instagram": [
+    {
+     "zeit": "20:00",
+     "format": "Reel",
+     "status": "offen",
+     "bild": "video17/shorts_neu2/short17-b_pruefungsfrage-scheitelwert_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video17/shorts_neu2/short17-b_pruefungsfrage-scheitelwert_instagram.mp4",
+     "text": "Prüfungsfrage: Die Netzspannung hat 230 V Effektivwert.\n\nWie groß ist der Scheitelwert: 230 V, 325 V oder 460 V?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [
+    {
+     "zeit": "20:00",
+     "format": "Video",
+     "status": "offen",
+     "bild": "video17/shorts_neu2/short17-b_pruefungsfrage-scheitelwert_cover.jpg",
+     "bild_art": "Cover",
+     "video": "video17/shorts_neu2/short17-b_pruefungsfrage-scheitelwert_tiktok.mp4",
+     "text": "Prüfungsfrage: Die Netzspannung hat 230 V Effektivwert.\n\nWie groß ist der Scheitelwert: 230 V, 325 V oder 460 V?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+    }
+   ],
+   "datum": "2026-12-08",
+   "titel": "Short 17B · Prüfungsfrage Scheitelwert",
+   "pruefen": "video17"
+  },
+  {
+   "art": "short",
+   "youtube": [],
+   "instagram": [
+    {
+     "zeit": "21:00",
+     "format": "Karussell 10 Folien",
+     "status": "offen",
+     "bild": [
+      "video17/karussell/k01.jpg",
+      "video17/karussell/k02.jpg",
+      "video17/karussell/k03.jpg",
+      "video17/karussell/k04.jpg",
+      "video17/karussell/k05.jpg",
+      "video17/karussell/k06.jpg",
+      "video17/karussell/k07.jpg",
+      "video17/karussell/k08.jpg",
+      "video17/karussell/k09.jpg",
+      "video17/karussell/k10.jpg"
+     ],
+     "bild_art": "Folien",
+     "text": "Deine Deckenlampe flackert 100-mal pro Sekunde, und du siehst es nur in der Zeitlupe. Der Grund ist der Wechselstrom.\n\nIn 10 Folien: die Handsäge als Bild für Wechselstrom, Periode und Frequenz, Scheitelwert 325 V und Effektivwert 230 V, woher die 50 Hz kommen, und warum an drehenden Maschinen flackerfreies Licht Pflicht ist.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #wechselstrom #elektroniker #azubi #wattkanal"
+    }
+   ],
+   "tiktok": [],
+   "notiz": "Nur auf Instagram.",
+   "datum": "2026-12-08",
+   "titel": "Slider zu Video 17 · Wechselstrom",
+   "pruefen": "video17"
+  }
+ ],
+ "selbst_aendern": [
+  {
+   "titel": "Antwort an «Atti» (Short Föhn in der Badewanne)",
+   "mc": null,
+   "netz": "tiktok",
+   "was": "In TikTok den Short «Föhn in der Badewanne» öffnen, beim Kommentar von «Atti» auf Antworten tippen, Text einfügen und senden.",
+   "text": "Guter Punkt! Im Plastikeimer fließt alles von L übers Wasser zu N zurück, da merkt der FI nichts. Hältst du aber einen Metalleimer in der Hand oder liegst in der Wanne, fließt ein Teil über Abfluss oder Körper zur Erde. Genau diese Differenz (ab 30 mA) lässt ihn auslösen, den PE braucht er dafür nicht. ⚡"
+  }
+ ]
+}

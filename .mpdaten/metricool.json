@@ -1,0 +1,1267 @@
+{
+ "_stand": "2026-10-20 20:15 (getScheduledPosts brand 7487409, 18.10.-31.12.); IDs 401388400/401388449/401388971 nach Gesamtcheck 20.10. ~20:20 nachgeführt; Shorts 2A-3B getauscht 20.10. ~20:43 (neue IDs); Ablauf 21.10. umgestellt (Story 17:00, Push 17:15, 2A 20:30, 2B 21:00); Regel „zuerst Shorts+Slider des vorigen Videos“ 20.10. 22:04 umgesetzt; Video 4: Shorts 4A/4B und Slider V4 auf Mi 28.10. 14/15/16 Uhr verschoben 20.10. ~22:05 (neue IDs); Slider V2 (9 Folien) eingeplant 20.10. 22:54, ID 401514525; Short 2A live 21.10. 14:00 (Check 14:40); 21.10.: 2B live, 4 Posts ab 16:00 am Limit gescheitert; 22.10. 00:27 IG/TikTok-Texte mit Absätzen neu (neue IDs); 23.10. 14:10 Video 4 neu eingeplant nach „video 4 ist freigegeben“ (11 neue IDs 404104939–404105895); 23.10. 16:32 V4-Tag 8 h vorverlegt (Ivan), neue IDs 404231351–404231970; 23.10. 22:00 V4 mit V5-Thumbnail im Abspann getauscht (YT 404518363, TT 404518414); 25.10. 20:28 Video 5 eingeplant nach Ivans Freigabe 19:20 (10 IDs 405913136–405913696, 5B TikTok fehlt noch); 25.10. 21:14 5B TikTok 405944462; 26.10. 07:46 Reels 5A/5B mit Cover neu (406275938, 406275958); 27.10. 23:00 Video 6 eingeplant nach Ivans Freigabe 22:56 (11 IDs 408337021–408337963); 28.10. 21:31 Video 7 eingeplant nach Ivans Freigabe 20:15 (11 IDs 409385214–409385534); V8 eingeplant 3.11. 00:14 (414641126-414641360); V8 YT/Story/Push veröffentlicht 3.11. 08:00-08:30; E2 + 8C alle veröffentlicht 6.11. (Check 8.11. 20:40, nichts mehr geplant)",
+ "data": [
+  {
+   "id": 399382900,
+   "zeit": "2026-10-18T22:00",
+   "net": "youtube",
+   "status": "PUBLISHED",
+   "url": "https://www.youtube.com/watch?v=7yY_FApb0vQ",
+   "hinweis": "Thumbnail-Upload fehlgeschlagen",
+   "titel": "Was ist Strom wirklich? Ladung, Strom und Spannung einfach erklärt",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Was ist elektrischer Strom eigentlich? Wir klären Ladung, Stromstärke und Spannung von Grund auf, animiert und mit Prüfungsaufgabe.\n\nPasst zu: Elektroniker/in LF 1 (DE) · Elektrotechnik-Lehre Grundmodul (AT) · Elektroinstallateur/in EFZ 1. Lehrjahr (CH) · Grundlagen der Elektrotechnik I (Studium)\n\nKapitel\n0:00 Warum ist das Licht sofort an?\n0:19 Intro\n0:32 Elektrische Ladung\n1:18 Freie Elektronen im Metall\n1:41 Stromstärke I = Q / t\n2:20 Wie schnell ist Strom?\n3:14 Spannung U = W / Q\n4:02 Stromkreis und Stromrichtung\n4:43 Prüfungsaufgabe\n5:23 Typischer Fehler und Zusammenfassung\n\nNächstes Video: Spannung und Potenzial\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte. Die Stimme in diesem Video ist KI-generiert."
+  },
+  {
+   "id": 399383052,
+   "zeit": "2026-10-18T22:00",
+   "net": "tiktok",
+   "status": "PUBLISHED",
+   "url": "https://www.tiktok.com/@watt.erklaervideos/video/7698100867500723478",
+   "titel": "Was ist Strom wirklich?",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Licht sofort an, aber die Elektronen kriechen langsamer als eine Schnecke. Wie passt das zusammen? Ladung, Strom und Spannung von Grund auf erklärt, mit Prüfungsaufgabe. Die Stimme ist KI-generiert. #elektrotechnik #elektroniker #elektroinstallateur #azubi #ausbildung #berufsschule #lernen #strom #physik #wattkanal"
+  },
+  {
+   "id": 399383095,
+   "zeit": "2026-10-18T22:05",
+   "net": "instagram",
+   "status": "PUBLISHED",
+   "url": "https://www.instagram.com/p/DepgGVsFf98/",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Was ist Strom wirklich? In 7 Folien: Ladung, Strom und Spannung, die Formel I = Q / t, eine Prüfungsaufgabe mit Lösung und der Denkfehler, den fast jeder macht. Speichern für die Prüfung! Ganzes Video: Link im Profil.\n\n#elektrotechnik #elektroniker #elektroinstallateur #azubi #lehre #gesellenprüfung #berufsschule #elektriker #lernen #wattkanal"
+  },
+  {
+   "id": 400309008,
+   "zeit": "2026-10-19T20:30",
+   "net": "youtube",
+   "status": "PUBLISHED",
+   "url": "https://www.youtube.com/shorts/aUYehNzPQSA",
+   "titel": "Licht sofort an, aber die Elektronen sind langsamer als eine Schnecke?! #shorts",
+   "art": "short",
+   "autoPublish": true,
+   "text": "Wie passt das zusammen? Die ganze Erklärung findest du im Video „Was ist Strom wirklich?“ auf unserem Kanal. Watt?! erklärt jede Woche ein Thema der Elektrotechnik, animiert. #elektrotechnik #elektroniker #ausbildung"
+  },
+  {
+   "id": 400309127,
+   "zeit": "2026-10-19T20:30",
+   "net": "instagram",
+   "status": "PUBLISHED",
+   "url": "https://www.instagram.com/reel/Der6H9JFtpx/",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Licht sofort an, aber die Elektronen sind langsamer als eine Schnecke. Wie passt das zusammen?\n\nDie ganze Erklärung gibt es im Video „Was ist Strom wirklich?“ auf unserem YouTube-Kanal Watt?! (Link im Profil).\n\nFolge @watt.erklaervideos: jede Woche ein Thema der Elektrotechnik, animiert und einfach erklärt.\n\n#elektrotechnik #elektroniker #elektroinstallateur #ausbildung #berufsschule #lehre #strom #physik #lernen #prüfung"
+  },
+  {
+   "id": 400309198,
+   "zeit": "2026-10-19T20:30",
+   "net": "tiktok",
+   "status": "PUBLISHED",
+   "url": "https://www.tiktok.com/@watt.erklaervideos/video/7698448641484164374",
+   "titel": "Licht sofort an?!",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Licht sofort an, aber die Elektronen sind langsamer als eine Schnecke?! Wie passt das zusammen? Ganzes Video auf YouTube: Watt?! (Link im Profil). #elektrotechnik #elektroniker #elektroinstallateur #azubi #ausbildung #berufsschule #strom #physik #lernen #wattkanal"
+  },
+  {
+   "id": 400405255,
+   "zeit": "2026-10-19T22:00",
+   "net": "youtube",
+   "status": "PUBLISHED",
+   "url": "https://www.youtube.com/shorts/fCob4jZbYyw",
+   "titel": "Rechne mit: Wie viel Ladung gibt der Akku ab? #shorts",
+   "art": "short",
+   "autoPublish": true,
+   "text": "2 A, 30 Minuten. Hattest du es? Die ganze Erklärung findest du im Video „Was ist Strom wirklich?“ auf unserem Kanal. #elektrotechnik #prüfung #elektroniker"
+  },
+  {
+   "id": 400405394,
+   "zeit": "2026-10-19T22:00",
+   "net": "instagram",
+   "status": "PUBLISHED",
+   "url": "https://www.instagram.com/reel/DesEk4Xisnp/",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Kurz mitrechnen: Ein Akku liefert 2 A, 30 Minuten lang. Wie viel Ladung gibt er ab? Schreib deine Antwort in die Kommentare, bevor die Lösung kommt.\n\nDie ganze Erklärung gibt es im Video „Was ist Strom wirklich?“ auf unserem YouTube-Kanal Watt?! (Link im Profil).\n\nFolge @watt.erklaervideos: jede Woche ein Thema der Elektrotechnik, animiert und einfach erklärt.\n\n#elektrotechnik #prüfung #prüfungsvorbereitung #elektroniker #elektroinstallateur #ausbildung #berufsschule #lehre #ladung #lernen"
+  },
+  {
+   "id": 400405437,
+   "zeit": "2026-10-19T22:00",
+   "net": "tiktok",
+   "status": "PUBLISHED",
+   "url": "https://www.tiktok.com/@watt.erklaervideos/video/7698472086616001814",
+   "titel": "Akku-Frage: Wie viel Ladung?",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Kurz mitrechnen: Ein Akku liefert 30 Minuten lang 2 A. Wie viel Ladung gibt er ab? Schreib deine Lösung in die Kommentare! Ganzes Video auf YouTube: Watt?! (Link im Profil). #elektrotechnik #prüfung #elektroniker #elektroinstallateur #azubi #gesellenprüfung #berufsschule #lernen #wattkanal"
+  },
+  {
+   "id": 400369450,
+   "zeit": "2026-10-20T08:00",
+   "net": "youtube",
+   "status": "PUBLISHED",
+   "url": "https://www.youtube.com/watch?v=cmEjtpy5aN8",
+   "titel": "Warum Vögel auf Stromleitungen überleben: Spannung und Potenzial erklärt",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Auf einer 110.000-Volt-Leitung sitzt ein Vogel, und nichts passiert. Würdest du der gleichen Leitung vom Boden aus auch nur zu nahe kommen, wäre das lebensgefährlich. Warum? In diesem Video lernst du den Unterschied zwischen Potenzial und Spannung: was ein Bezugspunkt ist, warum Spannung immer zwischen zwei Punkten liegt und wie du Potenziale in einer Schaltung liest. Mit Prüfungsaufgabe zum Mitrechnen.\n\nPasst zu: Elektroniker/in Lernfeld 1 (DE) · Elektrotechnik Grundmodul 1. Klasse (AT) · Elektroinstallateur/in EFZ 1. Lehrjahr (CH) · Grundlagen der Elektrotechnik I (Studium)\n\nKapitel\n0:00 Warum überlebt der Vogel?\n0:21 Intro\n0:32 Potenzial und Bezugspunkt\n1:07 Spannung ist eine Differenz\n1:37 Spannung messen\n2:03 Der Vogel auf der Leitung\n2:35 Wann es gefährlich wird\n3:23 Potenziale in der Schaltung\n3:55 Prüfungsaufgabe\n4:26 Typischer Fehler und Zusammenfassung\n\nVorheriges Video: Was ist Strom wirklich?\nNächstes Video: Widerstand und Leiterwerkstoffe\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte. Halte immer Abstand zu Freileitungen."
+  },
+  {
+   "id": 400369492,
+   "zeit": "2026-10-20T08:15",
+   "net": "instagram",
+   "status": "PUBLISHED",
+   "url": "https://www.instagram.com/stories/watt.erklaervideos/4011909696378363332",
+   "art": "STORY",
+   "autoPublish": true,
+   "text": ""
+  },
+  {
+   "id": 400369530,
+   "zeit": "2026-10-20T08:15",
+   "net": "tiktok",
+   "status": "PUBLISHED",
+   "url": "https://www.tiktok.com/@watt.erklaervideos/video/7698629755310132483",
+   "titel": "Neues Video online!",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Neues Video ist online! Warum überlebt der Vogel auf der 110 000-Volt-Leitung? Ganzes Video auf YouTube: Watt?! (Link im Profil). #elektrotechnik #spannung #elektroniker #azubi #berufsschule #lernen #wattkanal"
+  },
+  {
+   "id": 400805940,
+   "zeit": "2026-10-20T09:45",
+   "net": "tiktok",
+   "status": "PUBLISHED",
+   "titel": "Neues Video online!",
+   "art": "video",
+   "autoPublish": false,
+   "text": "Neues Video ist online! Warum überlebt der Vogel auf der 110 000-Volt-Leitung? Ganzes Video auf YouTube: Watt?! (Link im Profil)."
+  },
+  {
+   "id": 400796051,
+   "zeit": "2026-10-20T15:00",
+   "net": "tiktok",
+   "status": "PUBLISHED",
+   "url": "https://www.tiktok.com/@watt.erklaervideos/video/7698735251572411670",
+   "titel": "Warum überlebt der Vogel auf der Leitung?",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Warum überlebt der Vogel auf der 110 000-Volt-Leitung, während dich die gleiche Leitung vom Boden aus töten könnte? Spannung und Potenzial in 5 Minuten erklärt. Jede Woche ein neues Video auf YouTube: Watt?! (Link im Profil). Halte immer Abstand zu Freileitungen. #elektrotechnik #spannung #hochspannung #elektroniker #elektroinstallateur #azubi #berufsschule #physik #lernen #wattkanal"
+  },
+  {
+   "id": 401474791,
+   "zeit": "2026-10-21T14:00",
+   "net": "youtube",
+   "status": "PUBLISHED",
+   "titel": "110 000 Volt, und der Vogel lebt?! #shorts",
+   "art": "short",
+   "autoPublish": true,
+   "text": "Was macht der Vogel richtig? Die ganze Erklärung findest du im Video „Warum Vögel auf Stromleitungen überleben“ auf unserem Kanal. Watt?! erklärt jede Woche ein Thema der Elektrotechnik, animiert. #elektrotechnik #hochspannung #elektroniker",
+   "url": "https://www.youtube.com/shorts/uE29ru_9RYY"
+  },
+  {
+   "id": 401474844,
+   "zeit": "2026-10-21T14:00",
+   "net": "instagram",
+   "status": "PUBLISHED",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "110 000 Volt, und der Vogel sitzt einfach darauf. Was macht er richtig?\n\nDie ganze Erklärung gibt es im Video „Warum Vögel auf Stromleitungen überleben“ auf unserem YouTube-Kanal Watt?! (Link im Profil).\n\nFolge @watt.erklaervideos: jede Woche ein Thema der Elektrotechnik, animiert und einfach erklärt.\n\nHalte immer Abstand zu Freileitungen.\n\n#elektrotechnik #hochspannung #spannung #elektroniker #elektroinstallateur #ausbildung #berufsschule #lehre #physik #lernen",
+   "url": "https://www.instagram.com/reel/DewXXtniFQH/"
+  },
+  {
+   "id": 401474887,
+   "zeit": "2026-10-21T14:00",
+   "net": "tiktok",
+   "status": "PUBLISHED",
+   "titel": "110 000 Volt und der Vogel lebt?!",
+   "art": "video",
+   "autoPublish": true,
+   "text": "110 000 Volt, und der Vogel sitzt einfach darauf?! Was macht er richtig? Ganzes Video auf YouTube: Watt?! (Link im Profil). Halte immer Abstand zu Freileitungen. #elektrotechnik #hochspannung #spannung #elektroniker #elektroinstallateur #azubi #berufsschule #physik #lernen #wattkanal",
+   "url": "https://www.tiktok.com/@watt.erklaervideos/video/7699090711211150614"
+  },
+  {
+   "id": 401474938,
+   "zeit": "2026-10-21T15:00",
+   "net": "youtube",
+   "status": "PUBLISHED",
+   "titel": "Rechne mit: Wie groß ist die Spannung U_CA? #shorts",
+   "art": "short",
+   "autoPublish": true,
+   "text": "Punkt A 12 V, Punkt C 0 V. Hattest du das Minus? Die ganze Erklärung findest du im Video „Warum Vögel auf Stromleitungen überleben“ auf unserem Kanal. #elektrotechnik #prüfung #spannung",
+   "url": "https://www.youtube.com/shorts/h7r1TT3K0oQ"
+  },
+  {
+   "id": 401475023,
+   "zeit": "2026-10-21T15:00",
+   "net": "instagram",
+   "status": "PUBLISHED",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Kurz mitrechnen: Punkt A liegt auf 12 V, Punkt C auf 0 V. Wie groß ist die Spannung U_CA? Achtung, viele vergessen hier das Vorzeichen.\n\nDie ganze Erklärung gibt es im Video „Warum Vögel auf Stromleitungen überleben“ auf unserem YouTube-Kanal Watt?! (Link im Profil).\n\nFolge @watt.erklaervideos: jede Woche ein Thema der Elektrotechnik, animiert und einfach erklärt.\n\n#elektrotechnik #prüfung #prüfungsvorbereitung #spannung #potenzial #elektroniker #elektroinstallateur #ausbildung #berufsschule #lernen",
+   "url": "https://www.instagram.com/reel/DeweMezj2xx/"
+  },
+  {
+   "id": 401475044,
+   "zeit": "2026-10-21T15:00",
+   "net": "tiktok",
+   "status": "PUBLISHED",
+   "titel": "Wie groß ist U_CA?",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Kurz mitrechnen: Punkt A 12 V, Punkt C 0 V. Wie groß ist U_CA? Achtung Vorzeichen! Schreib deine Lösung in die Kommentare. Ganzes Video auf YouTube: Watt?! (Link im Profil). #elektrotechnik #prüfung #spannung #elektroniker #elektroinstallateur #azubi #gesellenprüfung #berufsschule #lernen #wattkanal",
+   "url": "https://www.tiktok.com/@watt.erklaervideos/video/7699106414760922390"
+  },
+  {
+   "id": 402636016,
+   "zeit": "2026-10-21T16:00",
+   "net": "instagram",
+   "status": "PUBLISHED",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Warum überlebt der Vogel auf der 110 000-Volt-Leitung?\n\nIn 9 Folien: Potenzial als Höhe im Haus, Spannung als Höhenunterschied, warum der Vogel sicher ist und wann es gefährlich wird. Dazu eine Prüfungsaufgabe mit Lösung.\n\nSpeicher dir die Folien zum Wiederholen! Ganzes Video: Link im Profil.\n\nHalte immer Abstand zu Freileitungen.\n\n#elektrotechnik #spannung #elektroniker #elektroinstallateur #azubi",
+   "hinweis": "Laut Ivan auf Instagram erschienen (21.10.)."
+  },
+  {
+   "id": 400533920,
+   "zeit": "2026-10-21T17:00",
+   "net": "youtube",
+   "status": "ERROR",
+   "titel": "Leitungswiderstand berechnen: Warum die dünne Leitung heißer wird | Watt?!",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Zwei Kupferleitungen, gleich lang, gleicher Strom. In der dünnen entsteht doppelt so viel Wärme. Warum? Hier lernst du, wovon der Widerstand einer Leitung abhängt, warum eine warme Leitung mehr Widerstand hat, und rechnest eine typische Prüfungsaufgabe mit R = ρ · l / A selbst durch.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 2 (DE) · Elektroinstallateur/in EFZ 1. Lehrjahr (CH) · Elektrotechnik Grundlagen (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Zwei Leitungen, doppelte Wärme\n0:22 Intro\n0:34 Was ist Widerstand?\n1:02 Länge und Querschnitt\n1:44 Material und spezifischer Widerstand\n2:37 Die Formel R = ρ · l / A\n3:12 Temperatur und Widerstand\n4:10 Prüfungsaufgabe: Steckdose an 25 m Leitung\n4:45 Typischer Fehler und Zusammenfassung\n\nWerte für Kupfer: je nach Tabellenbuch ρ = 0,0175 oder 0,0178 Ω·mm²/m (κ = 56 m/(Ω·mm²)), gültig bei 20 °C. Pro Grad mehr steigt der Widerstand von Kupfer um rund 0,4 %. Nimm immer den Wert aus deiner Formelsammlung.\n\nVorheriges Video: Spannung ist eine Potenzialdifferenz (Warum überlebt der Vogel auf der Leitung?)\nNächstes Video: Das ohmsche Gesetz\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.",
+   "hinweis": "Metricool-Monatslimit (Gratis-Plan, 20 Posts) erreicht. Wird nach dem Upgrade neu ausgelöst."
+  },
+  {
+   "id": 401467670,
+   "zeit": "2026-10-21T17:00",
+   "net": "instagram",
+   "status": "ERROR",
+   "art": "STORY",
+   "autoPublish": true,
+   "text": "",
+   "hinweis": "Gescheitert am Gratis-Limit, neu eingeplant Do 22.10. 08:30."
+  },
+  {
+   "id": 401467706,
+   "zeit": "2026-10-21T17:15",
+   "net": "tiktok",
+   "status": "PUBLISHED",
+   "titel": "Neues Video online!",
+   "art": "video",
+   "autoPublish": false,
+   "text": "Neues Video ist online! Warum wird die dünne Leitung heißer? Ganzes Video auf YouTube: Watt?! (Link im Profil). #elektrotechnik #leitungswiderstand #elektroniker #azubi #berufsschule #lernen #wattkanal"
+  },
+  {
+   "id": 402636046,
+   "zeit": "2026-10-21T20:00",
+   "net": "tiktok",
+   "status": "ERROR",
+   "titel": "Warum wird die dünne Leitung heißer?",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Zwei Kupferleitungen, gleicher Strom, und in der dünnen entsteht doppelt so viel Wärme. Warum?\n\nLeitungswiderstand in 5 Minuten erklärt, mit Rechenaufgabe.\n\nJede Woche ein neues Video und die ganze Reihe auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #leitungswiderstand #elektroniker #elektroinstallateur #azubi",
+   "hinweis": "Metricool-Monatslimit (Gratis-Plan, 20 Posts) erreicht. Wird nach dem Upgrade neu ausgelöst."
+  },
+  {
+   "id": 402642666,
+   "zeit": "2026-10-22T08:00",
+   "net": "youtube",
+   "status": "PUBLISHED",
+   "titel": "Leitungswiderstand berechnen: Warum die dünne Leitung heißer wird | Watt?!",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Zwei Kupferleitungen, gleich lang, gleicher Strom. In der dünnen entsteht doppelt so viel Wärme. Warum? Hier lernst du, wovon der Widerstand einer Leitung abhängt, warum eine warme Leitung mehr Widerstand hat, und rechnest eine typische Prüfungsaufgabe mit R = ρ · l / A selbst durch.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 2 (DE) · Elektroinstallateur/in EFZ 1. Lehrjahr (CH) · Elektrotechnik Grundlagen (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Zwei Leitungen, doppelte Wärme\n0:22 Intro\n0:34 Was ist Widerstand?\n1:02 Länge und Querschnitt\n1:44 Material und spezifischer Widerstand\n2:37 Die Formel R = ρ · l / A\n3:12 Temperatur und Widerstand\n4:10 Prüfungsaufgabe: Steckdose an 25 m Leitung\n4:45 Typischer Fehler und Zusammenfassung\n\nWerte für Kupfer: je nach Tabellenbuch ρ = 0,0175 oder 0,0178 Ω·mm²/m (κ = 56 m/(Ω·mm²)), gültig bei 20 °C. Pro Grad mehr steigt der Widerstand von Kupfer um rund 0,4 %. Nimm immer den Wert aus deiner Formelsammlung.\n\nVorheriges Video: Spannung ist eine Potenzialdifferenz (Warum überlebt der Vogel auf der Leitung?)\nNächstes Video: Das ohmsche Gesetz\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.",
+   "url": "https://www.youtube.com/watch?v=AlLTnBj8Mf0"
+  },
+  {
+   "id": 402642706,
+   "zeit": "2026-10-22T08:30",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "STORY",
+   "autoPublish": true,
+   "text": ""
+  },
+  {
+   "id": 402643050,
+   "zeit": "2026-10-22T08:30",
+   "net": "tiktok",
+   "status": "PENDING",
+   "titel": "Neues Video online!",
+   "art": "video",
+   "autoPublish": false,
+   "text": "Neues Video ist online!\n\nWarum wird die dünne Leitung heißer? Das ganze Video findest du jetzt auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #leitungswiderstand #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 402642728,
+   "zeit": "2026-10-22T11:30",
+   "net": "tiktok",
+   "status": "PENDING",
+   "titel": "Warum wird die dünne Leitung heißer?",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Zwei Kupferleitungen, gleicher Strom, und in der dünnen entsteht doppelt so viel Wärme. Warum?\n\nLeitungswiderstand in 5 Minuten erklärt, mit Rechenaufgabe.\n\nJede Woche ein neues Video und die ganze Reihe auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #leitungswiderstand #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 402642782,
+   "zeit": "2026-10-22T19:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "titel": "Gleicher Strom, doppelte Wärme? #shorts",
+   "art": "short",
+   "autoPublish": true,
+   "text": "Die dünne Leitung hat den halben Querschnitt und darin entsteht doppelt so viel Wärme.\n\nDie ganze Erklärung mit Rechnung: Video \"Leitungswiderstand berechnen\" auf dem Kanal Watt?!\n\n#elektrotechnik #leitungswiderstand #azubi"
+  },
+  {
+   "id": 402642838,
+   "zeit": "2026-10-22T19:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Gleicher Strom, aber die dünne Leitung bekommt doppelt so viel Wärme ab.\n\nWarum genau doppelt?\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #leitungswiderstand #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 403147436,
+   "zeit": "2026-10-22T19:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "VIDEO",
+   "autoPublish": true,
+   "text": "Gleicher Strom, aber in der dünnen Leitung entsteht doppelt so viel Wärme.\n\nWarum genau doppelt? Schreib deine Vermutung in die Kommentare.\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #leitungswiderstand #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 403147490,
+   "zeit": "2026-10-22T20:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "titel": "Prüfungsfrage: Leitungswiderstand in 3 Sekunden? #shorts",
+   "art": "short",
+   "autoPublish": true,
+   "text": "25 m Kupferleitung, 1,5 mm², ρ = 0,0178. Wie groß ist der Leitungswiderstand?\n\nDie ganze Rechnung: Video \"Leitungswiderstand berechnen\" auf dem Kanal Watt?!\n\n#elektrotechnik #leitungswiderstand #azubi"
+  },
+  {
+   "id": 403147538,
+   "zeit": "2026-10-22T20:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Prüfungsfrage: 25 m Kupferleitung, 1,5 mm², ρ = 0,0178 Ω·mm²/m.\n\nWie groß ist der Leitungswiderstand? Schreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #leitungswiderstand #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 403148222,
+   "zeit": "2026-10-22T20:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "VIDEO",
+   "autoPublish": true,
+   "text": "Prüfungsfrage: 25 m Kupferleitung, 1,5 mm², ρ = 0,0178 Ω·mm²/m.\n\nWie groß ist der Leitungswiderstand? Schreib deine Lösung in die Kommentare.\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #leitungswiderstand #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 402643022,
+   "zeit": "2026-10-22T21:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Leitungswiderstand in 7 Folien: wovon R abhängt, die Formel R = ρ · l / A, eine Prüfungsaufgabe mit Lösung und der Fehler, den fast jeder einmal macht.\n\nKommt in der Prüfung gern dran, vor allem die Sache mit Hin- und Rückleiter.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #leitungswiderstand #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 404518363,
+   "zeit": "2026-10-24T09:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Du fasst die beiden Pole einer Autobatterie an und spürst nichts, obwohl sie Hunderte Ampere liefern kann.\n\nAm Ende siehst du, warum dieselbe Batterie einen Metalllöffel zum Glühen bringt.\n\nMit dem ohmschen Gesetz U = R · I rechnest du außerdem nach, warum an 25 m Leitung fast 6 Volt verloren gehen, und löst eine typische Prüfungsaufgabe selbst.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 2 (DE) · Elektroinstallateur/in EFZ 1. Lehrjahr (CH) · Elektrotechnik Grundlagen (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Autobatterie: Warum spürst du nichts?\n0:22 Der Versuch: Spannung und Strom\n0:52 Die Formel U = R · I\n1:22 Großer Widerstand und Glühlampe\n1:55 Spannungsfall an der Leitung\n2:31 Prüfungsaufgabe: 12 V und 500 mA\n2:59 Typischer Fehler und Zusammenfassung\n3:25 Auflösung: Autobatterie und Löffel\n\nMerke: Rechne immer in Volt, Ampere und Ohm.\n\n500 mA sind 0,5 A.\n\nVorheriges Video: Leitungswiderstand berechnen (Warum die dünne Leitung heißer wird)\n\nNächstes Video: Die Reihenschaltung\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\nNie nachmachen: Ein Kurzschluss an der Autobatterie gibt Funken und Verbrennungen, und die Batterie kann platzen.",
+   "titel": "Das ohmsche Gesetz einfach erklärt: Warum spürst du 12 Volt nicht? | Watt?!"
+  },
+  {
+   "id": 404231387,
+   "zeit": "2026-10-24T09:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "STORY",
+   "autoPublish": true,
+   "text": ""
+  },
+  {
+   "id": 404231458,
+   "zeit": "2026-10-24T09:15",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": false,
+   "text": "Neues Video ist online!\n\nDu fasst eine Autobatterie an und spürst nichts.\n\nWarum?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #ohmschesgesetz #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 404518414,
+   "zeit": "2026-10-24T10:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Du fasst die beiden Pole einer Autobatterie an und spürst nichts.\n\nDabei kann sie Hunderte Ampere liefern.\n\nWarum fließt durch dich fast kein Strom?\n\nDas ohmsche Gesetz einfach erklärt, mit Prüfungsaufgabe zum Mitrechnen.\n\nMehr Videos auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #ohmschesgesetz #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 404231658,
+   "zeit": "2026-10-24T11:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Heizlüfter, 10 A, 25 m Kupferleitung, und an der Steckdose fehlen fast 6 Volt.\n\nDie Antwort steckt im ohmschen Gesetz: Video \"Das ohmsche Gesetz\" auf dem Kanal Watt?!\n\n#elektrotechnik #ohmschesgesetz #azubi",
+   "titel": "Wo sind die 6 Volt hin? #shorts"
+  },
+  {
+   "id": 404231702,
+   "zeit": "2026-10-24T11:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "An der Steckdose fehlen fast 6 Volt.\n\nWo sind die geblieben?\n\nDie Antwort steckt in einer einzigen Formel.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #ohmschesgesetz #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 404231752,
+   "zeit": "2026-10-24T11:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "An der Steckdose fehlen fast 6 Volt.\n\nWo sind die geblieben?\n\nDie Antwort steckt in einer einzigen Formel.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #ohmschesgesetz #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 404231798,
+   "zeit": "2026-10-24T12:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "12 V und 500 mA: Wie groß ist der Widerstand?\n\nDie ganze Erklärung: Video \"Das ohmsche Gesetz\" auf dem Kanal Watt?!\n\n#elektrotechnik #ohmschesgesetz #azubi",
+   "titel": "Prüfungsfrage: 12 V, 500 mA, wie groß ist R? #shorts"
+  },
+  {
+   "id": 404231867,
+   "zeit": "2026-10-24T12:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Prüfungsfrage: 12 V, 500 mA.\n\nWie groß ist der Widerstand?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #ohmschesgesetz #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 404875913,
+   "zeit": "2026-10-24T12:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Prüfungsfrage: 12 V, 500 mA.\n⠀\nWie groß ist der Widerstand?\n⠀\nSchreib deine Lösung in die Kommentare.\n⠀\nGanzes Video: Link im Profil.\n⠀\n#elektrotechnik #ohmschesgesetz #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 404231970,
+   "zeit": "2026-10-24T13:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Das ohmsche Gesetz in 7 Folien: U = R · I, richtig umstellen, eine Prüfungsaufgabe mit Lösung und der Milliampere-Fehler, der fast jedem einmal passiert.\n\nSpeicher dir die Folien zum Wiederholen!\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #ohmschesgesetz #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 402621574,
+   "zeit": "2026-10-24T14:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "titel": "Gleicher Strom, doppelte Wärme? #shorts",
+   "art": "short",
+   "autoPublish": true,
+   "text": "Die dünne Leitung hat den halben Querschnitt und darin entsteht doppelt so viel Wärme.\n\nDie ganze Erklärung mit Rechnung: Video \"Leitungswiderstand berechnen\" auf dem Kanal Watt?!\n\n#elektrotechnik #leitungswiderstand #azubi"
+  },
+  {
+   "id": 402618420,
+   "zeit": "2026-10-24T14:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Gleicher Strom, aber die dünne Leitung bekommt doppelt so viel Wärme ab.\n\nWarum genau doppelt?\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #leitungswiderstand #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 402618452,
+   "zeit": "2026-10-24T14:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "VIDEO",
+   "autoPublish": true,
+   "text": "Gleicher Strom, aber in der dünnen Leitung entsteht doppelt so viel Wärme.\n\nWarum genau doppelt? Schreib deine Vermutung in die Kommentare.\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #leitungswiderstand #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 402621613,
+   "zeit": "2026-10-24T15:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "titel": "Prüfungsfrage: Leitungswiderstand in 3 Sekunden? #shorts",
+   "art": "short",
+   "autoPublish": true,
+   "text": "25 m Kupferleitung, 1,5 mm², ρ = 0,0178. Wie groß ist der Leitungswiderstand?\n\nDie ganze Rechnung: Video \"Leitungswiderstand berechnen\" auf dem Kanal Watt?!\n\n#elektrotechnik #leitungswiderstand #azubi"
+  },
+  {
+   "id": 402618483,
+   "zeit": "2026-10-24T15:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Prüfungsfrage: 25 m Kupferleitung, 1,5 mm², ρ = 0,0178 Ω·mm²/m.\n\nWie groß ist der Leitungswiderstand? Schreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #leitungswiderstand #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 402618518,
+   "zeit": "2026-10-24T15:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "VIDEO",
+   "autoPublish": true,
+   "text": "Prüfungsfrage: 25 m Kupferleitung, 1,5 mm², ρ = 0,0178 Ω·mm²/m.\n\nWie groß ist der Leitungswiderstand? Schreib deine Lösung in die Kommentare.\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #leitungswiderstand #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 402618559,
+   "zeit": "2026-10-24T16:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Leitungswiderstand in 7 Folien: wovon R abhängt, die Formel R = ρ · l / A, eine Prüfungsaufgabe mit Lösung und der Fehler, den fast jeder einmal macht.\n\nKommt in der Prüfung gern dran, vor allem die Sache mit Hin- und Rückleiter.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #leitungswiderstand #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 405913136,
+   "zeit": "2026-10-27T08:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Eine Birne für 23 V hängt an der Steckdose, und sie brennt nicht durch.\n\nWas schützt sie?\n\nIn der Reihenschaltung fließt überall derselbe Strom, die Widerstände addieren sich, und die Spannung teilt sich auf.\n\nAm Ende rechnest du selbst aus, wie ein einzelner Vorwiderstand eine Lampe schützt.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 2 (DE) · Elektroinstallateur/in EFZ 1. Lehrjahr (CH) · Elektrotechnik Grundlagen (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Das Rätsel der 23-Volt-Birne\n0:20 Ein Weg, ein Strom\n0:54 Gesamtwiderstand: R = R1 + R2 + R3\n1:18 Die Spannung teilt sich auf\n1:57 Spannungsfall als Reihenschaltung\n2:25 Prüfungsaufgabe: Vorwiderstand\n2:59 Typischer Fehler und Zusammenfassung\n\nMerke: In der Reihe ist der Strom überall gleich.\n\nDer Vorwiderstand bekommt nur die restliche Spannung.\n\nVorheriges Video: Das ohmsche Gesetz (Wo bleiben die 6 Volt?)\nNächstes Video: Die Parallelschaltung\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\nLichterketten nur bei gezogenem Stecker reparieren."
+  },
+  {
+   "id": 405913167,
+   "zeit": "2026-10-27T08:30",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "STORY",
+   "autoPublish": true,
+   "text": ""
+  },
+  {
+   "id": 405913194,
+   "zeit": "2026-10-27T08:30",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": false,
+   "text": "Neues Video ist online!\n⠀\nWarum geht die ganze Lichterkette aus, wenn eine Birne fehlt?\n⠀\nGanzes Video auf YouTube: Watt?! (Link im Profil)\n⠀\n#elektrotechnik #reihenschaltung #elektroniker #elektroinstallateur #azubi"
+  },
+  {
+   "id": 405913274,
+   "zeit": "2026-10-27T11:30",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Diese Birne verträgt nur 23 V und hängt an der Steckdose.\n⠀\nTrotzdem brennt sie nicht durch.\n⠀\nWas schützt sie?\n⠀\nDie Reihenschaltung einfach erklärt, mit Prüfungsaufgabe zum Vorwiderstand.\n⠀\nGanzes Video auf YouTube: Watt?! (Link im Profil)\n⠀\n#elektrotechnik #reihenschaltung #lichterkette #azubi #elektroinstallateur"
+  },
+  {
+   "id": 405913357,
+   "zeit": "2026-10-27T19:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "SHORT",
+   "autoPublish": true,
+   "text": "Zehn Birnen mit 23 V an 230 V, und eine fehlende Birne macht die ganze Kette dunkel.\n\nWarum?\n\nVideo \"Die Reihenschaltung\" auf dem Kanal Watt?!"
+  },
+  {
+   "id": 406275938,
+   "zeit": "2026-10-27T19:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "23-Volt-Birnen an 230 Volt, und keine brennt durch.\n\nAber eine fehlt, und alles ist dunkel.\n\nWarum?\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #reihenschaltung #lichterkette #azubi #elektroinstallateur"
+  },
+  {
+   "id": 405913423,
+   "zeit": "2026-10-27T19:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "23-Volt-Birnen an 230 Volt, und keine brennt durch.\n⠀\nAber eine fehlt, und alles ist dunkel.\n⠀\nWarum?\n⠀\nGanzes Video: Link im Profil.\n⠀\n#elektrotechnik #reihenschaltung #lichterkette #azubi #elektroinstallateur"
+  },
+  {
+   "id": 405913496,
+   "zeit": "2026-10-27T20:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "SHORT",
+   "autoPublish": true,
+   "text": "Lampe 6 V / 0,5 A an 12 V.\n\nWie groß muss der Vorwiderstand sein?\n\nDie ganze Erklärung: Video \"Die Reihenschaltung\" auf dem Kanal Watt?!"
+  },
+  {
+   "id": 406275958,
+   "zeit": "2026-10-27T20:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Prüfungsfrage: Lampe 6 V / 0,5 A soll an 12 V.\n\nWelchen Vorwiderstand brauchst du?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #reihenschaltung #prüfungsfrage #azubi #elektriker"
+  },
+  {
+   "id": 405944462,
+   "zeit": "2026-10-27T20:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Prüfungsfrage: Lampe 6 V / 0,5 A soll an 12 V.\n⠀\nWelchen Vorwiderstand brauchst du?\n⠀\nSchreib deine Lösung in die Kommentare.\n⠀\nGanzes Video: Link im Profil.\n⠀\n#elektrotechnik #reihenschaltung #prüfungsfrage #azubi #elektriker"
+  },
+  {
+   "id": 405913696,
+   "zeit": "2026-10-27T21:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Die Reihenschaltung in 9 Folien: gleicher Strom, Widerstände addieren, Spannung teilt sich auf.\n\nDazu eine Prüfungsaufgabe zum Vorwiderstand und der Fehler, der dabei fast jedem passiert.\n\nRechne die Aufgabe ruhig selbst nach, die Lösung steht auf Folie 7.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #reihenschaltung #lichterkette #azubi #elektroinstallateur"
+  },
+  {
+   "id": 408337021,
+   "zeit": "2026-10-29T08:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Föhn an, Wasserkocher an, und kurz darauf fliegt die Sicherung raus.\n\nDabei läuft jedes Gerät allein problemlos.\n\nWas ist zu zweit anders?\n\nIn der Parallelschaltung liegt an jedem Gerät dieselbe Spannung.\n\nDie Ströme addieren sich, und jeder Zweig macht den Gesamtwiderstand kleiner.\n\nDu lernst, wie du ihn mit dem Kehrwert oder mit „Produkt durch Summe“ berechnest, und rechnest am Ende eine Prüfungsaufgabe selbst.\n\nSchritt für Schritt siehst du auch, was der Kehrwert ist und warum sich die Leitwerte addieren.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 2 (DE) · Elektroinstallateur/in EFZ 1. Lehrjahr (CH) · Elektrotechnik Grundlagen (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Warum fliegt die Sicherung?\n0:20 Überall dieselbe Spannung\n0:50 Die Ströme addieren sich\n1:26 Gesamtwiderstand und Produkt durch Summe\n2:03 Was ist der Kehrwert? Leitwert und Rechnen mit Brüchen\n3:15 Mehrfachsteckdose und Sicherung: 20 A\n3:51 Prüfungsaufgabe: 20 Ω und 30 Ω\n4:31 Typischer Fehler und Zusammenfassung\n\nMerke: Parallel ist der Gesamtwiderstand immer kleiner als der kleinste Einzelwiderstand.\n\nVorheriges Video: Die Reihenschaltung\nNächstes Video: Gemischte Schaltungen (ab 31.10.)\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\nSteckdosenleisten nie über die aufgedruckte Grenze belasten."
+  },
+  {
+   "id": 408337124,
+   "zeit": "2026-10-29T08:30",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "STORY",
+   "autoPublish": true,
+   "text": ""
+  },
+  {
+   "id": 408337161,
+   "zeit": "2026-10-29T08:30",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": false,
+   "text": "Neues Video: Die Parallelschaltung.\n⠀\nFöhn an, Wasserkocher an, klack: Warum fliegt die Sicherung?\n⠀\nGanzes Video auf YouTube: Watt?! (Link im Profil)"
+  },
+  {
+   "id": 408337109,
+   "zeit": "2026-10-29T11:30",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Föhn an, Wasserkocher an, und kurz darauf: klack, die Sicherung fliegt raus.\n⠀\nDabei läuft jedes Gerät allein.\n⠀\nWas ist zu zweit anders?\n⠀\nDie Antwort steckt in der Parallelschaltung.\n⠀\nGleiche Spannung, Ströme addieren sich, Gesamtwiderstand mit Kehrwert oder Produkt durch Summe.\n⠀\nMit Prüfungsaufgabe zum Mitrechnen.\n⠀\nMehr Videos auf YouTube: Watt?! (Link im Profil)\n⠀\n#elektrotechnik #parallelschaltung #elektriker #azubi #lernen"
+  },
+  {
+   "id": 408337806,
+   "zeit": "2026-10-29T19:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "SHORT",
+   "autoPublish": true,
+   "text": "Jedes Gerät an der Mehrfachsteckdose macht den Widerstand kleiner und den Strom größer.\n\nWarum das so ist, siehst du im Video „Die Parallelschaltung“ auf dem Kanal Watt?!\n\n#elektrotechnik #parallelschaltung #shorts"
+  },
+  {
+   "id": 408337839,
+   "zeit": "2026-10-29T19:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Zweiter Heizlüfter dazu, und der Widerstand wird kleiner.\n\nKlingt falsch, ist aber Physik.\n\nGenau deshalb kann eine Steckdosenleiste überlastet werden.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #parallelschaltung #elektriker #azubi #lernen"
+  },
+  {
+   "id": 408337856,
+   "zeit": "2026-10-29T19:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Zweiter Heizlüfter dazu, und der Widerstand wird kleiner.\n⠀\nKlingt falsch, ist aber Physik.\n⠀\nGenau deshalb kann eine Steckdosenleiste überlastet werden.\n⠀\nGanzes Video: Link im Profil.\n⠀\n#elektrotechnik #parallelschaltung #elektriker #azubi #lernen"
+  },
+  {
+   "id": 408337879,
+   "zeit": "2026-10-29T20:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "SHORT",
+   "autoPublish": true,
+   "text": "20 Ω und 30 Ω parallel: Wie groß ist der Gesamtwiderstand?\n\nSchreib deine Lösung in die Kommentare.\n\nDie ganze Erklärung: Video „Die Parallelschaltung“ auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts"
+  },
+  {
+   "id": 408337912,
+   "zeit": "2026-10-29T20:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Prüfungsfrage: 20 Ω und 30 Ω parallel.\n\nWie groß ist der Gesamtwiderstand?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #parallelschaltung #prüfungsfrage #azubi #elektriker"
+  },
+  {
+   "id": 408337931,
+   "zeit": "2026-10-29T20:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Prüfungsfrage: 20 Ω und 30 Ω parallel.\n⠀\nWie groß ist der Gesamtwiderstand?\n⠀\nSchreib deine Lösung in die Kommentare.\n⠀\nGanzes Video: Link im Profil.\n⠀\n#elektrotechnik #parallelschaltung #prüfungsfrage #azubi #elektriker"
+  },
+  {
+   "id": 408337963,
+   "zeit": "2026-10-29T21:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Föhn an, Wasserkocher an, und klack: Die Sicherung fliegt raus.\n\nWarum?\n\nDie Parallelschaltung in 10 Folien, erklärt an der Mehrfachsteckdose.\n\nGleiche Spannung, Ströme addieren sich, und jeder Zweig ist wie eine zusätzliche Kasse im Supermarkt.\n\nDazu eine Prüfungsaufgabe und der Kehrwert-Fehler, der fast jedem passiert.\n\nRechne die Aufgabe ruhig selbst, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #parallelschaltung #elektriker #azubi #lernen"
+  },
+  {
+   "id": 409385214,
+   "zeit": "2026-10-31T08:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Du schaltest den Wasserkocher ein, und die alte Glühlampe daneben wird dunkler.\n\nDabei hängt sie parallel am Netz.\n\nDer Grund ist eine gemischte Schaltung: Die Leitung liegt in Reihe vor allen Geräten.\n\nHier lernst du, wie du jede Reihen-Parallel-Schaltung Schritt für Schritt vereinfachst und danach alle Ströme und Spannungen rückwärts ausrechnest.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 2 (DE) · Elektroinstallateur/in EFZ, erstes Lehrjahr (CH) · Elektrotechnik Grundlagen (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Warum wird die Lampe dunkler?\n0:10 Worum es geht\n0:20 Das Rezept: vereinfachen, dann rückwärts\n0:43 Beispiel: 4 Ω vor 12 Ω ∥ 6 Ω\n1:14 Rückwärts: 1,5 A, 6 V, 0,5 A, 1 A\n1:47 Zurück zur Lampe: die Leitung liegt in Reihe\n2:13 Prüfungsaufgabe: 2 Ω vor 6 Ω ∥ 3 Ω an 24 V\n2:46 Typischer Fehler und Zusammenfassung\n\nMerke: Erst den Parallelteil zu einem Ersatzwiderstand zusammenfassen, dann in Reihe addieren.\n\nAm Parallelteil liegt nie die volle Spannung, wenn davor noch ein Widerstand sitzt.\n\nVorheriges Video: Die Parallelschaltung\n\nNächstes Video: Leitung richtig dimensionieren (ab 3.11.)\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\n#elektrotechnik #gemischteschaltung #azubi"
+  },
+  {
+   "id": 409385294,
+   "zeit": "2026-10-31T08:30",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "STORY",
+   "autoPublish": true,
+   "text": ""
+  },
+  {
+   "id": 409385326,
+   "zeit": "2026-10-31T08:30",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": false,
+   "text": "Neues Video: Gemischte Schaltungen.\n⠀\nWarum wird die Lampe dunkler?!\n⠀\nGanzes Video auf YouTube: Watt?! (Link im Profil)"
+  },
+  {
+   "id": 411137776,
+   "zeit": "2026-10-31T12:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Wasserkocher an, und die alte Glühlampe wird dunkler.\n⠀\nDabei hängt sie doch parallel am Netz!\n⠀\nDer Haken steckt in der Leitung davor, und die liegt in Reihe.\n⠀\nGemischte Schaltungen einfach erklärt, mit Rezept, Beispiel und Prüfungsaufgabe.\n⠀\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n⠀\n#elektrotechnik #gemischteschaltung #elektroniker #azubi #wattkanal"
+  },
+  {
+   "id": 409385352,
+   "zeit": "2026-10-31T19:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "SHORT",
+   "autoPublish": true,
+   "text": "Wasserkocher an, Lampe dunkler?! #shorts\n\nDie Lampe hängt parallel am Netz und wird trotzdem dunkler, sobald der Wasserkocher läuft.\n\nSchuld ist die Leitung davor, denn die liegt in Reihe.\n\nGanze Erklärung: Video \"Gemischte Schaltungen\" auf dem Kanal Watt?!\n\n#elektrotechnik #gemischteschaltung #shorts"
+  },
+  {
+   "id": 409385387,
+   "zeit": "2026-10-31T19:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Wasserkocher an, und die alte Glühlampe wird dunkler.\n\nDabei hängt sie doch parallel!\n\nDer Haken steckt in der Leitung davor.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #gemischteschaltung #elektroniker #azubi #wattkanal"
+  },
+  {
+   "id": 409385417,
+   "zeit": "2026-10-31T19:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Wasserkocher an, und die alte Glühlampe wird dunkler.\n⠀\nDabei hängt sie doch parallel!\n⠀\nDer Haken steckt in der Leitung davor.\n⠀\nGanzes Video: Link im Profil.\n⠀\n#elektrotechnik #gemischteschaltung #elektroniker #azubi #wattkanal"
+  },
+  {
+   "id": 409385452,
+   "zeit": "2026-10-31T20:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "SHORT",
+   "autoPublish": true,
+   "text": "Prüfungsfrage: 2 Ω + (6 Ω ∥ 3 Ω) = ? #shorts\n\n2 Ω in Reihe vor 6 Ω parallel 3 Ω: Wie groß ist der Gesamtwiderstand?\n\nDie ganze Methode: Video \"Gemischte Schaltungen\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts"
+  },
+  {
+   "id": 409385488,
+   "zeit": "2026-10-31T20:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Prüfungsfrage: 2 Ω in Reihe vor 6 Ω parallel 3 Ω.\n\nWie groß ist der Gesamtwiderstand?\n\nKleiner Tipp: 11 Ω ist es nicht.\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #gemischteschaltung #azubi #wattkanal"
+  },
+  {
+   "id": 409385508,
+   "zeit": "2026-10-31T20:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Prüfungsfrage: 2 Ω in Reihe vor 6 Ω parallel 3 Ω.\n⠀\nWie groß ist der Gesamtwiderstand?\n⠀\nKleiner Tipp: 11 Ω ist es nicht.\n⠀\nSchreib deine Lösung in die Kommentare.\n⠀\nGanzes Video: Link im Profil.\n⠀\n#elektrotechnik #prüfungsfrage #gemischteschaltung #azubi #wattkanal"
+  },
+  {
+   "id": 409385534,
+   "zeit": "2026-10-31T21:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Wasserkocher an, und die Lampe wird dunkler, obwohl sie parallel hängt.\n\nDer Grund: Reihe und Parallel gemischt.\n\nIn 9 Folien: vom Wasserkocher zum Rezept, ein Beispiel an 12 V und eine Aufgabe zum Selberrechnen.\n\nDie Lösung steht auf Folie 7, der typische Fehler auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #gemischteschaltung #elektroniker #azubi #wattkanal"
+  },
+  {
+   "id": 414641126,
+   "zeit": "2026-11-03T08:00",
+   "net": "youtube",
+   "status": "PUBLISHED",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Auf vielen Kabeltrommeln steht: aufgerollt höchstens 1000 W, abgerollt 3500 W.\n\nGleiche Leitung, gleiches Kupfer, warum also der Unterschied?\n\nIn diesem Video wählst du eine Leitung richtig aus: Verlegeart, Umgebungstemperatur, Häufung, der passende Schutzschalter und der Spannungsfall.\n\nWo sich Deutschland, die Schweiz und Österreich unterscheiden, steht es im Bild.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 2 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Das Rätsel der Kabeltrommel\n0:13 Worum es geht\n0:23 Wärme und Strombelastbarkeit\n1:05 Verlegeart: die Daunenjacke\n2:06 Umgebungstemperatur und Häufung\n2:55 Der passende Schutzschalter\n3:44 Spannungsfall in DE, CH und AT\n4:41 Prüfungsaufgabe\n5:25 Typischer Fehler und Zusammenfassung\n\nMerke: Die Strombelastbarkeit I_z hängt von Verlegeart, Umgebungstemperatur und Häufung ab.\n\nDer Schutzschalter muss zur Leitung passen: I_B ≤ I_n ≤ I_z.\n\nDie Werte nimmst du immer aus der Norm deines Landes (DE: DIN VDE 0298-4, CH: NIN, AT: OVE E 8101).\n\nVorheriges Video: Gemischte Schaltungen\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\n#elektrotechnik #leitungsdimensionierung #azubi",
+   "url": "https://www.youtube.com/watch?v=p_jAJ-5tu1s"
+  },
+  {
+   "id": 414641193,
+   "zeit": "2026-11-03T08:30",
+   "net": "instagram",
+   "status": "PUBLISHED",
+   "art": "STORY",
+   "autoPublish": true,
+   "text": ""
+  },
+  {
+   "id": 414641214,
+   "zeit": "2026-11-03T08:30",
+   "net": "tiktok",
+   "status": "PUBLISHED",
+   "art": "POST",
+   "autoPublish": false,
+   "text": "Neues Video: Leitung richtig dimensionieren.\n\nWarum wird die Kabeltrommel heiß?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)"
+  },
+  {
+   "id": 414641177,
+   "zeit": "2026-11-03T18:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Aufgerollt 1000 W, abgerollt 3500 W.\n\nGleiche Kabeltrommel, gleiches Kupfer!\n\nDer Grund ist eine Daunenjacke, und sie betrifft jede Leitung in deiner Wand.\n\nLeitung richtig dimensionieren, mit Prüfungsaufgabe für DE, CH und AT.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #kabeltrommel #elektroniker #azubi #wattkanal"
+  },
+  {
+   "id": 414641231,
+   "zeit": "2026-11-03T19:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Aufgerollt 1000 W, abgerollt 3500 W, und es ist dieselbe Leitung.\n\nKleiner Tipp: Es hat mit einer Daunenjacke zu tun.\n\nGanze Erklärung: Video \"Leitung richtig dimensionieren\" auf dem Kanal Watt?!\n\n#elektrotechnik #kabeltrommel #shorts"
+  },
+  {
+   "id": 414641253,
+   "zeit": "2026-11-03T19:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Aufgerollt 1000 W, abgerollt 3500 W.\n\nGleiche Leitung, gleiches Kupfer!\n\nKleiner Tipp: Es hat mit einer Daunenjacke zu tun.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #kabeltrommel #elektroniker #azubi #wattkanal"
+  },
+  {
+   "id": 414641277,
+   "zeit": "2026-11-03T19:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Aufgerollt 1000 W, abgerollt 3500 W.\n\nGleiche Leitung, gleiches Kupfer!\n\nKleiner Tipp: Es hat mit einer Daunenjacke zu tun.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #kabeltrommel #elektroniker #azubi #wattkanal"
+  },
+  {
+   "id": 414641297,
+   "zeit": "2026-11-03T20:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Tabellenwert 24 A, Temperaturfaktor 0,87, Häufungsfaktor 0,8: Welchen Schutzschalter darfst du höchstens einsetzen?\n\nDie ganze Erklärung: Video \"Leitung richtig dimensionieren\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts"
+  },
+  {
+   "id": 414641316,
+   "zeit": "2026-11-03T20:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Prüfungsfrage: Die Leitung verträgt laut Tabelle 24 A.\n\nTemperaturfaktor 0,87, Häufungsfaktor 0,8.\n\nWelcher Schutzschalter passt höchstens: 13, 16 oder 20 A?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+  },
+  {
+   "id": 414641341,
+   "zeit": "2026-11-03T20:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Prüfungsfrage: Die Leitung verträgt laut Tabelle 24 A.\n\nTemperaturfaktor 0,87, Häufungsfaktor 0,8.\n\nWelcher Schutzschalter passt höchstens: 13, 16 oder 20 A?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+  },
+  {
+   "id": 414641360,
+   "zeit": "2026-11-03T21:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Aufgerollt 1000 W, abgerollt 3500 W, warum eigentlich?\n\nIn 10 Folien: Wärme, Verlegeart als Daunenjacke, Temperatur und Häufung, der passende Schutzschalter und der Spannungsfall.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #leitungsdimensionierung #elektroniker #azubi #wattkanal"
+  },
+  {
+   "id": 418367777,
+   "zeit": "2026-11-06T07:00",
+   "net": "youtube",
+   "status": "PUBLISHED",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Short 8C · Leitung dimensionieren in 5 Schritten",
+   "url": "https://www.youtube.com/shorts/9mdumBFnuck"
+  },
+  {
+   "id": 418367798,
+   "zeit": "2026-11-06T07:00",
+   "net": "instagram",
+   "status": "PUBLISHED",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Short 8C · Leitung dimensionieren in 5 Schritten"
+  },
+  {
+   "id": 418367815,
+   "zeit": "2026-11-06T07:00",
+   "net": "tiktok",
+   "status": "PUBLISHED",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Short 8C · Leitung dimensionieren in 5 Schritten"
+  },
+  {
+   "id": 418409524,
+   "zeit": "2026-11-06T08:00",
+   "net": "youtube",
+   "status": "PUBLISHED",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Sondervideo · Lichtbogen",
+   "url": "https://www.youtube.com/watch?v=5q8YJnr9B_0"
+  },
+  {
+   "id": 418409580,
+   "zeit": "2026-11-06T08:30",
+   "net": "instagram",
+   "status": "PUBLISHED",
+   "art": "STORY",
+   "autoPublish": true,
+   "text": "Sondervideo · Lichtbogen"
+  },
+  {
+   "id": 418409593,
+   "zeit": "2026-11-06T08:30",
+   "net": "tiktok",
+   "status": "PUBLISHED",
+   "art": "video",
+   "autoPublish": false,
+   "text": "Sondervideo · Lichtbogen"
+  },
+  {
+   "id": 418409563,
+   "zeit": "2026-11-06T18:00",
+   "net": "tiktok",
+   "status": "PUBLISHED",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Sondervideo · Lichtbogen"
+  },
+  {
+   "id": 418409619,
+   "zeit": "2026-11-06T19:00",
+   "net": "youtube",
+   "status": "PUBLISHED",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Short E2-a · Lichtbogen"
+  },
+  {
+   "id": 418409638,
+   "zeit": "2026-11-06T19:00",
+   "net": "instagram",
+   "status": "PUBLISHED",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Short E2-a · Lichtbogen"
+  },
+  {
+   "id": 418409653,
+   "zeit": "2026-11-06T19:00",
+   "net": "tiktok",
+   "status": "PUBLISHED",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Short E2-a · Lichtbogen"
+  },
+  {
+   "id": 418409676,
+   "zeit": "2026-11-06T20:00",
+   "net": "youtube",
+   "status": "PUBLISHED",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Short E2-b · Lichtbogen"
+  },
+  {
+   "id": 418409699,
+   "zeit": "2026-11-06T20:00",
+   "net": "instagram",
+   "status": "PUBLISHED",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Short E2-b · Lichtbogen"
+  },
+  {
+   "id": 418409713,
+   "zeit": "2026-11-06T20:00",
+   "net": "tiktok",
+   "status": "PUBLISHED",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Short E2-b · Lichtbogen"
+  },
+  {
+   "id": 418409731,
+   "zeit": "2026-11-06T21:00",
+   "net": "instagram",
+   "status": "PUBLISHED",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Slider zum Sondervideo · Lichtbogen"
+  },
+  {
+   "id": 422440768,
+   "zeit": "2026-11-10T08:00",
+   "net": "youtube",
+   "status": "PUBLISHED",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Video 9 · Knoten und Masche",
+   "url": "https://www.youtube.com/watch?v=UfbgnZrO0Wg"
+  },
+  {
+   "id": 422440886,
+   "zeit": "2026-11-10T18:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Video 9 TikTok ganz"
+  },
+  {
+   "id": 422440907,
+   "zeit": "2026-11-10T08:30",
+   "net": "instagram",
+   "status": "PUBLISHED",
+   "art": "STORY",
+   "autoPublish": true,
+   "text": "Story Video 9"
+  },
+  {
+   "id": 422440929,
+   "zeit": "2026-11-10T08:30",
+   "net": "tiktok",
+   "status": "PUBLISHED",
+   "art": "video",
+   "autoPublish": false,
+   "text": "TikTok-Ankündigung Video 9 (Push)"
+  },
+  {
+   "id": 422441528,
+   "zeit": "2026-11-10T19:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "short",
+   "autoPublish": true,
+   "text": "Short 9A · Föhn"
+  },
+  {
+   "id": 422441578,
+   "zeit": "2026-11-10T19:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Short 9A · Föhn"
+  },
+  {
+   "id": 422441625,
+   "zeit": "2026-11-10T19:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Short 9A · Föhn"
+  },
+  {
+   "id": 422441661,
+   "zeit": "2026-11-10T20:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "short",
+   "autoPublish": true,
+   "text": "Short 9B · Prüfungsfrage Knoten"
+  },
+  {
+   "id": 422441699,
+   "zeit": "2026-11-10T20:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Short 9B · Prüfungsfrage Knoten"
+  },
+  {
+   "id": 422441733,
+   "zeit": "2026-11-10T20:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Short 9B · Prüfungsfrage Knoten"
+  },
+  {
+   "id": 422441788,
+   "zeit": "2026-11-10T21:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Slider Video 9 · Kirchhoff"
+  },
+  {
+   "id": 422452369,
+   "zeit": "2026-11-13T08:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Video 10 · Spannungsteiler"
+  },
+  {
+   "id": 422452437,
+   "zeit": "2026-11-13T18:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Video 10 TikTok ganz"
+  },
+  {
+   "id": 422452455,
+   "zeit": "2026-11-13T08:30",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "STORY",
+   "autoPublish": true,
+   "text": "Story Video 10"
+  },
+  {
+   "id": 422452484,
+   "zeit": "2026-11-13T08:30",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": false,
+   "text": "TikTok-Ankündigung Video 10 (Push)"
+  },
+  {
+   "id": 422452506,
+   "zeit": "2026-11-13T19:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "short",
+   "autoPublish": true,
+   "text": "Short 10A · Tankanzeige"
+  },
+  {
+   "id": 422452535,
+   "zeit": "2026-11-13T19:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Short 10A · Tankanzeige"
+  },
+  {
+   "id": 422452556,
+   "zeit": "2026-11-13T19:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Short 10A · Tankanzeige"
+  },
+  {
+   "id": 422452578,
+   "zeit": "2026-11-13T20:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "short",
+   "autoPublish": true,
+   "text": "Short 10B · Prüfungsfrage Spannungsteiler"
+  },
+  {
+   "id": 422452599,
+   "zeit": "2026-11-13T20:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Short 10B · Prüfungsfrage Spannungsteiler"
+  },
+  {
+   "id": 422452626,
+   "zeit": "2026-11-13T20:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Short 10B · Prüfungsfrage Spannungsteiler"
+  },
+  {
+   "id": 422452660,
+   "zeit": "2026-11-13T21:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Slider Video 10 · Spannungsteiler"
+  }
+ ]
+}

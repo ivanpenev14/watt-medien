@@ -1,0 +1,77 @@
+{
+ "lang": {
+  "datei": "video17_final_1440p.mp4",
+  "thumbnail": "video17_thumbnail.png",
+  "thumbnail_b": "thumbs/v17_b.png",
+  "datum": "2026-12-08 08:00",
+  "titel": "Lampe flackert in Zeitlupe: Wechselstrom und 50 Hz einfach erklärt | Watt?!",
+  "beschreibung": "Du filmst deine Deckenlampe mit dem Handy in Zeitlupe, und auf dem Bildschirm flackert sie: hell, dunkel, hell, dunkel. Du schaust hoch: ruhiges Licht.\n\nKein Dimmer, kein Wackelkontakt. Warum flackert die Lampe?\n\nIn diesem Video lernst du den Wechselstrom: das, was aus jeder Steckdose kommt.\n\nDu siehst, was eine Periode und die Frequenz sind, warum die 230 V in Wahrheit einen Scheitelwert von 325 V haben, woher die 50 Hz kommen, und warum deine Lampe 100-mal pro Sekunde flackert, ohne dass du es siehst.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 5 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Lampe flackert in Zeitlupe\n0:20 Worum es geht\n0:40 Gleichstrom, Wechselstrom, Periode und Frequenz, die Handsäge\n1:41 Scheitelwert 325 V und Effektivwert 230 V\n2:50 Woher die 50 Hz kommen, Verbundnetz, Trafo-Brummen\n3:30 Die Lampe flackert mit 100 Hz, Stroboskop-Effekt auf der Baustelle\n4:45 Prüfungsaufgabe: Scheitelwert, Periode, Nulldurchgänge\n5:28 Typischer Fehler, Auflösung, Zusammenfassung\n\nMerke: Wechselspannung läuft als Sinus. Bei uns 50 Hz, also 20 ms pro Periode. Frequenz f = 1 / T.\n\n230 V ist der Effektivwert: er macht in einer Heizung so viel Wärme wie 230 V Gleichspannung. Der Scheitelwert ist û = U · √2 = 325 V. Das Messgerät zeigt U, die Isolation muss û aushalten.\n\nDie 50 Hz kommen aus dem Generator: 50 Umdrehungen pro Sekunde, 3000 pro Minute, in ganz Europa im selben Takt. Ein Trafo brummt mit 100 Hz.\n\nDie Lampe bekommt 100-mal pro Sekunde kurz keine Leistung. Glühlampen sind träge, billige LED-Lampen flackern sichtbar in der Zeitlupe. An drehenden Maschinen braucht es flackerfreies Licht (Stroboskop-Effekt).\n\nTypischer Fehler: Multimeter auf Gleichspannung zeigt am Netz 0 V. Der Schalter gehört auf V~, und vor dem Anfassen gilt der zweipolige Spannungsprüfer.\n\nVorheriges Video: Kondensator\nNächstes Video: Induktion (ab 11.12.)\n\nHinweis: Werte im Video sind die Standardwerte des europäischen Netzes. Arbeiten an Netzspannung nur durch Elektrofachkräfte.\n\n#elektrotechnik #wechselstrom #azubi",
+  "tags": [
+   "Wechselstrom",
+   "Wechselspannung",
+   "50 Hz",
+   "Frequenz",
+   "Periode",
+   "Scheitelwert",
+   "Effektivwert",
+   "Sinus",
+   "Netzspannung",
+   "Stroboskop-Effekt",
+   "Elektrotechnik",
+   "Elektroniker",
+   "Elektroinstallateur",
+   "Azubi",
+   "Lehre",
+   "Watt"
+  ],
+  "tiktok_titel": "Lampe flackert in Zeitlupe?!",
+  "tiktok_text": "Du filmst deine Deckenlampe mit dem Handy in Zeitlupe, und auf dem Bildschirm flackert sie. Du schaust hoch: ruhiges Licht. Warum?\n\nAus der Steckdose kommt Wechselstrom. Die Spannung wechselt 50-mal pro Sekunde die Richtung, und die Lampe geht 100-mal pro Sekunde durch Null.\n\nWas Periode und Frequenz sind, warum die 230 V in Wahrheit einen Scheitelwert von 325 V haben, und woher die 50 Hz kommen.\n\nMit Prüfungsaufgabe zum Mitrechnen.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #wechselstrom #elektroniker #azubi #wattkanal",
+  "story": {
+   "text_tiktok_push": "Neues Video: Der Wechselstrom.\n\nDu filmst deine Deckenlampe in Zeitlupe, und sie flackert. Mit bloßem Auge siehst du nichts. Warum?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)",
+   "instagram": "story/video17_story_instagram.mp4",
+   "tiktok_ankuendigung": "story/video17_tiktok_ankuendigung.mp4"
+  }
+ },
+ "shorts": [
+  {
+   "datei": "shorts_neu2/short17-a_zeitlupe.mp4",
+   "datei_instagram": "shorts_neu2/short17-a_zeitlupe_instagram.mp4",
+   "datei_tiktok": "shorts_neu2/short17-a_zeitlupe_tiktok.mp4",
+   "cover": "shorts_neu2/short17-a_zeitlupe_cover.jpg",
+   "datum": "2026-12-08 19:00",
+   "titel": "Lampe flackert in Zeitlupe: Warum siehst du es nicht? #shorts",
+   "beschreibung": "Du filmst deine Deckenlampe in Zeitlupe, und auf dem Handy flackert sie. Mit bloßem Auge: ruhiges Licht.\n\nDie Lampe flackert wirklich, 100-mal pro Sekunde. Warum?\n\nGanze Erklärung: Video \"Wechselstrom\" auf dem Kanal Watt?!\n\n#elektrotechnik #wechselstrom #shorts",
+   "tags": [
+    "Wechselstrom",
+    "50 Hz",
+    "Flackern",
+    "Elektrotechnik",
+    "shorts"
+   ],
+   "reel_text": "Du filmst deine Deckenlampe in Zeitlupe, und auf dem Handy flackert sie: hell, dunkel, hell, dunkel. Du schaust hoch: ruhiges Licht.\n\nDie Lampe flackert wirklich, 100-mal pro Sekunde, und dein Auge merkt nichts.\n\nWeißt du, warum?\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #wechselstrom #elektroniker #azubi #wattkanal"
+  },
+  {
+   "datei": "shorts_neu2/short17-b_pruefungsfrage-scheitelwert.mp4",
+   "datei_instagram": "shorts_neu2/short17-b_pruefungsfrage-scheitelwert_instagram.mp4",
+   "datei_tiktok": "shorts_neu2/short17-b_pruefungsfrage-scheitelwert_tiktok.mp4",
+   "cover": "shorts_neu2/short17-b_pruefungsfrage-scheitelwert_cover.jpg",
+   "datum": "2026-12-08 20:00",
+   "titel": "Prüfungsfrage: Wie groß ist der Scheitelwert der Netzspannung? #shorts",
+   "beschreibung": "Die Netzspannung hat 230 V Effektivwert.\n\nWie groß ist der Scheitelwert: 230 V, 325 V oder 460 V?\n\nDie ganze Erklärung: Video \"Wechselstrom\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts",
+   "tags": [
+    "Prüfungsfrage",
+    "Scheitelwert",
+    "Wechselspannung",
+    "Elektroinstallateur",
+    "shorts"
+   ],
+   "reel_text": "Prüfungsfrage: Die Netzspannung hat 230 V Effektivwert.\n\nWie groß ist der Scheitelwert: 230 V, 325 V oder 460 V?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+  }
+ ],
+ "karussell": {
+  "ordner": "karussell",
+  "datum": "2026-12-08 21:00",
+  "text": "Deine Deckenlampe flackert 100-mal pro Sekunde, und du siehst es nur in der Zeitlupe. Der Grund ist der Wechselstrom.\n\nIn 10 Folien: die Handsäge als Bild für Wechselstrom, Periode und Frequenz, Scheitelwert 325 V und Effektivwert 230 V, woher die 50 Hz kommen, und warum an drehenden Maschinen flackerfreies Licht Pflicht ist.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #wechselstrom #elektroniker #azubi #wattkanal"
+ },
+ "tiktok": true
+}

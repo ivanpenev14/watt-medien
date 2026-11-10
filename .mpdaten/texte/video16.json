@@ -1,0 +1,78 @@
+{
+ "lang": {
+  "datei": "video16_final_1440p.mp4",
+  "thumbnail": "video16_thumbnail.png",
+  "thumbnail_b": "thumbs/v16_b.png",
+  "datum": "2026-12-04 08:00",
+  "titel": "Stecker gezogen, Lämpchen leuchtet weiter: Der Kondensator einfach erklärt | Watt?!",
+  "beschreibung": "Du ziehst das Netzteil aus der Steckdose, und das kleine Lämpchen dran leuchtet weiter. Zwei, drei Sekunden, dann wird es dunkel.\n\nKein Akku, kein Kabel. Woher kommt der Strom?\n\nIn diesem Video lernst du den Kondensator: ein Bauteil, das Ladung speichert, in jedem Netzteil, Handy und Waschmaschinenmotor.\n\nDu siehst, was Kapazität bedeutet, wie Laden und Entladen mit der Zeitkonstante τ = R · C ablaufen, wie viel Energie in einem Kondensator steckt, und warum du ein Netzteil nie gleich nach dem Ausstecken aufschraubst.\n\nPasst zu: Elektroniker/in Lernfeld 1 und 3 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Stecker gezogen, Lämpchen leuchtet weiter\n0:15 Worum es geht\n0:35 Was ein Kondensator ist, Kapazität, der Luftkessel\n1:40 Laden: Zeitkonstante τ = R · C, nach 5 τ voll\n2:39 Entladen, Energie, Entladen vor Arbeiten\n3:54 Netzteil, Fotoblitz, Anlaufkondensator, Reihe und parallel\n5:00 Prüfungsaufgabe: τ, Entladezeit, Energie\n5:56 Typischer Fehler, Auflösung, Zusammenfassung\n\nMerke: Ein Kondensator speichert Ladung. Die Kapazität C (Farad) sagt, wie viel Ladung bei welcher Spannung hineinpasst.\n\nLaden und Entladen: τ = R · C. Nach 1 τ sind 63 % erreicht, nach 5 τ ist der Kondensator praktisch voll bzw. leer (über 99 %).\n\nEnergie: W = ½ · C · U². Beispiel: 470 µF an 325 V sind fast 25 J, und die bleiben nach dem Ausstecken im Netzteil.\n\nVor jeder Arbeit: ausschalten und sichern, warten (5 τ), mit dem Voltmeter am Kondensator nachmessen, erst dann anfassen. Entladen immer über einen Widerstand, nie mit dem Schraubenzieher.\n\nRechenbeispiel: 2200 µF über 1,2 kΩ entladen: τ = 2,64 s, praktisch leer nach rund 13 s; Energie bei 12 V: 0,16 J.\n\nVorheriges Video: Brückenschaltung\nNächstes Video: Wechselstrom 50 Hz (ab 8.12.)\n\nHinweis: Werte im Video sind typische Beispielwerte. Arbeiten an Netzspannung nur durch Elektrofachkräfte.\n\n#elektrotechnik #kondensator #azubi",
+  "tags": [
+   "Kondensator",
+   "Elko",
+   "Kapazität",
+   "Farad",
+   "Zeitkonstante",
+   "RC-Glied",
+   "Laden Entladen",
+   "Energie Kondensator",
+   "Netzteil",
+   "Anlaufkondensator",
+   "Elektrotechnik",
+   "Elektroniker Ausbildung",
+   "Elektroinstallateur EFZ",
+   "Gesellenprüfung",
+   "QV Elektro",
+   "Berufsschule Elektro",
+   "Watt?!"
+  ],
+  "tiktok_text": "Stecker gezogen, und das Lämpchen am Netzteil leuchtet weiter. Woher kommt der Strom?\n\nIm Netzteil steckt ein Kondensator, der Ladung speichert, und der ist nach dem Ausstecken noch gefährlich.\n\nWas Kapazität bedeutet, wie Laden und Entladen mit τ = R · C ablaufen, und warum du ein Netzteil nie gleich aufschraubst.\n\nMit Prüfungsaufgabe zum Mitrechnen.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #kondensator #elektroniker #azubi #wattkanal",
+  "tiktok_titel": "Stecker gezogen, leuchtet weiter?!",
+  "story": {
+   "text_tiktok_push": "Neues Video: Der Kondensator.\n\nStecker gezogen, und das Lämpchen am Netzteil leuchtet weiter. Woher kommt der Strom?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)",
+   "instagram": "story/video16_story_instagram.mp4",
+   "tiktok_ankuendigung": "story/video16_tiktok_ankuendigung.mp4"
+  }
+ },
+ "shorts": [
+  {
+   "datei": "shorts_neu2/short16-a_netzteil.mp4",
+   "datei_instagram": "shorts_neu2/short16-a_netzteil_instagram.mp4",
+   "datei_tiktok": "shorts_neu2/short16-a_netzteil_tiktok.mp4",
+   "cover": "shorts_neu2/short16-a_netzteil_cover.jpg",
+   "datum": "2026-12-04 19:00",
+   "titel": "Stecker gezogen, Lämpchen leuchtet weiter: Woher kommt der Strom? #shorts",
+   "beschreibung": "Du ziehst das Netzteil aus der Steckdose, und das kleine Lämpchen dran leuchtet weiter.\n\nKein Akku, kein Kabel. Irgendwo im Netzteil steckt ein Speicher, und der ist nach dem Ausstecken noch gefährlich. Welcher?\n\nGanze Erklärung: Video \"Kondensator\" auf dem Kanal Watt?!\n\n#elektrotechnik #kondensator #shorts",
+   "tags": [
+    "Netzteil",
+    "Kondensator",
+    "Elko",
+    "Elektrotechnik",
+    "shorts"
+   ],
+   "reel_text": "Stecker gezogen, und das Lämpchen am Netzteil leuchtet weiter. Zwei, drei Sekunden, dann wird es dunkel.\n\nKein Akku, kein Kabel. Irgendwo im Netzteil steckt ein Speicher, und der ist nach dem Ausstecken noch gefährlich.\n\nWeißt du, welcher?\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #kondensator #elektroniker #azubi #wattkanal"
+  },
+  {
+   "datei": "shorts_neu2/short16-b_pruefungsfrage-zeitkonstante.mp4",
+   "datei_instagram": "shorts_neu2/short16-b_pruefungsfrage-zeitkonstante_instagram.mp4",
+   "datei_tiktok": "shorts_neu2/short16-b_pruefungsfrage-zeitkonstante_tiktok.mp4",
+   "cover": "shorts_neu2/short16-b_pruefungsfrage-zeitkonstante_cover.jpg",
+   "datum": "2026-12-04 20:00",
+   "titel": "Prüfungsfrage: Wie groß ist die Zeitkonstante τ beim Entladen? #shorts",
+   "beschreibung": "Ein Elko mit 2200 µF wird über 1,2 kΩ entladen.\n\nWie groß ist die Zeitkonstante τ: 0,26 s, 2,6 s oder 26 s?\n\nDie ganze Erklärung: Video \"Kondensator\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts",
+   "tags": [
+    "Prüfungsfrage",
+    "Kondensator",
+    "Zeitkonstante",
+    "Elektroinstallateur",
+    "shorts"
+   ],
+   "reel_text": "Prüfungsfrage: Ein Elko mit 2200 µF wird über 1,2 kΩ entladen.\n\nWie groß ist die Zeitkonstante τ: 0,26 s, 2,6 s oder 26 s?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+  }
+ ],
+ "karussell": {
+  "ordner": "karussell",
+  "datum": "2026-12-04 21:00",
+  "text": "Stecker gezogen, und das Lämpchen am Netzteil leuchtet weiter. Der Grund ist ein Kondensator.\n\nIn 10 Folien: was Kapazität bedeutet, der Luftkessel am Kompressor, Laden und Entladen mit τ = R · C, die Energie im Kondensator und die vier Schritte vor jeder Arbeit.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #kondensator #elektroniker #azubi #wattkanal"
+ },
+ "tiktok": true
+}
