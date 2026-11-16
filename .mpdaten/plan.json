@@ -5,7 +5,7 @@
   {
    "id": "video11",
    "titel": "Video 11 · Leistung und Stromrechnung, mit Shorts 11A/11B und Slider",
-   "frist": "bis So 15.11. (Video erscheint Di 17.11. 08:00, Shorts 19:00 und 20:00, Slider 21:00 am selben Tag)",
+   "frist": "bis So 15.11. (Video erscheint Di 17.11. 13:00, Shorts 19:00 und 20:00, Slider 21:00 am selben Tag)",
    "text": "Alles zu Video 11: das ganze Video (6:36) mit Abspann, Thumbnail, Titel und Beschreibung mit Kapiteln, Instagram-Story, TikTok-Ankündigung, TikTok-Fassung mit Hochformat-Cover, die Shorts 11A und 11B je Plattform und der Slider mit 10 Folien. Neu am Schluss: „Abonnier den Kanal“ und 7 s Abspann für die verlinkten Videos. Ein „Video 11 ok“ im Chat reicht.",
    "lang": [
     "video11/teile/video11_teil0.mp4",
@@ -1938,7 +1938,7 @@
    "art": "lang",
    "youtube": [
     {
-     "zeit": "08:00",
+     "zeit": "13:00",
      "format": "Langvideo",
      "status": "offen",
      "bild": "video11/video11_thumbnail.png",
@@ -1960,7 +1960,7 @@
    ],
    "instagram": [
     {
-     "zeit": "08:30",
+     "zeit": "13:30",
      "format": "Story „Neues Video online“",
      "status": "offen",
      "bild": "video11/story/video11_story_instagram.jpg",
@@ -1970,7 +1970,7 @@
    ],
    "tiktok": [
     {
-     "zeit": "08:30",
+     "zeit": "13:30",
      "format": "Ankündigung als Story",
      "status": "offen",
      "video": "video11/story/video11_tiktok_ankuendigung.mp4",
