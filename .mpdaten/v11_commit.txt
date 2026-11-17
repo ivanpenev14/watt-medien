@@ -1,1 +1,1 @@
-V11 aktuell: Commit c91a192fe51bf9bf3dd8aff55b2bb41f10b3751e ; Short 11B neu: Commit 0a7636c357ddf238bb5ac389d10ee16fa9ef72e0
+Upload-Zweig fertig für Einplanung V11 Langvideo: Commit 9fc93036c478c253878bcda676e6e0eaab91c046 (final E md5 3bf5ed62, tiktok md5 5ca29b23, video11_thumbnail.png, video11_story_instagram.mp4/.jpg, video11_tiktok_ankuendigung.mp4, short11-b neu 3 Fassungen + cover). Raw-URL: https://raw.githubusercontent.com/ivanpenev14/watt-medien/9fc93036c478c253878bcda676e6e0eaab91c046/<datei>
