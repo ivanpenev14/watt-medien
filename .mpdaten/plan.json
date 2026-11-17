@@ -5,7 +5,7 @@
   {
    "id": "video11",
    "titel": "Video 11 · Leistung und Stromrechnung, mit Shorts 11A/11B und Slider",
-   "frist": "bis Di 17.11. 12:30 (Video erscheint Di 17.11. 13:00, Shorts, Reels und Slider sind schon eingeplant)",
+   "frist": "bis Di 17.11. abends (Video erscheint Mi 18.11. 08:00, Shorts 19:00 und 20:00, Slider 21:00, schon eingeplant)",
    "text": "Korrigierte Fassung vom 17.11. (6:30): Die Formelsätze sind wieder deine gewohnte Originalstimme, nur die Buchstaben P, I, W und t sind etwas gedehnt (0:31, 1:07, 1:35, 4:32). Dazu: Der Logo-Zoom in Teil 1 läuft flüssig durch, die Föhn-Hitze sitzt an der Düse, das Pausezeichen ist gleich wie in V10/V12, und die letzten 6 s sind weg. Shorts und Slider hast du schon freigegeben. Ein „Video 11 ok“ im Chat reicht.",
    "lang": [
     "video11/teile/video11_teil0.mp4",
@@ -21,13 +21,13 @@
    "shorts": [
     {
      "name": "Short 11A · Handy oder Trockner",
-     "wann": "Di 17.11. 19:00",
+     "wann": "Mi 18.11. 19:00",
      "video": "video11/shorts_neu2/short11-a_handy-trockner.mp4",
      "cover": "video11/shorts_neu2/short11-a_handy-trockner_cover.jpg"
     },
     {
      "name": "Short 11B · Prüfungsfrage Wasserkocher",
-     "wann": "Di 17.11. 20:00",
+     "wann": "Mi 18.11. 20:00",
      "video": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher.mp4",
      "cover": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher_cover.jpg"
     }
@@ -42,7 +42,7 @@
   {
    "id": "video12",
    "titel": "Video 12 · Stromdichte, mit Shorts 12A/12B und Slider",
-   "frist": "bis Mi 18.11. (Video erscheint Fr 20.11. 08:00, Shorts 19:00 und 20:00, Slider 21:00 am selben Tag)",
+   "frist": "bis Do 19.11. (Video erscheint Sa 21.11. 08:00, Shorts 19:00 und 20:00, Slider 21:00 am selben Tag)",
    "text": "Alles zu Video 12: das ganze Video (7:06) mit Abspann, Thumbnail, Titel und Beschreibung mit Kapiteln, Instagram-Story, TikTok-Ankündigung, TikTok-Fassung mit Hochformat-Cover, die Shorts 12A und 12B je Plattform und der Slider mit 10 Folien. Neu am Schluss: „Abonnier den Kanal“ und 7 s Abspann für die verlinkten Videos. Ein „Video 12 ok“ im Chat reicht.",
    "lang": [
     "video12/teile/video12_teil0.mp4",
@@ -56,13 +56,13 @@
    "shorts": [
     {
      "name": "Short 12A · Sicherung",
-     "wann": "Fr 20.11. 19:00",
+     "wann": "Sa 21.11. 19:00",
      "video": "video12/shorts_neu2/short12-a_sicherung.mp4",
      "cover": "video12/shorts_neu2/short12-a_sicherung_cover.jpg"
     },
     {
      "name": "Short 12B · Prüfungsfrage Stromdichte",
-     "wann": "Fr 20.11. 20:00",
+     "wann": "Sa 21.11. 20:00",
      "video": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte.mp4",
      "cover": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte_cover.jpg"
     }
@@ -1938,7 +1938,7 @@
    "art": "lang",
    "youtube": [
     {
-     "zeit": "13:00",
+     "zeit": "08:00",
      "format": "Langvideo",
      "status": "offen",
      "bild": "video11/video11_thumbnail.png",
@@ -1960,7 +1960,7 @@
    ],
    "instagram": [
     {
-     "zeit": "13:30",
+     "zeit": "08:30",
      "format": "Story „Neues Video online“",
      "status": "offen",
      "bild": "video11/story/video11_story_instagram.jpg",
@@ -1970,7 +1970,7 @@
    ],
    "tiktok": [
     {
-     "zeit": "13:30",
+     "zeit": "08:30",
      "format": "Ankündigung als Story",
      "status": "offen",
      "video": "video11/story/video11_tiktok_ankuendigung.mp4",
@@ -1987,7 +1987,7 @@
      "text": "Ein ganzes Jahr Handy laden braucht weniger Strom als zwei Runden im alten Trockner.\n\nKlingt verrückt, stimmt aber!\n\nDer Trick: Watt ist das Tempo, die Kilowattstunde ist die Strecke.\n\nLeistung, Energie und Stromrechnung, mit Prüfungsaufgabe zum Mitrechnen.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #stromrechnung #elektroniker #azubi #wattkanal"
     }
    ],
-   "datum": "2026-11-17",
+   "datum": "2026-11-18",
    "titel": "Video 11 · Leistung und Stromrechnung",
    "pruefen": "video11"
   },
@@ -2026,7 +2026,7 @@
      "text": "Zwei Runden im alten Wäschetrockner brauchen mehr Strom als ein ganzes Jahr Handy laden.\n\nKlingt verrückt, stimmt aber.\n\nWatt sagt nur, wie schnell ein Gerät Energie umsetzt, erst mit der Zeit wird daraus Verbrauch.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromrechnung #elektroniker #azubi #wattkanal"
     }
    ],
-   "datum": "2026-11-17",
+   "datum": "2026-11-18",
    "titel": "Short 11A · Handy oder Trockner",
    "pruefen": "video11"
   },
@@ -2065,7 +2065,7 @@
      "text": "Prüfungsfrage: Ein Wasserkocher hat 2000 W und läuft 3 Minuten.\n\nWie viele Kilowattstunden braucht er?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
     }
    ],
-   "datum": "2026-11-17",
+   "datum": "2026-11-18",
    "titel": "Short 11B · Prüfungsfrage Wasserkocher",
    "pruefen": "video11"
   },
@@ -2095,7 +2095,7 @@
    ],
    "tiktok": [],
    "notiz": "Nur auf Instagram.",
-   "datum": "2026-11-17",
+   "datum": "2026-11-18",
    "titel": "Slider zu Video 11 · Leistung und Stromrechnung",
    "pruefen": "video11"
   },
@@ -2140,7 +2140,7 @@
      "text": "Neues Video: Stromdichte.\n\nWarum brennt eine Autosicherung genau in der Mitte durch?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)"
     },
     {
-     "zeit": "18:00",
+     "zeit": "12:00",
      "format": "Ganzes Video",
      "status": "offen",
      "bild": "video12/video12_cover_tiktok_1080x1920.jpg",
@@ -2150,7 +2150,7 @@
      "text": "Eine Autosicherung brennt immer genau in der Mitte durch.\n\nDabei fließt überall im Streifen gleich viel Strom!\n\nWarum wird es nur dort heiß?\n\nStromdichte erklärt, mit Prüfungsaufgabe zum Mitrechnen.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #stromdichte #elektroniker #azubi #wattkanal"
     }
    ],
-   "datum": "2026-11-20",
+   "datum": "2026-11-21",
    "titel": "Video 12 · Stromdichte",
    "pruefen": "video12"
   },
@@ -2189,7 +2189,7 @@
      "text": "Diese Autosicherung ist genau in der Mitte durchgebrannt.\n\nDabei floss überall gleich viel Strom.\n\nKein Zufall: Die Stelle ist mit Absicht so gebaut.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromdichte #elektroniker #azubi #wattkanal"
     }
    ],
-   "datum": "2026-11-20",
+   "datum": "2026-11-21",
    "titel": "Short 12A · Sicherung",
    "pruefen": "video12"
   },
@@ -2228,7 +2228,7 @@
      "text": "Prüfungsfrage: Zwei Drähte führen den gleichen Strom.\n\nDer zweite hat nur den halben Durchmesser.\n\nIst seine Stromdichte doppelt, viermal oder achtmal so groß?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
     }
    ],
-   "datum": "2026-11-20",
+   "datum": "2026-11-21",
    "titel": "Short 12B · Prüfungsfrage Stromdichte",
    "pruefen": "video12"
   },
@@ -2258,7 +2258,7 @@
    ],
    "tiktok": [],
    "notiz": "Nur auf Instagram.",
-   "datum": "2026-11-20",
+   "datum": "2026-11-21",
    "titel": "Slider zu Video 12 · Stromdichte",
    "pruefen": "video12"
   },
