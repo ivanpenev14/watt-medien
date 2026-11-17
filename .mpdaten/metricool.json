@@ -1262,6 +1262,105 @@
    "art": "POST",
    "autoPublish": true,
    "text": "Slider Video 10 · Spannungsteiler"
+  },
+  {
+   "id": 432123982,
+   "zeit": "2026-11-18T08:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Video 11 · Leistung und Stromrechnung"
+  },
+  {
+   "id": 432124081,
+   "zeit": "2026-11-18T18:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Video 11 TikTok ganz"
+  },
+  {
+   "id": 432124108,
+   "zeit": "2026-11-18T08:30",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "STORY",
+   "autoPublish": true,
+   "text": "Story Video 11"
+  },
+  {
+   "id": 432124130,
+   "zeit": "2026-11-18T08:30",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": false,
+   "text": "TikTok-Ankündigung Video 11 (Push)"
+  },
+  {
+   "id": 431159149,
+   "zeit": "2026-11-18T19:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "short",
+   "autoPublish": true,
+   "text": "Short 11A · Handy oder Trockner"
+  },
+  {
+   "id": 431159173,
+   "zeit": "2026-11-18T19:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Short 11A · Handy oder Trockner"
+  },
+  {
+   "id": 431159189,
+   "zeit": "2026-11-18T19:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Short 11A · Handy oder Trockner"
+  },
+  {
+   "id": 432124163,
+   "zeit": "2026-11-18T20:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "short",
+   "autoPublish": true,
+   "text": "Short 11B · Prüfungsfrage Wasserkocher"
+  },
+  {
+   "id": 432124200,
+   "zeit": "2026-11-18T20:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Short 11B · Prüfungsfrage Wasserkocher"
+  },
+  {
+   "id": 432124233,
+   "zeit": "2026-11-18T20:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Short 11B · Prüfungsfrage Wasserkocher"
+  },
+  {
+   "id": 431159259,
+   "zeit": "2026-11-18T21:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Slider Video 11 · Leistung"
   }
  ]
 }

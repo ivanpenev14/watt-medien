@@ -3,43 +3,6 @@
  "stand": "Mi 21.10. 01:30",
  "pruefen": [
   {
-   "id": "video11",
-   "titel": "Video 11 · Leistung und Stromrechnung, mit Shorts 11A/11B und Slider",
-   "frist": "bis Di 17.11. abends (Video erscheint Mi 18.11. 08:00, Shorts 19:00 und 20:00, Slider 21:00, schon eingeplant)",
-   "text": "Fassung vom 17.11. 23:35 (6:31): Die Pause nach „Halte kurz an und rechne“ ist 2 s länger (4:28 bis 4:31, Teil 6). Die Formelsätze in Teil 1 sind wieder die unveränderte Originalaufnahme. Zwei Sätze sind als ganzer Satz neu gesprochen, wie bei den früheren Videos: „… kurz W = P · t“ (1:33) und „Zuerst der Strom: I = P / U“ (4:29). Nichts ist mehr gedehnt. Dazu wie gehabt: flüssiger Logo-Zoom, Föhn-Hitze an der Düse, einheitliches Pausezeichen, kürzeres Ende. Short 11B ist neu (17.11. abends): „Halte kurz an und rechne.“ statt „Du hast 3 Sekunden“ und richtige Betonung bei „Wasserkocher?“ (0:05 bis 0:13). Short 11A und der Slider sind schon freigegeben. Ein „Video 11 ok“ im Chat reicht.",
-   "lang": [
-    "video11/teile/video11_teil0.mp4",
-    "video11/teile/video11_teil1.mp4",
-    "video11/teile/video11_teil2.mp4",
-    "video11/teile/video11_teil3.mp4",
-    "video11/teile/video11_teil4.mp4",
-    "video11/teile/video11_teil5.mp4",
-    "video11/teile/video11_teil6.mp4",
-    "video11/teile/video11_teil7.mp4",
-    "video11/teile/video11_teil8.mp4"
-   ],
-   "shorts": [
-    {
-     "name": "Short 11A · Handy oder Trockner",
-     "wann": "Mi 18.11. 19:00",
-     "video": "video11/shorts_neu2/short11-a_handy-trockner.mp4",
-     "cover": "video11/shorts_neu2/short11-a_handy-trockner_cover.jpg"
-    },
-    {
-     "name": "Short 11B · Prüfungsfrage Wasserkocher",
-     "wann": "Mi 18.11. 20:00",
-     "video": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher.mp4",
-     "cover": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher_cover.jpg"
-    }
-   ],
-   "bilder": [
-    [
-     "video11/thumbs/v11_b.png",
-     "Thumbnail-Alternative B (eingeplant ist A)"
-    ]
-   ]
-  },
-  {
    "id": "video12",
    "titel": "Video 12 · Stromdichte, mit Shorts 12A/12B und Slider",
    "frist": "bis Do 19.11. (Video erscheint Sa 21.11. 08:00, Shorts 19:00 und 20:00, Slider 21:00 am selben Tag)",
@@ -1940,7 +1903,6 @@
     {
      "zeit": "08:00",
      "format": "Langvideo",
-     "status": "offen",
      "bild": "video11/video11_thumbnail.png",
      "bild_art": "Thumbnail",
      "video": [
@@ -1955,41 +1917,41 @@
       "video11/teile/video11_teil8.mp4"
      ],
      "notiz": "Titel: 1 Jahr Handy laden oder 2 Runden Trockner: Was braucht mehr Strom? Leistung und Energie | Watt?!",
-     "text": "Ein ganzes Jahr lang lädst du jeden Tag dein Handy.\n\nDer alte Wäschetrockner daneben läuft nur zwei Runden und braucht trotzdem mehr Strom.\n\nWie kann das sein?\n\nIn diesem Video lernst du den Unterschied zwischen Leistung und Energie: P = U · I und W = P · t.\n\nUnd am Ende weißt du, was ein ganzes Jahr Handy laden wirklich kostet, in Franken und in Euro.\n\nPasst zu: Elektroniker/in Lernfeld 1 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Handy gegen Wäschetrockner: Wer braucht mehr Strom?\n0:12 Worum es geht\n0:23 Leistung: P = U · I\n1:23 Energie: W = P · t und die Kilowattstunde\n2:15 Handy gegen Trockner nachgerechnet\n3:25 Die Stromrechnung\n4:12 Prüfungsaufgabe: Föhn\n5:05 Typischer Fehler, Auflösung, Zusammenfassung\n\nMerke: Leistung in Watt ist das Tempo (P = U · I).\n\nEnergie in Kilowattstunden ist die Strecke (W = P · t), und die Rechnung ist Kilowattstunden mal Preis.\n\nDie Zahlen: Handyakku etwa 15 Wh, mit Ladeverlusten rund 20 Wh pro Ladung, also 7,3 kWh im Jahr.\n\nKondenstrockner ohne Wärmepumpe (8 kg, Datenblatt): rund 4,7 kWh pro volle Trommel.\n\nStrompreise 2026: Schweiz im Median 27,7 Rp./kWh (ElCom, typischer Haushalt), Deutschland im Schnitt rund 37 ct/kWh (BDEW).\n\nDein eigener Preis hängt von Wohnort, Anbieter und Grundgebühr ab.\n\nVorheriges Video: Der Spannungsteiler (Tankanzeige)\n\nNächstes Video: Die Stromdichte, ab 21.11.\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\n#elektrotechnik #stromrechnung #azubi"
+     "text": "Ein ganzes Jahr lang lädst du jeden Tag dein Handy.\n\nDer alte Wäschetrockner daneben läuft nur zwei Runden und braucht trotzdem mehr Strom.\n\nWie kann das sein?\n\nIn diesem Video lernst du den Unterschied zwischen Leistung und Energie: P = U · I und W = P · t.\n\nUnd am Ende weißt du, was ein ganzes Jahr Handy laden wirklich kostet, in Franken und in Euro.\n\nPasst zu: Elektroniker/in Lernfeld 1 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Handy gegen Wäschetrockner: Wer braucht mehr Strom?\n0:12 Worum es geht\n0:23 Leistung: P = U · I\n1:23 Energie: W = P · t und die Kilowattstunde\n2:15 Handy gegen Trockner nachgerechnet\n3:25 Die Stromrechnung\n4:12 Prüfungsaufgabe: Föhn\n5:05 Typischer Fehler, Auflösung, Zusammenfassung\n\nMerke: Leistung in Watt ist das Tempo (P = U · I).\n\nEnergie in Kilowattstunden ist die Strecke (W = P · t), und die Rechnung ist Kilowattstunden mal Preis.\n\nDie Zahlen: Handyakku etwa 15 Wh, mit Ladeverlusten rund 20 Wh pro Ladung, also 7,3 kWh im Jahr.\n\nKondenstrockner ohne Wärmepumpe (8 kg, Datenblatt): rund 4,7 kWh pro volle Trommel.\n\nStrompreise 2026: Schweiz im Median 27,7 Rp./kWh (ElCom, typischer Haushalt), Deutschland im Schnitt rund 37 ct/kWh (BDEW).\n\nDein eigener Preis hängt von Wohnort, Anbieter und Grundgebühr ab.\n\nVorheriges Video: Der Spannungsteiler (Tankanzeige)\n\nNächstes Video: Die Stromdichte, ab 21.11.\n\nHinweis: Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\n#elektrotechnik #stromrechnung #azubi",
+     "mc": 432123982
     }
    ],
    "instagram": [
     {
      "zeit": "08:30",
      "format": "Story „Neues Video online“",
-     "status": "offen",
      "bild": "video11/story/video11_story_instagram.jpg",
      "bild_art": "Story",
-     "video": "video11/story/video11_story_instagram.mp4"
+     "video": "video11/story/video11_story_instagram.mp4",
+     "mc": 432124108
     }
    ],
    "tiktok": [
     {
      "zeit": "08:30",
      "format": "Ankündigung als Story",
-     "status": "offen",
      "video": "video11/story/video11_tiktok_ankuendigung.mp4",
-     "text": "Neues Video: Leistung, Energie und Stromrechnung.\n\nWarum braucht der alte Trockner in zwei Runden mehr Strom als dein Handy im ganzen Jahr?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)"
+     "text": "Neues Video: Leistung, Energie und Stromrechnung.\n\nWarum braucht der alte Trockner in zwei Runden mehr Strom als dein Handy im ganzen Jahr?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)",
+     "mc": 432124130
     },
     {
      "zeit": "18:00",
      "format": "Ganzes Video",
-     "status": "offen",
      "bild": "video11/video11_cover_tiktok_1080x1920.jpg",
      "bild_art": "Cover 9:16",
      "video": "video11/video11_tiktok_anfang.mp4",
      "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
-     "text": "Ein ganzes Jahr Handy laden braucht weniger Strom als zwei Runden im alten Trockner.\n\nKlingt verrückt, stimmt aber!\n\nDer Trick: Watt ist das Tempo, die Kilowattstunde ist die Strecke.\n\nLeistung, Energie und Stromrechnung, mit Prüfungsaufgabe zum Mitrechnen.\n\nZweimal pro Woche ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #stromrechnung #elektroniker #azubi #wattkanal"
+     "text": "Ein ganzes Jahr Handy laden braucht weniger Strom als zwei Runden im alten Trockner.\n\nKlingt verrückt, stimmt aber!\n\nDer Trick: Watt ist das Tempo, die Kilowattstunde ist die Strecke.\n\nLeistung, Energie und Stromrechnung, mit Prüfungsaufgabe zum Mitrechnen.\n\nZweimal pro Woche ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #stromrechnung #elektroniker #azubi #wattkanal",
+     "mc": 432124081
     }
    ],
    "datum": "2026-11-18",
-   "titel": "Video 11 · Leistung und Stromrechnung",
-   "pruefen": "video11"
+   "titel": "Video 11 · Leistung und Stromrechnung"
   },
   {
    "art": "short",
@@ -1997,38 +1959,37 @@
     {
      "zeit": "19:00",
      "format": "Short",
-     "status": "offen",
      "bild": "video11/shorts_neu2/short11-a_handy-trockner_cover.jpg",
      "bild_art": "Cover",
      "video": "video11/shorts_neu2/short11-a_handy-trockner.mp4",
-     "text": "2 Runden Trockner, mehr Strom als 1 Jahr Handy? #shorts\n\nZwei Runden im alten Wäschetrockner brauchen mehr Strom als ein ganzes Jahr Handy laden.\n\nDer Trick steckt im Unterschied zwischen Watt und Kilowattstunde.\n\nGanze Erklärung: Video \"Leistung, Energie und Stromrechnung\" auf dem Kanal Watt?!\n\n#elektrotechnik #stromrechnung #shorts"
+     "text": "2 Runden Trockner, mehr Strom als 1 Jahr Handy? #shorts\n\nZwei Runden im alten Wäschetrockner brauchen mehr Strom als ein ganzes Jahr Handy laden.\n\nDer Trick steckt im Unterschied zwischen Watt und Kilowattstunde.\n\nGanze Erklärung: Video \"Leistung, Energie und Stromrechnung\" auf dem Kanal Watt?!\n\n#elektrotechnik #stromrechnung #shorts",
+     "mc": 431159149
     }
    ],
    "instagram": [
     {
      "zeit": "19:00",
      "format": "Reel",
-     "status": "offen",
      "bild": "video11/shorts_neu2/short11-a_handy-trockner_cover.jpg",
      "bild_art": "Cover",
      "video": "video11/shorts_neu2/short11-a_handy-trockner_instagram.mp4",
-     "text": "Zwei Runden im alten Wäschetrockner brauchen mehr Strom als ein ganzes Jahr Handy laden.\n\nKlingt verrückt, stimmt aber.\n\nWatt sagt nur, wie schnell ein Gerät Energie umsetzt, erst mit der Zeit wird daraus Verbrauch.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromrechnung #elektroniker #azubi #wattkanal"
+     "text": "Zwei Runden im alten Wäschetrockner brauchen mehr Strom als ein ganzes Jahr Handy laden.\n\nKlingt verrückt, stimmt aber.\n\nWatt sagt nur, wie schnell ein Gerät Energie umsetzt, erst mit der Zeit wird daraus Verbrauch.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromrechnung #elektroniker #azubi #wattkanal",
+     "mc": 431159173
     }
    ],
    "tiktok": [
     {
      "zeit": "19:00",
      "format": "Video",
-     "status": "offen",
      "bild": "video11/shorts_neu2/short11-a_handy-trockner_cover.jpg",
      "bild_art": "Cover",
      "video": "video11/shorts_neu2/short11-a_handy-trockner_tiktok.mp4",
-     "text": "Zwei Runden im alten Wäschetrockner brauchen mehr Strom als ein ganzes Jahr Handy laden.\n\nKlingt verrückt, stimmt aber.\n\nWatt sagt nur, wie schnell ein Gerät Energie umsetzt, erst mit der Zeit wird daraus Verbrauch.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromrechnung #elektroniker #azubi #wattkanal"
+     "text": "Zwei Runden im alten Wäschetrockner brauchen mehr Strom als ein ganzes Jahr Handy laden.\n\nKlingt verrückt, stimmt aber.\n\nWatt sagt nur, wie schnell ein Gerät Energie umsetzt, erst mit der Zeit wird daraus Verbrauch.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromrechnung #elektroniker #azubi #wattkanal",
+     "mc": 431159189
     }
    ],
    "datum": "2026-11-18",
-   "titel": "Short 11A · Handy oder Trockner",
-   "pruefen": "video11"
+   "titel": "Short 11A · Handy oder Trockner"
   },
   {
    "art": "short",
@@ -2036,38 +1997,37 @@
     {
      "zeit": "20:00",
      "format": "Short",
-     "status": "offen",
      "bild": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher_cover.jpg",
      "bild_art": "Cover",
      "video": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher.mp4",
-     "text": "Prüfungsfrage: Wie viele kWh braucht der Wasserkocher? #shorts\n\nEin Wasserkocher hat 2000 W und läuft 3 Minuten.\n\nWie viele Kilowattstunden braucht er?\n\nDie ganze Erklärung: Video \"Leistung, Energie und Stromrechnung\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts"
+     "text": "Prüfungsfrage: Wie viele kWh braucht der Wasserkocher? #shorts\n\nEin Wasserkocher hat 2000 W und läuft 3 Minuten.\n\nWie viele Kilowattstunden braucht er?\n\nDie ganze Erklärung: Video \"Leistung, Energie und Stromrechnung\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts",
+     "mc": 432124163
     }
    ],
    "instagram": [
     {
      "zeit": "20:00",
      "format": "Reel",
-     "status": "offen",
      "bild": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher_cover.jpg",
      "bild_art": "Cover",
      "video": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher_instagram.mp4",
-     "text": "Prüfungsfrage: Ein Wasserkocher hat 2000 W und läuft 3 Minuten.\n\nWie viele Kilowattstunden braucht er?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+     "text": "Prüfungsfrage: Ein Wasserkocher hat 2000 W und läuft 3 Minuten.\n\nWie viele Kilowattstunden braucht er?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal",
+     "mc": 432124200
     }
    ],
    "tiktok": [
     {
      "zeit": "20:00",
      "format": "Video",
-     "status": "offen",
      "bild": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher_cover.jpg",
      "bild_art": "Cover",
      "video": "video11/shorts_neu2/short11-b_pruefungsfrage-wasserkocher_tiktok.mp4",
-     "text": "Prüfungsfrage: Ein Wasserkocher hat 2000 W und läuft 3 Minuten.\n\nWie viele Kilowattstunden braucht er?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+     "text": "Prüfungsfrage: Ein Wasserkocher hat 2000 W und läuft 3 Minuten.\n\nWie viele Kilowattstunden braucht er?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal",
+     "mc": 432124233
     }
    ],
    "datum": "2026-11-18",
-   "titel": "Short 11B · Prüfungsfrage Wasserkocher",
-   "pruefen": "video11"
+   "titel": "Short 11B · Prüfungsfrage Wasserkocher"
   },
   {
    "art": "short",
@@ -2076,7 +2036,6 @@
     {
      "zeit": "21:00",
      "format": "Karussell 10 Folien",
-     "status": "offen",
      "bild": [
       "video11/karussell/k01.jpg",
       "video11/karussell/k02.jpg",
@@ -2090,14 +2049,14 @@
       "video11/karussell/k10.jpg"
      ],
      "bild_art": "Folien",
-     "text": "Ein Jahr Handy laden oder zwei Runden im alten Trockner: Was braucht mehr Strom?\n\nIn 10 Folien: Leistung als Tacho, Energie als Kilometerzähler, Schnecke gegen Rennwagen und was das auf der Stromrechnung kostet.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromrechnung #elektroniker #azubi #wattkanal"
+     "text": "Ein Jahr Handy laden oder zwei Runden im alten Trockner: Was braucht mehr Strom?\n\nIn 10 Folien: Leistung als Tacho, Energie als Kilometerzähler, Schnecke gegen Rennwagen und was das auf der Stromrechnung kostet.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromrechnung #elektroniker #azubi #wattkanal",
+     "mc": 431159259
     }
    ],
    "tiktok": [],
    "notiz": "Nur auf Instagram.",
    "datum": "2026-11-18",
-   "titel": "Slider zu Video 11 · Leistung und Stromrechnung",
-   "pruefen": "video11"
+   "titel": "Slider zu Video 11 · Leistung und Stromrechnung"
   },
   {
    "art": "lang",
