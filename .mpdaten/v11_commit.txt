@@ -4,3 +4,4 @@ Offen für Prüfseite (Asset-Store ~3 MB frei, erst Löschfreigabe von Ivan):
 13B neu Commit b9caa63bbbac06faad745b5146b713c870a204a3: short13-b_pruefungsfrage-innenwiderstand{.mp4 57a158547cf5ccc431bc9f6c1d0ff95f, _instagram.mp4 e249931a21eb470cdf4d22801e4f1a8f, _tiktok.mp4 9adf0c00728a654ee997154470b75982}, Stelle 0:09-0:16
 14B folgt; 15B-17B erst nach ElevenLabs-Reset 21.11.
 14B neu Commit b2524777d47b6c47f98b67aa58460641dd3c524d: short14-b_pruefungsfrage-vorwiderstand{.mp4 b2b1dcd26257e79fa4c5b59a3af45914, _instagram.mp4 ffca42d81782a57fb801ca5dcf85e033, _tiktok.mp4 abec526b2e53a627c4803f3416060913, _cover.jpg 9db43a3a2fc2cafeb41815246980c0b9}; Termin Fr 27.11. 20:00
+12B alter Blob (überholt, noch im Store): /_blob/a9b8188d82aab045d630b766150d579b
