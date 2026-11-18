@@ -320,17 +320,17 @@
  },
  "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte.mp4": {
   "stand": "fest",
-  "url": "/_blob/4aac8aa00d4e29ce6e1de6fbb79ce93d",
+  "url": "/_blob/9c2fcbd8ebb7b119e0af2c8a5debaa09",
   "fest": true
  },
  "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte_instagram.mp4": {
-  "stand": "remote",
-  "url": "/_blob/c25910c4d88ab43d8d09d5593eeaeec4",
+  "stand": "fest",
+  "url": "/_blob/a527a26938aae547bdbf11d4800d0399",
   "fest": true
  },
  "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte_tiktok.mp4": {
-  "stand": "remote",
-  "url": "/_blob/ad2333581d7f0b268e59c4d1b00520bc",
+  "stand": "fest",
+  "url": "/_blob/abce7ee3046d48da48ad5fb72aa1b133",
   "fest": true
  },
  "video12/shorts_neu2/short12-a_sicherung_cover.jpg": {
@@ -541,8 +541,9 @@
   "url": "/_blob/1486ee24fe2ba4e0d885f5e2e34b89c5"
  },
  "video13/shorts_neu2/short13-b_pruefungsfrage-innenwiderstand.mp4": {
-  "stand": "1793776161-3845411",
-  "url": "/_blob/9037b757670994763539551c32a454ff"
+  "stand": "fest",
+  "url": "/_blob/38d9300159f6da4e9fa6645736ea7db2",
+  "fest": true
  },
  "video10/teile/video10_teil5.mp4": {
   "stand": "fest-9.11.-pause",
@@ -626,17 +627,17 @@
  },
  "video14/shorts_neu2/short14-b_pruefungsfrage-vorwiderstand.mp4": {
   "stand": "fest",
-  "url": "/_blob/30a22313dae471a78679fdaccff967b8",
+  "url": "/_blob/d1be1655fbc0fcc23bf2287eda3cfba6",
   "fest": true
  },
  "video14/shorts_neu2/short14-b_pruefungsfrage-vorwiderstand_instagram.mp4": {
   "stand": "fest",
-  "url": "/_blob/0a8e1d88de4c3679a685d751765559db",
+  "url": "/_blob/4e8711a57a66f38f59de4a229040bdfb",
   "fest": true
  },
  "video14/shorts_neu2/short14-b_pruefungsfrage-vorwiderstand_tiktok.mp4": {
   "stand": "fest",
-  "url": "/_blob/77392f70ea35ebc7d4f3516061fa2386",
+  "url": "/_blob/e23b57d93a373ed0c10689a97fbb1332",
   "fest": true
  },
  "video14/shorts_neu2/short14-b_pruefungsfrage-vorwiderstand_cover.jpg": {
@@ -1337,6 +1338,16 @@
  "video18/karussell/k10.jpg": {
   "stand": "fest",
   "url": "/_blob/0914a167a02493c9ddcd77321c1c0cfc",
+  "fest": true
+ },
+ "video13/shorts_neu2/short13-b_pruefungsfrage-innenwiderstand_instagram.mp4": {
+  "stand": "fest",
+  "url": "/_blob/2419167fb668551a3875e7add3f9ce9b",
+  "fest": true
+ },
+ "video13/shorts_neu2/short13-b_pruefungsfrage-innenwiderstand_tiktok.mp4": {
+  "stand": "fest",
+  "url": "/_blob/78708eba1aa767be43d85299f3254bb3",
   "fest": true
  }
 }
