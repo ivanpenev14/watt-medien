@@ -1267,10 +1267,11 @@
    "id": 432123982,
    "zeit": "2026-11-18T08:00",
    "net": "youtube",
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "art": "video",
    "autoPublish": true,
-   "text": "Video 11 · Leistung und Stromrechnung"
+   "text": "Video 11 · Leistung und Stromrechnung",
+   "url": "https://www.youtube.com/watch?v=iSzCICw1tSQ"
   },
   {
    "id": 432124081,
