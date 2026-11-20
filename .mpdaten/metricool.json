@@ -1362,6 +1362,105 @@
    "art": "POST",
    "autoPublish": true,
    "text": "Slider Video 11 · Leistung"
+  },
+  {
+   "id": 435468770,
+   "zeit": "2026-11-21T08:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Video 12 · Stromdichte"
+  },
+  {
+   "id": 435468907,
+   "zeit": "2026-11-21T12:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Video 12 TikTok ganz"
+  },
+  {
+   "id": 435468932,
+   "zeit": "2026-11-21T08:30",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "STORY",
+   "autoPublish": true,
+   "text": "Story Video 12"
+  },
+  {
+   "id": 435468960,
+   "zeit": "2026-11-21T08:30",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": false,
+   "text": "TikTok-Ankündigung Video 12 (Push)"
+  },
+  {
+   "id": 435468992,
+   "zeit": "2026-11-21T19:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "short",
+   "autoPublish": true,
+   "text": "Short 12A · Sicherung"
+  },
+  {
+   "id": 435469027,
+   "zeit": "2026-11-21T19:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Short 12A · Sicherung"
+  },
+  {
+   "id": 435469060,
+   "zeit": "2026-11-21T19:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Short 12A · Sicherung"
+  },
+  {
+   "id": 435469097,
+   "zeit": "2026-11-21T20:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "short",
+   "autoPublish": true,
+   "text": "Short 12B · Prüfungsfrage Stromdichte"
+  },
+  {
+   "id": 435469128,
+   "zeit": "2026-11-21T20:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Short 12B · Prüfungsfrage Stromdichte"
+  },
+  {
+   "id": 435469161,
+   "zeit": "2026-11-21T20:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Short 12B · Prüfungsfrage Stromdichte"
+  },
+  {
+   "id": 435469194,
+   "zeit": "2026-11-21T21:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Slider Video 12 · Stromdichte"
   }
  ]
 }

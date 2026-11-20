@@ -3,41 +3,6 @@
  "stand": "Mi 21.10. 01:30",
  "pruefen": [
   {
-   "id": "video12",
-   "titel": "Video 12 · Stromdichte, mit Shorts 12A/12B und Slider",
-   "frist": "bis Sa 21.11. 07:30 (Video erscheint Sa 21.11. 08:00, Shorts 19:00 und 20:00, Slider 21:00 am selben Tag)",
-   "text": "Alles zu Video 12: das ganze Video (7:06) mit Abspann, Thumbnail, Titel und Beschreibung mit Kapiteln, Instagram-Story, TikTok-Ankündigung, TikTok-Fassung mit Hochformat-Cover, die Shorts 12A und 12B je Plattform und der Slider mit 10 Folien.  Neu seit 20.11.: Gummiente statt Schnecke (Teil 1 ab 0:25 und Slider-Folie 2), die Formel für den Leitungswiderstand bleibt länger stehen (Teil 2 ab 0:35). Short 12A endet neu mit dem Hinweis auf den Kabelknick (ab 0:20), Short 12B sagt „Halte kurz an und überlege.“ Ein „Video 12 ok“ im Chat reicht.",
-   "lang": [
-    "video12/teile/video12_teil0.mp4",
-    "video12/teile/video12_teil1.mp4",
-    "video12/teile/video12_teil2.mp4",
-    "video12/teile/video12_teil3.mp4",
-    "video12/teile/video12_teil4.mp4",
-    "video12/teile/video12_teil5.mp4",
-    "video12/teile/video12_teil6.mp4"
-   ],
-   "shorts": [
-    {
-     "name": "Short 12A · Sicherung",
-     "wann": "Sa 21.11. 19:00",
-     "video": "video12/shorts_neu2/short12-a_sicherung.mp4",
-     "cover": "video12/shorts_neu2/short12-a_sicherung_cover.jpg"
-    },
-    {
-     "name": "Short 12B · Prüfungsfrage Stromdichte",
-     "wann": "Sa 21.11. 20:00",
-     "video": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte.mp4",
-     "cover": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte_cover.jpg"
-    }
-   ],
-   "bilder": [
-    [
-     "video12/thumbs/v12_b.png",
-     "Thumbnail-Alternative B (eingeplant ist A)"
-    ]
-   ]
-  },
-  {
    "id": "video13",
    "titel": "Video 13 · Innenwiderstand, mit Shorts 13A/13B und Slider",
    "frist": "bis So 22.11. (Video erscheint Di 24.11. 08:00, Shorts 19:00 und 20:00, Slider 21:00 am selben Tag)",
@@ -2064,7 +2029,6 @@
     {
      "zeit": "08:00",
      "format": "Langvideo",
-     "status": "offen",
      "bild": "video12/video12_thumbnail.png",
      "bild_art": "Thumbnail",
      "video": [
@@ -2077,41 +2041,41 @@
       "video12/teile/video12_teil6.mp4"
      ],
      "notiz": "Titel: Warum brennt die Sicherung genau in der Mitte durch? Stromdichte erklärt | Watt?!",
-     "text": "Eine Sicherung aus dem Auto brennt durch, und zwar immer genau in der Mitte.\n\nDabei fließt durch ihren ganzen Metallstreifen überall gleich viel Strom.\n\nWarum wird es dann nur an dieser einen Stelle heiß?\n\nIn diesem Video lernst du die Stromdichte kennen: Strom geteilt durch Querschnittsfläche, J = I / A, meist in A/mm².\n\nUnd am Ende weißt du, warum genau diese Schwachstelle dein Auto vor einem Kabelbrand schützt.\n\nPasst zu: Elektroniker/in Lernfeld 1 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Autosicherung: Warum brennt sie genau in der Mitte durch?\n0:15 Worum es geht\n0:25 Fluss mit Engstelle: Stromdichte J = I / A\n1:29 Warum wird die Engstelle heiß?\n2:27 Dicke Leitungen und geknickte Kabel\n3:46 So ist die Sicherung gebaut\n4:36 Prüfungsaufgabe\n5:37 Typischer Fehler: Durchmesser statt Fläche, Auflösung\n\nMerke: Stromdichte J = I / A. Gleicher Strom auf weniger Fläche heißt höhere Stromdichte.\n\nDie Wärme pro Volumen wächst mit dem Quadrat der Stromdichte. Darum wird eine Engstelle zuerst heiß.\n\nHalber Durchmesser heißt nur ein Viertel der Fläche und damit die vierfache Stromdichte (A = π · d² / 4).\n\nBelastbarkeit aus DIN VDE 0298-4 (Kupfer, PVC, Verlegeart C, 2 belastete Adern, 30 °C): 1,5 mm² → 19,5 A, 16 mm² → 85 A. In der Schweiz gelten die Werte der NIN.\n\nVorheriges Video: Leistung und Stromrechnung\nNächstes Video: Der Innenwiderstand (ab 24.11.)\n\nHinweis: Eine durchgebrannte Sicherung nur durch eine mit gleichem Nennstrom ersetzen, nie überbrücken. Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\n#elektrotechnik #stromdichte #azubi"
+     "text": "Eine Sicherung aus dem Auto brennt durch, und zwar immer genau in der Mitte.\n\nDabei fließt durch ihren ganzen Metallstreifen überall gleich viel Strom.\n\nWarum wird es dann nur an dieser einen Stelle heiß?\n\nIn diesem Video lernst du die Stromdichte kennen: Strom geteilt durch Querschnittsfläche, J = I / A, meist in A/mm².\n\nUnd am Ende weißt du, warum genau diese Schwachstelle dein Auto vor einem Kabelbrand schützt.\n\nPasst zu: Elektroniker/in Lernfeld 1 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Autosicherung: Warum brennt sie genau in der Mitte durch?\n0:15 Worum es geht\n0:25 Fluss mit Engstelle: Stromdichte J = I / A\n1:29 Warum wird die Engstelle heiß?\n2:27 Dicke Leitungen und geknickte Kabel\n3:46 So ist die Sicherung gebaut\n4:36 Prüfungsaufgabe\n5:37 Typischer Fehler: Durchmesser statt Fläche, Auflösung\n\nMerke: Stromdichte J = I / A. Gleicher Strom auf weniger Fläche heißt höhere Stromdichte.\n\nDie Wärme pro Volumen wächst mit dem Quadrat der Stromdichte. Darum wird eine Engstelle zuerst heiß.\n\nHalber Durchmesser heißt nur ein Viertel der Fläche und damit die vierfache Stromdichte (A = π · d² / 4).\n\nBelastbarkeit aus DIN VDE 0298-4 (Kupfer, PVC, Verlegeart C, 2 belastete Adern, 30 °C): 1,5 mm² → 19,5 A, 16 mm² → 85 A. In der Schweiz gelten die Werte der NIN.\n\nVorheriges Video: Leistung und Stromrechnung\nNächstes Video: Der Innenwiderstand (ab 24.11.)\n\nHinweis: Eine durchgebrannte Sicherung nur durch eine mit gleichem Nennstrom ersetzen, nie überbrücken. Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\n#elektrotechnik #stromdichte #azubi",
+     "mc": 435468770
     }
    ],
    "instagram": [
     {
      "zeit": "08:30",
      "format": "Story „Neues Video online“",
-     "status": "offen",
      "bild": "video12/story/video12_story_instagram.jpg",
      "bild_art": "Story",
-     "video": "video12/story/video12_story_instagram.mp4"
+     "video": "video12/story/video12_story_instagram.mp4",
+     "mc": 435468932
     }
    ],
    "tiktok": [
     {
      "zeit": "08:30",
      "format": "Ankündigung als Story",
-     "status": "offen",
      "video": "video12/story/video12_tiktok_ankuendigung.mp4",
-     "text": "Neues Video: Stromdichte.\n\nWarum brennt eine Autosicherung genau in der Mitte durch?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)"
+     "text": "Neues Video: Stromdichte.\n\nWarum brennt eine Autosicherung genau in der Mitte durch?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)",
+     "mc": 435468960
     },
     {
      "zeit": "12:00",
      "format": "Ganzes Video",
-     "status": "offen",
      "bild": "video12/video12_cover_tiktok_1080x1920.jpg",
      "bild_art": "Cover 9:16",
      "video": "video12/video12_tiktok_anfang.mp4",
      "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
-     "text": "Eine Autosicherung brennt immer genau in der Mitte durch.\n\nDabei fließt überall im Streifen gleich viel Strom!\n\nWarum wird es nur dort heiß?\n\nStromdichte erklärt, mit Prüfungsaufgabe zum Mitrechnen.\n\nZweimal pro Woche ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #stromdichte #elektroniker #azubi #wattkanal"
+     "text": "Eine Autosicherung brennt immer genau in der Mitte durch.\n\nDabei fließt überall im Streifen gleich viel Strom!\n\nWarum wird es nur dort heiß?\n\nStromdichte erklärt, mit Prüfungsaufgabe zum Mitrechnen.\n\nZweimal pro Woche ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #stromdichte #elektroniker #azubi #wattkanal",
+     "mc": 435468907
     }
    ],
    "datum": "2026-11-21",
-   "titel": "Video 12 · Stromdichte",
-   "pruefen": "video12"
+   "titel": "Video 12 · Stromdichte"
   },
   {
    "art": "short",
@@ -2119,38 +2083,37 @@
     {
      "zeit": "19:00",
      "format": "Short",
-     "status": "offen",
      "bild": "video12/shorts_neu2/short12-a_sicherung_cover.jpg",
      "bild_art": "Cover",
      "video": "video12/shorts_neu2/short12-a_sicherung.mp4",
-     "text": "Warum brennt die Sicherung genau in der Mitte durch? #shorts\n\nDiese Autosicherung ist genau in der Mitte durchgebrannt.\n\nDabei floss durch den ganzen Streifen überall gleich viel Strom.\n\nGanze Erklärung: Video \"Stromdichte\" auf dem Kanal Watt?!\n\n#elektrotechnik #stromdichte #shorts"
+     "text": "Warum brennt die Sicherung genau in der Mitte durch? #shorts\n\nDiese Autosicherung ist genau in der Mitte durchgebrannt.\n\nDabei floss durch den ganzen Streifen überall gleich viel Strom.\n\nGanze Erklärung: Video \"Stromdichte\" auf dem Kanal Watt?!\n\n#elektrotechnik #stromdichte #shorts",
+     "mc": 435468992
     }
    ],
    "instagram": [
     {
      "zeit": "19:00",
      "format": "Reel",
-     "status": "offen",
      "bild": "video12/shorts_neu2/short12-a_sicherung_cover.jpg",
      "bild_art": "Cover",
      "video": "video12/shorts_neu2/short12-a_sicherung_instagram.mp4",
-     "text": "Diese Autosicherung ist genau in der Mitte durchgebrannt.\n\nDabei floss überall gleich viel Strom.\n\nKein Zufall: Die Stelle ist mit Absicht so gebaut.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromdichte #elektroniker #azubi #wattkanal"
+     "text": "Diese Autosicherung ist genau in der Mitte durchgebrannt.\n\nDabei floss überall gleich viel Strom.\n\nKein Zufall: Die Stelle ist mit Absicht so gebaut.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromdichte #elektroniker #azubi #wattkanal",
+     "mc": 435469027
     }
    ],
    "tiktok": [
     {
      "zeit": "19:00",
      "format": "Video",
-     "status": "offen",
      "bild": "video12/shorts_neu2/short12-a_sicherung_cover.jpg",
      "bild_art": "Cover",
      "video": "video12/shorts_neu2/short12-a_sicherung_tiktok.mp4",
-     "text": "Diese Autosicherung ist genau in der Mitte durchgebrannt.\n\nDabei floss überall gleich viel Strom.\n\nKein Zufall: Die Stelle ist mit Absicht so gebaut.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromdichte #elektroniker #azubi #wattkanal"
+     "text": "Diese Autosicherung ist genau in der Mitte durchgebrannt.\n\nDabei floss überall gleich viel Strom.\n\nKein Zufall: Die Stelle ist mit Absicht so gebaut.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromdichte #elektroniker #azubi #wattkanal",
+     "mc": 435469060
     }
    ],
    "datum": "2026-11-21",
-   "titel": "Short 12A · Sicherung",
-   "pruefen": "video12"
+   "titel": "Short 12A · Sicherung"
   },
   {
    "art": "short",
@@ -2158,38 +2121,37 @@
     {
      "zeit": "20:00",
      "format": "Short",
-     "status": "offen",
      "bild": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte_cover.jpg",
      "bild_art": "Cover",
      "video": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte.mp4",
-     "text": "Prüfungsfrage: Halber Durchmesser, wie viel mehr Stromdichte? #shorts\n\nZwei Drähte führen den gleichen Strom, der zweite hat nur den halben Durchmesser.\n\nIst seine Stromdichte doppelt, viermal oder achtmal so groß?\n\nDie ganze Erklärung: Video \"Stromdichte\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts"
+     "text": "Prüfungsfrage: Halber Durchmesser, wie viel mehr Stromdichte? #shorts\n\nZwei Drähte führen den gleichen Strom, der zweite hat nur den halben Durchmesser.\n\nIst seine Stromdichte doppelt, viermal oder achtmal so groß?\n\nDie ganze Erklärung: Video \"Stromdichte\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts",
+     "mc": 435469097
     }
    ],
    "instagram": [
     {
      "zeit": "20:00",
      "format": "Reel",
-     "status": "offen",
      "bild": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte_cover.jpg",
      "bild_art": "Cover",
      "video": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte_instagram.mp4",
-     "text": "Prüfungsfrage: Zwei Drähte führen den gleichen Strom.\n\nDer zweite hat nur den halben Durchmesser.\n\nIst seine Stromdichte doppelt, viermal oder achtmal so groß?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+     "text": "Prüfungsfrage: Zwei Drähte führen den gleichen Strom.\n\nDer zweite hat nur den halben Durchmesser.\n\nIst seine Stromdichte doppelt, viermal oder achtmal so groß?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal",
+     "mc": 435469128
     }
    ],
    "tiktok": [
     {
      "zeit": "20:00",
      "format": "Video",
-     "status": "offen",
      "bild": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte_cover.jpg",
      "bild_art": "Cover",
      "video": "video12/shorts_neu2/short12-b_pruefungsfrage-stromdichte_tiktok.mp4",
-     "text": "Prüfungsfrage: Zwei Drähte führen den gleichen Strom.\n\nDer zweite hat nur den halben Durchmesser.\n\nIst seine Stromdichte doppelt, viermal oder achtmal so groß?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+     "text": "Prüfungsfrage: Zwei Drähte führen den gleichen Strom.\n\nDer zweite hat nur den halben Durchmesser.\n\nIst seine Stromdichte doppelt, viermal oder achtmal so groß?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal",
+     "mc": 435469161
     }
    ],
    "datum": "2026-11-21",
-   "titel": "Short 12B · Prüfungsfrage Stromdichte",
-   "pruefen": "video12"
+   "titel": "Short 12B · Prüfungsfrage Stromdichte"
   },
   {
    "art": "short",
@@ -2198,7 +2160,6 @@
     {
      "zeit": "21:00",
      "format": "Karussell 10 Folien",
-     "status": "offen",
      "bild": [
       "video12/karussell/k01.jpg",
       "video12/karussell/k02.jpg",
@@ -2212,14 +2173,14 @@
       "video12/karussell/k10.jpg"
      ],
      "bild_art": "Folien",
-     "text": "Überall im Streifen fließt gleich viel Strom: Warum brennt die Autosicherung nur in der Mitte durch?\n\nIn 10 Folien: ein Fluss mit Engstelle, die Stromdichte J = I / A, warum Engstellen heiß werden und wie die Sicherung gebaut ist.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromdichte #elektroniker #azubi #wattkanal"
+     "text": "Überall im Streifen fließt gleich viel Strom: Warum brennt die Autosicherung nur in der Mitte durch?\n\nIn 10 Folien: ein Fluss mit Engstelle, die Stromdichte J = I / A, warum Engstellen heiß werden und wie die Sicherung gebaut ist.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #stromdichte #elektroniker #azubi #wattkanal",
+     "mc": 435469194
     }
    ],
    "tiktok": [],
    "notiz": "Nur auf Instagram.",
    "datum": "2026-11-21",
-   "titel": "Slider zu Video 12 · Stromdichte",
-   "pruefen": "video12"
+   "titel": "Slider zu Video 12 · Stromdichte"
   },
   {
    "art": "lang",
