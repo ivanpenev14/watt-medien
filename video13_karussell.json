@@ -1,0 +1,101 @@
+{
+ "folien": [
+  {
+   "art": "titel",
+   "oben": "Alltagsrätsel",
+   "zahl": "1,3 V",
+   "titel": "Das Messgerät sagt: sieht fast voll aus. Die Fernbedienung sagt: tot. Wer lügt?"
+  },
+  {
+   "art": "roh",
+   "kopf": "Stell dir einen Wasserturm vor",
+   "html": "<svg viewBox=\"0 0 900 730\" width=\"860\" height=\"698\" style=\"align-self:center;font-family:Inter;font-weight:800\">\n<rect x=\"60\" y=\"30\" width=\"300\" height=\"120\" rx=\"24\" fill=\"#14304A\" stroke=\"#F5F7FA\" stroke-width=\"6\"/>\n<rect x=\"72\" y=\"60\" width=\"276\" height=\"80\" rx=\"12\" fill=\"#4FC3E0\" opacity=\".8\"/>\n<line x1=\"90\" y1=\"150\" x2=\"70\" y2=\"540\" stroke=\"#6B7C8F\" stroke-width=\"8\"/><line x1=\"330\" y1=\"150\" x2=\"350\" y2=\"540\" stroke=\"#6B7C8F\" stroke-width=\"8\"/>\n<line x1=\"30\" y1=\"540\" x2=\"870\" y2=\"540\" stroke=\"#6B7C8F\" stroke-width=\"6\"/>\n<rect x=\"195\" y=\"150\" width=\"30\" height=\"270\" fill=\"#8A97A5\"/><rect x=\"195\" y=\"390\" width=\"420\" height=\"30\" fill=\"#8A97A5\"/>\n<rect x=\"300\" y=\"396\" width=\"230\" height=\"18\" fill=\"#0A1826\"/>\n<ellipse cx=\"320\" cy=\"396\" rx=\"22\" ry=\"8\" fill=\"#E8E2D0\"/><ellipse cx=\"365\" cy=\"414\" rx=\"22\" ry=\"8\" fill=\"#E8E2D0\"/><ellipse cx=\"410\" cy=\"396\" rx=\"22\" ry=\"8\" fill=\"#E8E2D0\"/><ellipse cx=\"455\" cy=\"414\" rx=\"22\" ry=\"8\" fill=\"#E8E2D0\"/><ellipse cx=\"500\" cy=\"396\" rx=\"22\" ry=\"8\" fill=\"#E8E2D0\"/>\n<rect x=\"600\" y=\"380\" width=\"50\" height=\"50\" rx=\"10\" fill=\"#8A97A5\"/><rect x=\"615\" y=\"430\" width=\"20\" height=\"40\" fill=\"#8A97A5\"/>\n<circle cx=\"627\" cy=\"495\" r=\"6\" fill=\"#4FC3E0\"/><circle cx=\"627\" cy=\"515\" r=\"5\" fill=\"#4FC3E0\"/><circle cx=\"627\" cy=\"532\" r=\"4\" fill=\"#4FC3E0\"/>\n<text x=\"400\" y=\"110\" font-size=\"34\" fill=\"#22D3EE\">oben: voller Druck</text>\n<text x=\"400\" y=\"350\" font-size=\"34\" fill=\"#E8E2D0\">verkalktes Rohr: eng</text>\n<text x=\"870\" y=\"585\" font-size=\"32\" fill=\"#FF8A3D\" text-anchor=\"end\">unten: nur ein dünner Strahl</text>\n<text x=\"40\" y=\"650\" font-size=\"31\" fill=\"#F5F7FA\" font-weight=\"600\">Hahn zu: unten voller Druck (Leerlauf).</text>\n<text x=\"40\" y=\"700\" font-size=\"31\" fill=\"#F5F7FA\" font-weight=\"600\">Hahn auf: das enge Rohr frisst Druck (Rᵢ).</text>\n</svg>"
+  },
+  {
+   "art": "formel",
+   "kopf": "So ist jede Batterie gebaut",
+   "formel": "Uₖ = U₀ − I · Rᵢ",
+   "legende": [
+    [
+     "U₀",
+     "Leerlaufspannung (ohne Strom)"
+    ],
+    [
+     "Rᵢ",
+     "Innenwiderstand in Ω"
+    ],
+    [
+     "I",
+     "Strom in A"
+    ],
+    [
+     "Uₖ",
+     "Klemmenspannung in V"
+    ]
+   ]
+  },
+  {
+   "art": "text",
+   "kopf": "Messgerät gegen Fernbedienung",
+   "zeilen": [
+    "Erschöpfte Zelle: U₀ noch 1,3 V, aber Rᵢ = 3 Ω.",
+    "Messgerät (10 MΩ): fast kein Strom, zeigt 1,3 V.",
+    "Fernbedienung: 0,1 A · 3 Ω = 0,3 V gehen verloren.",
+    "Es bleibt 1,0 V. Zu wenig, sie bleibt stumm."
+   ]
+  },
+  {
+   "art": "text",
+   "kopf": "Dasselbe im Auto",
+   "zeilen": [
+    "Leerlauf 12,6 V, der Anlasser zieht 150 A.",
+    "Gesund (5 mΩ): 0,75 V weg, bleiben 11,85 V.",
+    "Alt und kalt (20 mΩ): 3 V weg, bleiben 9,6 V.",
+    "Darum werden die Scheinwerfer beim Starten dunkler."
+   ]
+  },
+  {
+   "art": "text",
+   "kopf": "Rᵢ selbst bestimmen",
+   "zeilen": [
+    "1. Leerlaufspannung U₀ messen.",
+    "2. Bekannten Strom I fließen lassen, Uₖ messen.",
+    "3. Rᵢ = (U₀ − Uₖ) / I.",
+    "Eine Batterie prüfst du immer unter Last."
+   ]
+  },
+  {
+   "art": "frage",
+   "kopf": "Jetzt du",
+   "frage": "Ein Akku hat U₀ = 9 V und Rᵢ = 1 Ω. Du schließt einen Verbraucher mit 8 Ω an. Wie groß sind Strom, Klemmenspannung und Kurzschlussstrom?",
+   "werte": [
+    "U₀ = 9 V",
+    "Rᵢ = 1 Ω",
+    "Rₐ = 8 Ω"
+   ]
+  },
+  {
+   "art": "loesung",
+   "kopf": "Lösung",
+   "schritte": [
+    "R<sub>ges</sub> = 1 Ω + 8 Ω = 9 Ω",
+    "I = 9 V / 9 Ω = 1 A",
+    "Uₖ = 9 V − 1 A · 1 Ω = 8 V",
+    "Iₖ = 9 V / 1 Ω = 9 A"
+   ],
+   "ergebnis": "I = 1 A, Uₖ = 8 V, Iₖ = 9 A"
+  },
+  {
+   "art": "fehler",
+   "kopf": "Typischer Fehler",
+   "falsch": "9 V / 8 Ω = 1,125 A (Rᵢ vergessen)",
+   "richtig": "9 V / (1 Ω + 8 Ω) = 1 A"
+  },
+  {
+   "art": "cta",
+   "titel": "Ganzes Video auf YouTube",
+   "unter": "Link im Profil · Watt?!",
+   "bild": "/mnt/project-files/youtube-kanal/video13/video13_thumbnail.png"
+  }
+ ]
+}

@@ -209,7 +209,7 @@ def esb(mitte, s=1.0, u0="U₀", ri="Rᵢ", gehaeuse=True, titel=None, farbe=WEI
         g.add(geh)
         g.gehaeuse = geh
         if titel:
-            g.titel = T(titel, int(26 * s), GRAU, BOLD).move_to(P(-1.9, -1.5))   # 20.11.: im Gehäuse unten links
+            g.titel = T(titel, int(26 * s), GRAU, BOLD).move_to(P(-1.4, -1.5))   # 20.11.: im Gehäuse unten links
             g.add(g.titel)
     g.P, g.s = P, s
     g.quelle, g.ri, g.ri_label, g.u0_label, g.k_o, g.k_u = q, r, ri_t, u0_t, k_o, k_u
@@ -643,7 +643,7 @@ class Szene03(WattScene):
                   run_time=self.rt(0.8, 13), rate_func=smooth)
         puls(iri, 0.05, 1.0)
         self.bis(13)
-        form = ergebnis("Uₖ = U₀ − I · Rᵢ", 40).move_to([3.4, -2.3, 0])
+        form = ergebnis("Uₖ = U₀ − I · Rᵢ", 40).move_to([4.0, -2.3, 0])   # 20.11.: frei vom Chip «dünner Strahl»
         self.play(FadeIn(form, scale=1.15), run_time=self.rt(0.7, 13, 0.5))
         schweben(form, 0.025, 0.45)
         self.bis_wort(13, "minus")
@@ -653,7 +653,7 @@ class Szene03(WattScene):
         fl2.tempo = 2.4
         self.play(ant.animate.set_value(0.5), run_time=self.rt(1.0, 14, wort="übrig"), rate_func=smooth)
         self.bis_wort(14, "weniger")
-        wen = badge("weniger an den Klemmen", ORANGE, NAVY, 24).move_to([3.4, -1.3, 0])
+        wen = badge("weniger an den Klemmen", ORANGE, NAVY, 24).move_to([4.0, -1.3, 0])
         self.play(FadeIn(wen, shift=RIGHT * 0.1), run_time=self.rt(0.4, 15))
         schweben(wen, 0.02, 0.5)
         self.ende()
@@ -674,7 +674,7 @@ def weg_ueber_leitungen(e, l_rot, l_sw, mm, n=14):
 class Szene04(WattScene):
     def construct(self):
         self.kapitel("Messgerät gegen Fernbedienung")
-        e = esb([-2.2, 0.6, 0], 1.25, titel="Alkali-Zelle, neu")   # 20.11.: etwas tiefer, Titel im Gehäuse
+        e = esb([-2.2, 0.5, 0], 1.1, titel="Alkali-Zelle, neu")   # 20.11.: etwas tiefer, Titel im Gehäuse
         P = e.P
         self.bis_wort(0, "Batterie")
         self.play(FadeIn(e, shift=UP * 0.2), run_time=self.rt(0.7, 1))
@@ -781,12 +781,12 @@ class Szene04(WattScene):
         rechnung = MT('0,1 A · 3 Ω = <span foreground="#FF8A3D">0,3 V</span>', 30, WEISS, BOLD).move_to([-2.2, -2.15, 0])
         self.play(FadeIn(rechnung, shift=UP * 0.15), run_time=self.rt(0.7, 8, wort="nullkommadrei"))
         self.bis_wort(8, "nullkommadrei")
-        verl = badge("0,3 V verloren", ORANGE, NAVY, 24).next_to(e.ri, DOWN, 0.1)
+        verl = badge("0,3 V verloren", ORANGE, NAVY, 24).next_to(e.ri, DOWN, 0.1).shift(RIGHT * 0.5)   # 20.11.: Pluszeichen frei
         self.play(FadeIn(verl, scale=1.2), aufleuchten(e.ri, ORANGE, 9), run_time=self.rt(0.6, 9))
         puls(verl, 0.04, 1.0)
         # nur 1 V an den Klemmen
         self.bis_wort(9, "ein Volt")
-        kl = badge("nur 1,0 V", GELB, NAVY, 28).move_to(P(1.7, -1.55))
+        kl = badge("nur 1,0 V", GELB, NAVY, 28).move_to(P(2.7, -1.6))   # 20.11.: rechts neben dem Gehäuse unter der Leitung, frei von Titel und Rahmen
         self.play(FadeIn(kl, scale=1.3), aufleuchten(VGroup(e.k_o, e.k_u), GELB, 6), run_time=self.rt(0.5, 10))
         wackeln(kl, 0.04, 1.0)
 
@@ -830,12 +830,12 @@ class Szene04(WattScene):
 class Szene05(WattScene):
     def construct(self):
         self.kapitel("Auto beim Starten")
-        auto = auto_front([-3.4, -0.9, 0], 1.25)
+        auto = auto_front([-3.4, -1.15, 0], 1.25)   # 20.11.: ganze Gruppe 0,25 tiefer, Chip «Leerlauf» frei vom Kapiteltitel
         ub = ValueTracker(12.6)
-        bat = autobatterie([-5.1, 1.8, 0], 0.5)
+        bat = autobatterie([-5.1, 1.55, 0], 0.5)
         anz = Zaehler(ub.get_value, lambda v: de(v, 1) + " V", 24, CYAN, HEAVY, ort=bat[0].get_center() + DOWN * 0.08)
         anl = VGroup(Circle(0.42, stroke_color=WEISS, stroke_width=4, fill_color=NAVY2, fill_opacity=1),
-                     T("M", 30, WEISS, HEAVY)).move_to([-1.3, 1.8, 0])
+                     T("M", 30, WEISS, HEAVY)).move_to([-1.3, 1.55, 0])
         anl_t = T("Anlasser", 22, GRAU, BOLD).next_to(anl, DOWN, 0.12)
         draht = Line(bat[0].get_right(), anl.get_left(), stroke_color=WEISS, stroke_width=4)
         self.bis_wort(0, "Auto")
@@ -850,7 +850,7 @@ class Szene05(WattScene):
 
         # Schluessel: 150 A
         self.bis_wort(2, "Schlüssel")
-        key = schluessel([0.3, 1.8, 0], 0.55)
+        key = schluessel([0.3, 1.55, 0], 0.55)
         self.play(FadeIn(key, scale=0.7), run_time=0.3)
         self.play(Rotate(key, -PI / 3), run_time=self.rt(0.4, 2, wort="zieht"))
         self.bis_wort(2, "zieht")
@@ -877,7 +877,7 @@ class Szene05(WattScene):
         e1 = MT('12,6 V − 0,75 V ≈ <span foreground="#22D3EE">11,85 V</span>', 30, WEISS, BOLD).move_to([x, 0.8, 0])
         self.play(FadeIn(e1, shift=UP * 0.15), ub.animate.set_value(11.85), run_time=self.rt(0.7, 5, wort="kaum"))
         self.bis_wort(5, "kaum")
-        kaum = badge("merkst du kaum", GRUEN, NAVY, 24).move_to([-3.4, -3.05, 0])
+        kaum = badge("merkst du kaum", GRUEN, NAVY, 24).move_to([-3.4, -3.3, 0])
         self.play(FadeIn(kaum, shift=UP * 0.1), run_time=self.rt(0.4, 6))
         schweben(kaum, 0.02, 0.5)
 
@@ -896,7 +896,7 @@ class Szene05(WattScene):
         self.bis_wort(8, "Scheinwerfer")
         self.play(auto.hell.animate.set_value(0.3), run_time=self.rt(0.5, 8, wort="dunkler"), rate_func=smooth)
         self.bis_wort(8, "dunkler")
-        dk = badge("sichtbar dunkler", ROT, WEISS, 26).move_to([-3.4, -2.75, 0])
+        dk = badge("sichtbar dunkler", ROT, WEISS, 26).move_to([-3.4, -3.0, 0])
         self.play(FadeIn(dk, shift=UP * 0.1), run_time=self.rt(0.4, 9))
         wackeln(dk, 0.04, 0.9)
 
@@ -1050,7 +1050,7 @@ class Szene06(WattScene):
         self.add(fl2)
         self.play(FadeIn(e2), FadeIn(la), an2.animate.set_value(1.0), run_time=self.rt(0.7, 9, wort="genauso"))
         self.bis_wort(9, "genauso")
-        gl = badge("Rₐ = Rᵢ", CYAN, NAVY, 28).next_to(la.r, DOWN, 0.3)
+        gl = badge("Rₐ = Rᵢ", CYAN, NAVY, 28).next_to(la.r, DOWN, 0.8)   # 20.11.: unter der Leitung, nicht auf der Ecke
         self.play(FadeIn(gl, scale=1.2), aufleuchten(VGroup(e2.ri, la.r), CYAN, 8), run_time=self.rt(0.5, 9, wort="teilt"))
         schweben(gl, 0.02, 0.5)
         self.bis_wort(9, "teilt")
@@ -1113,7 +1113,7 @@ class Szene07(WattScene):
         self.kapitel("Prüfungsaufgabe", FadeIn(jetzt, scale=1.5), run_time=self.rt(0.5, 1))
         wackeln(jetzt, 0.05, 1.2)
 
-        e = esb([-3.8, 1.3, 0], 1.0, gehaeuse=False)
+        e = esb([-3.8, 0.9, 0], 1.0, gehaeuse=False)   # 20.11.: tiefer, Rᵢ frei vom Kapiteltitel
         P = e.P
         self.bis_wort(1, "Akku")
         self.play(FadeIn(e, shift=UP * 0.2), run_time=self.rt(0.6, 1, wort="zwölf"))

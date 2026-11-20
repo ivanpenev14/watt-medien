@@ -1,0 +1,78 @@
+{
+ "lang": {
+  "datei": "video13_final_1440p.mp4",
+  "thumbnail": "video13_thumbnail.png",
+  "thumbnail_b": "thumbs/v13_b.png",
+  "datum": "2026-11-24 08:00",
+  "titel": "Batterie zeigt 1,3 V und ist trotzdem leer? Der Innenwiderstand erklärt | Watt?!",
+  "beschreibung": "Die Fernbedienung ist tot, aber das Messgerät zeigt an der Batterie 1,3 V: sieht fast voll aus.\n\nWer lügt hier, das Messgerät oder die Fernbedienung?\n\nDie Antwort steckt in einem Widerstand, der in jeder Batterie versteckt ist: dem Innenwiderstand Rᵢ.\n\nIn diesem Video lernst du das Ersatzschaltbild einer Spannungsquelle kennen und die Formel Uₖ = U₀ − I · Rᵢ.\n\nDu siehst, warum beim Starten die Scheinwerfer dunkler werden, was beim Kurzschluss passiert und wie du den Innenwiderstand mit zwei Messungen selbst bestimmst.\n\nPasst zu: Elektroniker/in Lernfeld 1 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Fernbedienung tot, Batterie scheinbar fast voll?\n0:17 Worum es geht\n0:29 Wasserturm und Ersatzschaltbild: Uₖ = U₀ − I · Rᵢ\n1:35 Messgerät gegen Fernbedienung\n2:52 Auto beim Starten und Rᵢ selbst bestimmen\n4:06 Kurzschluss und Leistungsanpassung\n5:18 Prüfungsaufgabe\n6:14 Typischer Fehler und Auflösung\n\nMerke: Eine leere Batterie zeigt ohne Last oft noch eine ordentliche Leerlaufspannung, aber ihr Innenwiderstand ist hoch. Ob sie leer ist, siehst du erst unter Last.\n\nOhne Strom siehst du U₀, mit Strom bricht die Klemmenspannung um I · Rᵢ ein.\n\nDarum prüfst du eine Batterie immer unter Last.\n\nRᵢ selbst bestimmen: Leerlaufspannung U₀ messen, dann bei bekanntem Strom I die Klemmenspannung Uₖ messen, Rᵢ = (U₀ − Uₖ) / I.\n\nKurzschlussstrom: Iₖ = U₀ / Rᵢ. Bei einer Autobatterie sind das über 2000 A, darum beim Abklemmen immer den Minuspol zuerst.\n\nLeistungsanpassung: Bei Rₐ = Rᵢ gibt die Quelle die größte Leistung ab, der Wirkungsgrad ist dann nur 50 %.\n\nVorheriges Video: Stromdichte\nNächstes Video: Richtig messen (ab 27.11.)\n\nHinweis: Werte im Video sind typische Beispielwerte, echte Batterien weichen ab. Arbeiten an elektrischen Anlagen nur durch Elektrofachkräfte.\n\n#elektrotechnik #innenwiderstand #azubi",
+  "tags": [
+   "Innenwiderstand",
+   "Innenwiderstand Batterie",
+   "Klemmenspannung",
+   "Leerlaufspannung",
+   "Ersatzschaltbild Spannungsquelle",
+   "Spannungsquelle",
+   "Kurzschlussstrom",
+   "Leistungsanpassung",
+   "Batterie prüfen",
+   "Autobatterie Anlasser",
+   "Elektrotechnik",
+   "Elektroniker Ausbildung",
+   "Elektroinstallateur EFZ",
+   "Gesellenprüfung",
+   "QV Elektro",
+   "Berufsschule Elektro",
+   "Watt?!"
+  ],
+  "tiktok_text": "Die Fernbedienung ist tot, aber die Batterie zeigt 1,3 V.\n\nWer lügt: das Messgerät oder die Fernbedienung?\n\nDie Antwort steckt in jeder Batterie: der Innenwiderstand.\n\nMit Auto beim Starten, Kurzschluss und Prüfungsaufgabe zum Mitrechnen.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #innenwiderstand #elektroniker #azubi #wattkanal",
+  "tiktok_titel": "Batterie scheinbar fast voll, trotzdem tot?!",
+  "story": {
+   "text_tiktok_push": "Neues Video: Innenwiderstand.\n\nBatterie zeigt 1,3 V und die Fernbedienung ist trotzdem tot. Wer lügt?\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)",
+   "instagram": "story/video13_story_instagram.mp4",
+   "tiktok_ankuendigung": "story/video13_tiktok_ankuendigung.mp4"
+  }
+ },
+ "shorts": [
+  {
+   "datei": "shorts_neu2/short13-a_fernbedienung.mp4",
+   "datei_instagram": "shorts_neu2/short13-a_fernbedienung_instagram.mp4",
+   "datei_tiktok": "shorts_neu2/short13-a_fernbedienung_tiktok.mp4",
+   "cover": "shorts_neu2/short13-a_fernbedienung_cover.jpg",
+   "datum": "2026-11-24 19:00",
+   "titel": "Batterie scheinbar fast voll, Fernbedienung tot: Wer lügt? #shorts",
+   "beschreibung": "Die Fernbedienung ist tot, aber das Messgerät zeigt an der Batterie 1,3 V.\n\nWer lügt hier?\n\nGanze Erklärung: Video \"Der Innenwiderstand\" auf dem Kanal Watt?!\n\n#elektrotechnik #innenwiderstand #shorts",
+   "tags": [
+    "Innenwiderstand",
+    "Batterie leer",
+    "Fernbedienung",
+    "Elektrotechnik",
+    "shorts"
+   ],
+   "reel_text": "Die Fernbedienung ist tot, aber die Batterie zeigt 1,3 V.\n\nWer lügt: das Messgerät oder die Fernbedienung?\n\nDie Antwort steckt in einem Widerstand, der in jeder Batterie versteckt ist.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #innenwiderstand #elektroniker #azubi #wattkanal"
+  },
+  {
+   "datei": "shorts_neu2/short13-b_pruefungsfrage-innenwiderstand.mp4",
+   "datei_instagram": "shorts_neu2/short13-b_pruefungsfrage-innenwiderstand_instagram.mp4",
+   "datei_tiktok": "shorts_neu2/short13-b_pruefungsfrage-innenwiderstand_tiktok.mp4",
+   "cover": "shorts_neu2/short13-b_pruefungsfrage-innenwiderstand_cover.jpg",
+   "datum": "2026-11-24 20:00",
+   "titel": "Prüfungsfrage: Klemmenspannung bei 12 V, 0,5 Ω und 4 A? #shorts",
+   "beschreibung": "Ein Akku hat 12 V Leerlaufspannung und 0,5 Ω Innenwiderstand, es fließen 4 A.\n\nKlemmenspannung: 10, 11 oder 12 V?\n\nDie ganze Erklärung: Video \"Der Innenwiderstand\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts",
+   "tags": [
+    "Prüfungsfrage",
+    "Innenwiderstand",
+    "Klemmenspannung",
+    "Elektroinstallateur",
+    "shorts"
+   ],
+   "reel_text": "Prüfungsfrage: Ein Akku hat 12 V Leerlaufspannung und 0,5 Ω Innenwiderstand.\n\nEs fließen 4 A.\n\nWie groß ist die Klemmenspannung: 10, 11 oder 12 V?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal"
+  }
+ ],
+ "karussell": {
+  "ordner": "karussell",
+  "datum": "2026-11-24 21:00",
+  "text": "Das Messgerät sagt: sieht fast voll aus. Die Fernbedienung sagt: tot. Wer lügt?\n\nIn 10 Folien: der Wasserturm mit verkalktem Rohr, die Formel Uₖ = U₀ − I · Rᵢ, warum beim Starten die Scheinwerfer dunkler werden und wie du Rᵢ selbst bestimmst.\n\nDazu eine Aufgabe zum Selberrechnen, die Lösung steht auf Folie 8.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #innenwiderstand #elektroniker #azubi #wattkanal"
+ },
+ "tiktok": true
+}
