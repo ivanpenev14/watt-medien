@@ -494,42 +494,42 @@
  },
  "video13/teile/video13_teil0.mp4": {
   "stand": "fest",
-  "url": "/_blob/b759568ec535331e0bd82b138b7e85c9",
+  "url": "/_blob/592ed24b7f5a74a49581ebf7460fcb0d",
   "fest": true
  },
  "video13/teile/video13_teil1.mp4": {
   "stand": "fest",
-  "url": "/_blob/84a3e16b4097d12276dbd0ff1e756977",
+  "url": "/_blob/cc3b79b78998aace44765674439171da",
   "fest": true
  },
  "video13/teile/video13_teil2.mp4": {
   "stand": "fest",
-  "url": "/_blob/c5096290e87f807d74aa69e652cfa1ce",
+  "url": "/_blob/611e4c5f61429e71ae8ff422a9f25c63",
   "fest": true
  },
  "video13/teile/video13_teil3.mp4": {
   "stand": "fest",
-  "url": "/_blob/bb14a9d4056766db350907fdf8c07ac8",
+  "url": "/_blob/addd327ede1ebb3b7c72e849228268dc",
   "fest": true
  },
  "video13/teile/video13_teil4.mp4": {
   "stand": "fest",
-  "url": "/_blob/de221f8ab0b068afbec9f4e1ef5a1d25",
+  "url": "/_blob/900a665b004a3b671f49d7dfb1d473fc",
   "fest": true
  },
  "video13/teile/video13_teil5.mp4": {
   "stand": "fest",
-  "url": "/_blob/7b4022b0ea687e8d19fe18bbf633d83d",
+  "url": "/_blob/ce2354692c48208ee6219d9bc9bdec7a",
   "fest": true
  },
  "video13/teile/video13_teil6.mp4": {
   "stand": "fest",
-  "url": "/_blob/5436b40b70acf0e24a86dd8e5f435bdf",
+  "url": "/_blob/20a5c78fdad31b7da7078aedbab0d1e6",
   "fest": true
  },
  "video13/teile/video13_teil7.mp4": {
   "stand": "fest",
-  "url": "/_blob/183358d120c1073042f60cedbd9d4683",
+  "url": "/_blob/5e45bcec62f75e21a744cafd9864d071",
   "fest": true
  },
  "video13/story/video13_tiktok_ankuendigung.mp4": {
@@ -537,8 +537,9 @@
   "url": "/_blob/c210b6ef7e75fbc1d5c2190e61034b5c"
  },
  "video13/shorts_neu2/short13-a_fernbedienung.mp4": {
-  "stand": "1793775753-2895125",
-  "url": "/_blob/1486ee24fe2ba4e0d885f5e2e34b89c5"
+  "stand": "fest",
+  "url": "/_blob/5ad8e8c4ac3b2b7b7bd67381e10cfb73",
+  "fest": true
  },
  "video13/shorts_neu2/short13-b_pruefungsfrage-innenwiderstand.mp4": {
   "stand": "fest",
@@ -1348,6 +1349,56 @@
  "video13/shorts_neu2/short13-b_pruefungsfrage-innenwiderstand_tiktok.mp4": {
   "stand": "fest",
   "url": "/_blob/78708eba1aa767be43d85299f3254bb3",
+  "fest": true
+ },
+ "video13/karussell/k01.jpg": {
+  "stand": "fest",
+  "url": "/_blob/bcbf32d861d1c941453017de5bcd926a",
+  "fest": true
+ },
+ "video13/karussell/k02.jpg": {
+  "stand": "fest",
+  "url": "/_blob/dd5150a8d5e178d95880198dd934ea19",
+  "fest": true
+ },
+ "video13/karussell/k03.jpg": {
+  "stand": "fest",
+  "url": "/_blob/3b468364832065a4e34c424b3ccda152",
+  "fest": true
+ },
+ "video13/karussell/k04.jpg": {
+  "stand": "fest",
+  "url": "/_blob/f5d3eebc99253004209bf812a5f201bb",
+  "fest": true
+ },
+ "video13/karussell/k05.jpg": {
+  "stand": "fest",
+  "url": "/_blob/6cafc511dcefa5376a22936d7059be40",
+  "fest": true
+ },
+ "video13/karussell/k06.jpg": {
+  "stand": "fest",
+  "url": "/_blob/2aa65c9cc7e832d6e7dac8559b8a64e2",
+  "fest": true
+ },
+ "video13/karussell/k07.jpg": {
+  "stand": "fest",
+  "url": "/_blob/02a6585c6dce8b03bfb7036fc3787677",
+  "fest": true
+ },
+ "video13/karussell/k08.jpg": {
+  "stand": "fest",
+  "url": "/_blob/0f2ffb8b831187894b1fc85397bc67ef",
+  "fest": true
+ },
+ "video13/karussell/k09.jpg": {
+  "stand": "fest",
+  "url": "/_blob/fb7e217dbf299e4894d149af7ca62df5",
+  "fest": true
+ },
+ "video13/karussell/k10.jpg": {
+  "stand": "fest",
+  "url": "/_blob/264f2326d35a0593e5e8195e30c9a69b",
   "fest": true
  }
 }
