@@ -5,3 +5,5 @@ Offen für Prüfseite (Asset-Store ~3 MB frei, erst Löschfreigabe von Ivan):
 14B folgt; 15B-17B erst nach ElevenLabs-Reset 21.11.
 14B neu Commit b2524777d47b6c47f98b67aa58460641dd3c524d: short14-b_pruefungsfrage-vorwiderstand{.mp4 b2b1dcd26257e79fa4c5b59a3af45914, _instagram.mp4 ffca42d81782a57fb801ca5dcf85e033, _tiktok.mp4 abec526b2e53a627c4803f3416060913, _cover.jpg 9db43a3a2fc2cafeb41815246980c0b9}; Termin Fr 27.11. 20:00
 12B alter Blob (überholt, noch im Store): /_blob/a9b8188d82aab045d630b766150d579b
+
+20.11. V12 korrigiert (Gummiente, Formel länger): Upload-Zweig c8d2923, final md5 a9189fd27410c02cbc99b91ec0e6c9c5, tiktok 2e65fa32efbb6dce2ba9383dee3dc452, video12_k02.jpg a985765832f8b8d26bbbc21dcabb3d16 (k02 nur auf Upload-Zweig, Laufwerk hat alte Folie). Prüfteile 7 x 61 s. Mediaplan v155 wurde durch Ersetzen der Blob-IDs im Live-index.html gebaut, weil bau_p.py und .mp beim Container-Neustart verloren gingen (bau_p.py aus Laufwerk mediaplan/bau.py neu patchen).
