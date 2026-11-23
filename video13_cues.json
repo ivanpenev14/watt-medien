@@ -220,7 +220,7 @@
   ]
  },
  "Szene05": {
-  "dauer": 72.435,
+  "dauer": 72.44,
   "saetze": [
    [
     0.2,
@@ -239,8 +239,8 @@
    ],
    [
     13.85,
-    18.66,
-    "Eine gesunde Batterie hat einen Innenwiderstand von nur etwa fünf Milliohm."
+    18.61,
+    "Eine gesunde Batterie hat einen Innenwiderstand von nur etwa fünf Milli Ohm."
    ],
    [
     19.2,
@@ -253,9 +253,9 @@
     "Es bleiben knapp zwölf Volt, das merkst du kaum."
    ],
    [
-    30.03,
-    36.88,
-    "Ist die Batterie alt und obendrein kalt, steigt der Innenwiderstand stark an, zum Beispiel auf zwanzig Milliohm."
+    29.95,
+    36.93,
+    "Ist die Batterie alt und obendrein kalt, steigt der Innenwiderstand stark an, zum Beispiel auf zwanzig Milli Ohm."
    ],
    [
     37.37,
@@ -295,7 +295,7 @@
   ]
  },
  "Szene06": {
-  "dauer": 90.031,
+  "dauer": 90.03,
   "saetze": [
    [
     0.3,
@@ -358,9 +358,9 @@
     "Ein Schraubenschlüssel über beiden Polen glüht sofort auf, deshalb löst du beim Abklemmen immer zuerst den Minuspol."
    ],
    [
-    58.54,
-    61.0,
-    "Und noch etwas, das garantiert drankommt:"
+    59.02,
+    60.7,
+    "Und noch ein wichtiger Sonderfall:"
    ],
    [
     61.81,

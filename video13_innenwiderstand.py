@@ -1065,7 +1065,7 @@ class Szene06(WattScene):
             mm.clear_updaters()
         self.play(FadeOut(alles, shift=UP * 0.3), run_time=self.rt(0.5, 12, 0.6))
         self.aufraeumen(*hud_teile(self))
-        dran = badge("kommt garantiert dran", GELB, NAVY, 30).move_to([0, 3.0, 0])
+        dran = badge("Sonderfall: Leistungsanpassung", GELB, NAVY, 30).move_to([0.9, 3.0, 0])   # 23.11. Ivan: «drankommt» raus
         self.play(FadeIn(dran, scale=1.2), run_time=self.rt(0.5, 13))
         wackeln(dran, 0.03, 0.9)
 
