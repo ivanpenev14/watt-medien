@@ -22,3 +22,5 @@ Offen für Prüfseite (Asset-Store ~3 MB frei, erst Löschfreigabe von Ivan):
 23.11. 23:45 V13 Layoutfix: Upload 4fe82a3 final md5 a3bbccd4727650aed5cd4485bed6de5a (8:09.3), tiktok 9416e3672cf8c01a8f8db86b7aece343; Prüfteile 8x62s Blobs 25484aad..08bb6ef2, Seite v166. Speicher war voll (1 GB): alte V13-Teile 1. und 2. Generation gelöscht; noch löschbar: 8b61072b 6808fec2 f22cfe5f 76aaaefc 0b3081b5 dff951f8 dad91908 d4b8781e. Einplanen V13: Quelle 4fe82a3 + 13B aus b9caa63, Kapitel in texte/video13.json aktuell.
 
 24.11. 00:40 V13: Upload 8918b9a final md5 1d884f0f85ae43a59a02ce072e673df6 (8:03.2), tiktok 3d4ae2988b7499e154b493900dd5346a; Kapitel unverändert; Prüfteile Blobs 0559b84f..0a28d3bf, Seite v168. Löschbar: 25484aad fedb3b96 37e71a81 538566c0 9d04b447 97ce3b1d 2a63043e 08bb6ef2. Einplanen V13: Quelle 8918b9a + 13B aus b9caa63.
+
+24.11. 00:45 V14 Schluss gekürzt: Upload 0a574f4 final md5 18c8ff29a880d9e71b6d56e9dd58a530 (6:48.5), tiktok 7cc2c04f501453d2f40b83f96abd9e38; teil09 neu Blob f04190bb; Shorts 5ee155f gültig. Einplanen V14: 0a574f4 + Shorts 5ee155f.
