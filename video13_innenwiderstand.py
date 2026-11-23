@@ -588,13 +588,13 @@ class Szene03(WattScene):
         schweben(ll, 0.02, 0.5)
         # ideale Quelle gegen echte Quelle (Ivan 23.11.)
         self.bis_wort(8, "Papier")
-        idq = badge("ideal: Spannung bleibt gleich", CYAN, NAVY, 20).move_to([4.7, 1.4, 0])
+        idq = badge("ideal: Spannung bleibt gleich", CYAN, NAVY, 20).move_to([4.4, -2.05, 0])   # 23.11.: unter dem Rahmen, frei von Rand und Symbolen
         self.play(FadeIn(idq, shift=UP * 0.1), run_time=self.rt(0.5, 9, wort="ideale"))
         schweben(idq, 0.02, 0.5)
         self.bis_wort(9, "ideale")
         self.play(aufleuchten(idq, WEISS, 3), run_time=self.rt(0.5, 10))
         self.bis_wort(10, "nach")
-        eq = badge("echt: Spannung sinkt unter Last", ORANGE, NAVY, 20).move_to([4.7, 0.8, 0])
+        eq = badge("echt: Spannung sinkt unter Last", ORANGE, NAVY, 20).move_to([4.4, -2.75, 0])
         self.play(FadeIn(eq, shift=UP * 0.1), run_time=self.rt(0.5, 11))
         schweben(eq, 0.02, 0.5, 0.3)
         self.bis_wort(11, "weniger")
@@ -607,14 +607,14 @@ class Szene03(WattScene):
         self.bis_wort(13, "Davor")
         self.play(Create(e[0]), Create(e[2]), run_time=self.rt(0.5, 13, wort="Rohr"))
         self.bis_wort(13, "Rohr")
-        pf = pfeil([-2.2, -0.95, 0], e.ri.get_bottom() + DOWN * 0.1, KALK, 5, 0.2)
-        self.play(GrowArrow(pf), run_time=self.rt(0.5, 13, wort="Widerstand"))
+        # 23.11.: statt Pfeil quer durchs Bild leuchtet der Chip «Druck geht verloren» auf
+        self.play(aufleuchten(verl, WEISS, 4), run_time=self.rt(0.5, 13, wort="Widerstand"))
         self.bis_wort(13, "Widerstand")
         self.play(GrowFromCenter(e.ri), Create(e[1]), FadeIn(e.k_o), FadeIn(e.k_u), run_time=self.rt(0.5, 14))
         self.bis_wort(14, "Innenwiderstand")
-        iw = badge("Innenwiderstand Rᵢ", GELB, NAVY, 26).move_to([5.3, -1.25, 0])
+        iw = badge("Innenwiderstand Rᵢ", GELB, NAVY, 26).move_to([4.7, -1.25, 0])   # 23.11.: war rechts abgeschnitten
         alle_updater_weg(ll)
-        self.play(FadeIn(e.ri_label, scale=1.3), ReplacementTransform(ll, iw), FadeOut(pf), run_time=self.rt(0.5, 15))
+        self.play(FadeIn(e.ri_label, scale=1.3), ReplacementTransform(ll, iw), run_time=self.rt(0.5, 15))
         puls(e.ri_label, 0.04, 0.8)
         schweben(iw, 0.02, 0.5, 0.4)
         # in jeder echten Quelle
@@ -976,7 +976,7 @@ class Szene06(WattScene):
         self.add(fl)
         self.play(Create(ks), an.animate.set_value(1.0), run_time=self.rt(0.6, 0, wort="ohne"))
         self.bis(1)
-        kz = badge("Plus und Minus direkt verbunden", ROT, WEISS, 24).move_to([-3.2, -0.6, 0])
+        kz = badge("Plus und Minus direkt verbunden", ROT, WEISS, 24).move_to([-3.2, -0.95, 0])   # 23.11.: Abstand zu «nur noch Rᵢ bremst»
         self.play(FadeIn(kz, scale=1.2), run_time=self.rt(0.5, 2))
         wackeln(kz, 0.04, 1.0)
         self.bis_wort(2, "außer")
