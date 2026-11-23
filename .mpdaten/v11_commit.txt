@@ -16,3 +16,5 @@ Offen für Prüfseite (Asset-Store ~3 MB frei, erst Löschfreigabe von Ivan):
 23.11. V13 neu: Upload e407844 final md5 9253aa76796d878a39bcbb0fd4f20c93 (7:33.4), tiktok c2cc530ecd712429bed7823d21a774cd; Kapitel 0:00/0:17/0:29/1:35/2:51/4:03/5:16/6:12; Prüfteile 8x57s Blobs 0d3e2e45.. bis c4b1fcb8.., Seite v160. Alte V13-Teile (592ed24b cc3b79b7 611e4c5f addd327e 900a665b ce235469 20a5c78f 5e45bcec) noch im Speicher, löschbar.
 
 23.11. V14 Shorts neu: Upload 5ee155f (14A 1b981e91/9ae46012/b2e66d16, Cover 8bb10b32; 14B d6222af0/3526a44f/3d9af952, Cover 9db43a3a), Seite v164. Übersicht-Status V11/V12/V13 von Hand korrigiert (v161-163); bau_p.py neu aufbauen.
+
+23.11. spät V13: Upload c82e473 final md5 15f481a775210d8d78e0c3e85d7ee1fd (8:09.3), tiktok 2e5f70c531efe30de4f9f90bc9d06aca; Kapitel 0:00/0:17/0:29/1:53/3:10/4:22/5:52/6:48; Prüfteile 8x62s Blobs 8b61072b..d4b8781e, Seite v165. Layoutfix Szene 3/6 (Chips) bei Hauptthread angefordert, danach Teile 0,1,4 neu.
