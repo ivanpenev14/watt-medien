@@ -12,3 +12,5 @@ Offen für Prüfseite (Asset-Store ~3 MB frei, erst Löschfreigabe von Ivan):
 20.11. V13 korrigiert (Ivans 6 Punkte + 5 Faktencheck-Sätze + Layout): Upload-Zweig 0ba30ec; final 0780fc68b5a71141561ce8693168166e (7:35.6), tiktok f6528e848c158f9255b5c50dd39864b0, 13A yt df2beedb00860ccaad7cba79c5da292a, tt 4202fe7365a36725d6e1d6a659df2f73, ig 7ecd052576c2d22b3b6db02467b40c31, video13_texte.json 85fd975bc43e3136cc0ee4abe26daca7 (Kopie .mpdaten/texte/video13.json), Slider video13_k01..k10.jpg neu. 13B unverändert (b9caa63). Prüfteile 8 x 57 s.
 
 23.11. V14 neu: Upload 92abb90 final md5 4349b8827dbc624168a0817542c2db62 (6:54.4), tiktok a25bdebd553c5e7ea3e637626d65fc1f; Prüfteile 10x42s Blobs 500a4ad3.. bis 72694614.. (alte 1440p-Teile bleiben im Speicher), Seite v159. Shorts 14A/14B neu folgen.
+
+23.11. V13 neu: Upload e407844 final md5 9253aa76796d878a39bcbb0fd4f20c93 (7:33.4), tiktok c2cc530ecd712429bed7823d21a774cd; Kapitel 0:00/0:17/0:29/1:35/2:51/4:03/5:16/6:12; Prüfteile 8x57s Blobs 0d3e2e45.. bis c4b1fcb8.., Seite v160. Alte V13-Teile (592ed24b cc3b79b7 611e4c5f addd327e 900a665b ce235469 20a5c78f 5e45bcec) noch im Speicher, löschbar.
