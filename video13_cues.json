@@ -50,7 +50,7 @@
   ]
  },
  "Szene03": {
-  "dauer": 65.31,
+  "dauer": 83.985,
   "saetze": [
    [
     0.2,
@@ -88,114 +88,139 @@
     "Eine Batterie ist genauso gebaut."
    ],
    [
-    26.39,
-    30.93,
+    26.37,
+    30.5,
     "Innen steckt eine Spannungsquelle mit der Leerlaufspannung Uh Null."
    ],
    [
-    31.7,
-    34.88,
+    30.94,
+    36.26,
+    "Auf dem Papier liefert eine Batterie immer genau diese Spannung, egal was du anschließt."
+   ],
+   [
+    36.73,
+    38.68,
+    "Das wäre die ideale Quelle."
+   ],
+   [
+    39.04,
+    42.58,
+    "In Wirklichkeit gibt jede Batterie nach, sobald sie arbeiten muss."
+   ],
+   [
+    42.94,
+    46.12,
+    "Je mehr Strom du ziehst, desto weniger Spannung kommt an."
+   ],
+   [
+    46.48,
+    49.65,
+    "Schuld ist ein Widerstand, der in der Batterie selbst steckt."
+   ],
+   [
+    50.38,
+    53.56,
     "Davor sitzt, wie das enge Rohr, ein Widerstand:"
    ],
    [
-    35.12,
-    37.68,
+    53.8,
+    56.36,
     "der Innenwiderstand, kurz Er-Ih."
    ],
    [
-    38.04,
-    42.08,
+    56.72,
+    60.76,
     "Er steckt in jeder echten Quelle, auch im Akku und im Netzteil."
    ],
    [
-    42.52,
-    48.66,
+    61.2,
+    67.34,
     "Fließt kein Strom, fällt an ihm keine Spannung ab, und an den Klemmen liegt die volle Leerlaufspannung."
    ],
    [
-    49.22,
-    55.01,
+    67.9,
+    73.69,
     "Fließt Strom, fällt an Er-Ih eine Spannung ab, nämlich Strom mal Innenwiderstand."
    ],
    [
-    55.48,
-    60.36,
+    74.15,
+    79.04,
     "Die Klemmenspannung ist dann die Leerlaufspannung minus Ih mal Er-Ih."
    ],
    [
-    60.91,
-    64.32,
+    79.59,
+    83.0,
     "Je mehr Strom, desto weniger bleibt an den Klemmen übrig."
    ]
   ]
  },
  "Szene04": {
-  "dauer": 77.44,
+  "dauer": 76.289,
   "saetze": [
    [
     0.2,
-    1.65,
+    1.61,
     "Jetzt zurück zur Batterie."
    ],
    [
-    2.02,
-    12.19,
+    1.79,
+    11.04,
     "Eine neue Alkali-Zelle hat eine Leerlaufspannung von etwa einskommafünf Volt und einen Innenwiderstand von nur rund nullkommazwei Ohm."
    ],
    [
-    12.74,
-    25.78,
+    11.59,
+    24.63,
     "Wird sie leer, sinkt die Leerlaufspannung nur langsam, eine erschöpfte Zelle zeigt ohne Last oft noch einskommadrei Volt, aber ihr Innenwiderstand steigt auf mehrere Ohm, sagen wir drei Ohm."
    ],
    [
-    26.29,
-    34.76,
+    25.14,
+    33.61,
     "Dein Messgerät hat einen Eingangswiderstand von zehn Megaohm und zieht deshalb fast keinen Strom, weniger als ein Mikroampär."
    ],
    [
-    35.31,
-    39.65,
+    34.16,
+    38.5,
     "An drei Ohm fällt dabei nichts ab, und du siehst die volle Leerlaufspannung:"
    ],
    [
-    40.15,
-    41.63,
+    39.0,
+    40.48,
     "einskommadrei Volt."
    ],
    [
-    42.07,
-    43.6,
+    40.92,
+    42.45,
     "Die Fernbedienung ist anders."
    ],
    [
-    44.06,
-    50.61,
+    42.91,
+    49.46,
     "Beim Tastendruck schickt sie Stromimpulse durch die Infrarot-Diode, in der Spitze gut hundert Milliampär."
    ],
    [
-    51.13,
-    58.01,
+    49.98,
+    56.86,
     "Nullkommaeins Ampär mal drei Ohm, das sind nullkommadrei Volt, die am Innenwiderstand verloren gehen."
    ],
    [
-    58.52,
-    62.04,
+    57.37,
+    60.88,
     "Von einskommadrei Volt bleibt nur ein Volt übrig."
    ],
    [
-    62.5,
-    70.14,
+    61.35,
+    68.99,
     "Mit zwei Zellen sind das zwei Volt statt zweikommasechs, und das ist für die Elektronik vieler Fernbedienungen zu wenig."
    ],
    [
-    70.8,
-    76.28,
+    69.65,
+    75.13,
     "Darum zeigt das Messgerät einskommadrei Volt, und die Fernbedienung bleibt trotzdem stumm."
    ]
   ]
  },
  "Szene05": {
-  "dauer": 73.49,
+  "dauer": 72.435,
   "saetze": [
    [
     0.2,
@@ -213,128 +238,148 @@
     "Drehst du den Schlüssel, zieht der Anlasser für einen Moment etwa hundertfünfzig Ampär."
    ],
    [
-    13.83,
-    18.96,
-    "Eine gesunde Batterie hat einen Innenwiderstand von nur etwa fünf Mil-li-Ohm."
+    13.85,
+    18.66,
+    "Eine gesunde Batterie hat einen Innenwiderstand von nur etwa fünf Milliohm."
    ],
    [
-    19.49,
-    25.92,
+    19.2,
+    25.77,
     "Hundertfünfzig Ampär mal nullkommanullnullfünf Ohm, das sind nullkommasiebenfünf Volt."
    ],
    [
-    26.49,
-    29.45,
+    26.34,
+    29.3,
     "Es bleiben knapp zwölf Volt, das merkst du kaum."
    ],
    [
-    30.12,
-    37.98,
-    "Ist die Batterie alt und obendrein kalt, steigt der Innenwiderstand stark an, zum Beispiel auf zwanzig Mil-li-Ohm."
+    30.03,
+    36.88,
+    "Ist die Batterie alt und obendrein kalt, steigt der Innenwiderstand stark an, zum Beispiel auf zwanzig Milliohm."
    ],
    [
-    38.42,
-    43.35,
+    37.37,
+    42.3,
     "Hundertfünfzig Ampär mal nullkommanullzwei Ohm, das sind drei Volt."
    ],
    [
-    43.81,
-    50.19,
+    42.76,
+    49.14,
     "Übrig bleiben neunkommasechs Volt, und genau dann werden die Scheinwerfer beim Starten sichtbar dunkler."
    ],
    [
-    50.8,
-    56.36,
+    49.75,
+    55.31,
     "Deshalb prüft die Werkstatt eine Batterie nie nur mit dem Voltmeter, sondern unter Last."
    ],
    [
-    56.75,
-    59.64,
+    55.7,
+    58.59,
     "Und so bestimmst du den Innenwiderstand selbst:"
    ],
    [
-    60.21,
-    61.91,
+    59.16,
+    60.86,
     "Erst misst du die Leerlaufspannung."
    ],
    [
-    62.25,
-    66.78,
+    61.2,
+    65.73,
     "Dann lässt du einen bekannten Strom fließen und misst die Klemmenspannung."
    ],
    [
-    67.25,
-    72.51,
+    66.2,
+    71.46,
     "Die Differenz der beiden Spannungen geteilt durch den Strom, das ist der Innenwiderstand."
    ]
   ]
  },
  "Szene06": {
-  "dauer": 72.81,
+  "dauer": 90.031,
   "saetze": [
    [
-    0.2,
-    4.9,
-    "Der Innenwiderstand begrenzt auch den größten Strom, den eine Quelle liefern kann."
+    0.3,
+    7.09,
+    "Was passiert, wenn du Plus und Minus direkt mit einem Draht verbindest, ganz ohne Lampe oder Gerät dazwischen?"
    ],
    [
-    5.37,
-    9.48,
-    "Schließt du die Klemmen kurz, bleibt nur noch Er-Ih im Stromkreis."
+    7.6,
+    8.73,
+    "Das ist ein Kurzschluss."
    ],
    [
-    10.2,
-    15.2,
+    9.17,
+    13.81,
+    "Jetzt bremst den Strom nichts mehr, außer dem Innenwiderstand der Quelle selbst."
+   ],
+   [
+    14.22,
+    17.96,
+    "Er allein bestimmt, wie groß der Strom höchstens wird."
+   ],
+   [
+    18.39,
+    22.58,
+    "Diesen größten Strom nennt man Kurzschlussstrom, kurz Ih-Ka."
+   ],
+   [
+    23.23,
+    28.23,
     "Der Kurzschlussstrom ist die Leerlaufspannung geteilt durch den Innenwiderstand."
    ],
    [
-    15.66,
-    16.79,
+    28.69,
+    29.82,
     "Bei der neuen Zelle:"
    ],
    [
-    17.09,
-    25.51,
+    30.12,
+    38.54,
     "einskommafünf Volt durch nullkommazwei Ohm, das sind siebeneinhalb Ampär, und die Zelle wird innerhalb einer Minute spürbar heiß."
    ],
    [
-    26.03,
-    27.13,
+    39.06,
+    40.16,
     "Bei der Autobatterie:"
    ],
    [
-    27.4,
-    33.76,
+    40.41,
+    46.32,
     "zwölfkommasechs Volt durch nullkommanullnullfünf Ohm, das sind über zweitausend Ampär."
    ],
    [
-    34.12,
-    40.81,
+    46.82,
+    51.01,
+    "Du siehst, je kleiner der Innenwiderstand, desto größer der Kurzschlussstrom."
+   ],
+   [
+    51.34,
+    58.03,
     "Ein Schraubenschlüssel über beiden Polen glüht sofort auf, deshalb löst du beim Abklemmen immer zuerst den Minuspol."
    ],
    [
-    41.32,
-    43.78,
+    58.54,
+    61.0,
     "Und noch etwas, das garantiert drankommt:"
    ],
    [
-    44.59,
-    51.34,
+    61.81,
+    68.56,
     "Machst du den Lastwiderstand genauso groß wie den Innenwiderstand, teilt sich die Spannung genau halb und halb auf."
    ],
    [
-    51.91,
-    57.41,
+    69.12,
+    74.63,
     "Dann holt die Last die größte Leistung aus der Quelle heraus, das nennt man Leistungsanpassung."
    ],
    [
-    57.87,
-    64.04,
+    75.09,
+    81.26,
     "Die andere Hälfte heizt aber den Innenwiderstand, der Wirkungsgrad liegt nur bei fünfzig Prozent."
    ],
    [
-    64.48,
-    71.54,
+    81.7,
+    88.76,
     "Für Netzteil und Batterie soll der Innenwiderstand darum viel kleiner sein als die Last, damit die Spannung stabil bleibt."
    ]
   ]
