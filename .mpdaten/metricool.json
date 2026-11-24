@@ -1461,6 +1461,105 @@
    "art": "POST",
    "autoPublish": true,
    "text": "Slider Video 12 · Stromdichte"
+  },
+  {
+   "id": 439609813,
+   "zeit": "2026-11-24T08:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Video 13 · Innenwiderstand"
+  },
+  {
+   "id": 439609917,
+   "zeit": "2026-11-24T08:30",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "STORY",
+   "autoPublish": true,
+   "text": "Story Video 13"
+  },
+  {
+   "id": 439609943,
+   "zeit": "2026-11-24T08:30",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": false,
+   "text": "TikTok-Ankündigung Video 13 (Push)"
+  },
+  {
+   "id": 439609886,
+   "zeit": "2026-11-24T18:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "TikTok lang Video 13"
+  },
+  {
+   "id": 439609961,
+   "zeit": "2026-11-24T19:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "short",
+   "autoPublish": true,
+   "text": "Short 13A · Fernbedienung"
+  },
+  {
+   "id": 439609982,
+   "zeit": "2026-11-24T19:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Short 13A · Fernbedienung"
+  },
+  {
+   "id": 439610004,
+   "zeit": "2026-11-24T19:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Short 13A · Fernbedienung"
+  },
+  {
+   "id": 439610033,
+   "zeit": "2026-11-24T20:00",
+   "net": "youtube",
+   "status": "PENDING",
+   "art": "short",
+   "autoPublish": true,
+   "text": "Short 13B · Prüfungsfrage Klemmenspannung"
+  },
+  {
+   "id": 439610060,
+   "zeit": "2026-11-24T20:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "REEL",
+   "autoPublish": true,
+   "text": "Short 13B · Prüfungsfrage Klemmenspannung"
+  },
+  {
+   "id": 439610077,
+   "zeit": "2026-11-24T20:00",
+   "net": "tiktok",
+   "status": "PENDING",
+   "art": "video",
+   "autoPublish": true,
+   "text": "Short 13B · Prüfungsfrage Klemmenspannung"
+  },
+  {
+   "id": 439610097,
+   "zeit": "2026-11-24T21:00",
+   "net": "instagram",
+   "status": "PENDING",
+   "art": "POST",
+   "autoPublish": true,
+   "text": "Slider Video 13 · Innenwiderstand"
   }
  ]
 }

@@ -24,3 +24,5 @@ Offen für Prüfseite (Asset-Store ~3 MB frei, erst Löschfreigabe von Ivan):
 24.11. 00:40 V13: Upload 8918b9a final md5 1d884f0f85ae43a59a02ce072e673df6 (8:03.2), tiktok 3d4ae2988b7499e154b493900dd5346a; Kapitel unverändert; Prüfteile Blobs 0559b84f..0a28d3bf, Seite v168. Löschbar: 25484aad fedb3b96 37e71a81 538566c0 9d04b447 97ce3b1d 2a63043e 08bb6ef2. Einplanen V13: Quelle 8918b9a + 13B aus b9caa63.
 
 24.11. 00:45 V14 Schluss gekürzt: Upload 0a574f4 final md5 18c8ff29a880d9e71b6d56e9dd58a530 (6:48.5), tiktok 7cc2c04f501453d2f40b83f96abd9e38; teil09 neu Blob f04190bb; Shorts 5ee155f gültig. Einplanen V14: 0a574f4 + Shorts 5ee155f.
+
+24.11. 01:02 V13 EINGEPLANT (Freigabe Ivan 24.11. 00:56): Upload 997ae90, IDs YT 439609813, Story 439609917, Push 439609943, TT lang 439609886, 13A 439609961/439609982/439610004, 13B 439610033/439610060/439610077, Slider 439610097; md5 der 23 Metricool-Kopien ok. Seite: V13 von Hand auf eingeplant gesetzt.
