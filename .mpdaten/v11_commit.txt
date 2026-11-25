@@ -26,3 +26,5 @@ Offen für Prüfseite (Asset-Store ~3 MB frei, erst Löschfreigabe von Ivan):
 24.11. 00:45 V14 Schluss gekürzt: Upload 0a574f4 final md5 18c8ff29a880d9e71b6d56e9dd58a530 (6:48.5), tiktok 7cc2c04f501453d2f40b83f96abd9e38; teil09 neu Blob f04190bb; Shorts 5ee155f gültig. Einplanen V14: 0a574f4 + Shorts 5ee155f.
 
 24.11. 01:02 V13 EINGEPLANT (Freigabe Ivan 24.11. 00:56): Upload 997ae90, IDs YT 439609813, Story 439609917, Push 439609943, TT lang 439609886, 13A 439609961/439609982/439610004, 13B 439610033/439610060/439610077, Slider 439610097; md5 der 23 Metricool-Kopien ok. Seite: V13 von Hand auf eingeplant gesetzt.
+
+25.11. 07:50 V15: Upload 3a0b7d1 final md5 ed7472c9ba2c0c5a30297d19c802d883 (7:27.3), tiktok 48eb5434…, 15B neu (630222b2/f595693c/dd6678d4); Prüfteile 11x42s 1080p Blobs 16687822..2076d324, alte 1440p-Teile bleiben (alt_1440p_wiederherstellung). Alte 15B-Blobs 0d104ccd 30a24961 fab39c6a löschbar. 8 alte V13-Teile gelöscht. Offen: Ivans Entscheid (Karte Hauptthread) ob V15–V17 neu gebaut werden (+/− fehlt, Standbilder 3:54); 15B Layoutmängel an Hauptthread gemeldet.

@@ -683,58 +683,69 @@
  },
  "video15/teile/video15_teil00.mp4": {
   "stand": "fest",
-  "url": "/_blob/60ff9371a9bc5fb7839b10f8d9b4d40b",
-  "fest": true
+  "url": "/_blob/1668782262970664708cd556a2fa62a3",
+  "fest": true,
+  "alt_1440p_wiederherstellung": "/_blob/60ff9371a9bc5fb7839b10f8d9b4d40b"
  },
  "video15/teile/video15_teil01.mp4": {
   "stand": "fest",
-  "url": "/_blob/6c971b1e4780e6d96ffdb6fa4e5b0358",
-  "fest": true
+  "url": "/_blob/8757b702ba688e20d66a8c54dca5f6b8",
+  "fest": true,
+  "alt_1440p_wiederherstellung": "/_blob/6c971b1e4780e6d96ffdb6fa4e5b0358"
  },
  "video15/teile/video15_teil02.mp4": {
   "stand": "fest",
-  "url": "/_blob/b2bdd62b163f1fdef4f0a862e4a8948d",
-  "fest": true
+  "url": "/_blob/a3d9b760a9eafa3c4c834ff9a1230468",
+  "fest": true,
+  "alt_1440p_wiederherstellung": "/_blob/b2bdd62b163f1fdef4f0a862e4a8948d"
  },
  "video15/teile/video15_teil03.mp4": {
   "stand": "fest",
-  "url": "/_blob/447422f54ce56964712886aeb9e11fed",
-  "fest": true
+  "url": "/_blob/395edbada99f9878f8bd209d68992c74",
+  "fest": true,
+  "alt_1440p_wiederherstellung": "/_blob/447422f54ce56964712886aeb9e11fed"
  },
  "video15/teile/video15_teil04.mp4": {
   "stand": "fest",
-  "url": "/_blob/51077f2e3c09a22accc6f69502da0d83",
-  "fest": true
+  "url": "/_blob/fa7dc73f2353e1332c70aa34c4eb1a4b",
+  "fest": true,
+  "alt_1440p_wiederherstellung": "/_blob/51077f2e3c09a22accc6f69502da0d83"
  },
  "video15/teile/video15_teil05.mp4": {
   "stand": "fest",
-  "url": "/_blob/2db4addee2d70975aeaf718304201bff",
-  "fest": true
+  "url": "/_blob/d0489707996c47e09c04c15779adb112",
+  "fest": true,
+  "alt_1440p_wiederherstellung": "/_blob/2db4addee2d70975aeaf718304201bff"
  },
  "video15/teile/video15_teil06.mp4": {
   "stand": "fest",
-  "url": "/_blob/9340cb98d044b577f862d798640688e5",
-  "fest": true
+  "url": "/_blob/fb16492deb75cc57bb371bfc3fe10c2a",
+  "fest": true,
+  "alt_1440p_wiederherstellung": "/_blob/9340cb98d044b577f862d798640688e5"
  },
  "video15/teile/video15_teil07.mp4": {
   "stand": "fest",
-  "url": "/_blob/0cf8d351f91f5d5decf7c5189dc52cca",
-  "fest": true
+  "url": "/_blob/e5905c503095074c0acab59fd7c84094",
+  "fest": true,
+  "alt_1440p_wiederherstellung": "/_blob/0cf8d351f91f5d5decf7c5189dc52cca"
  },
  "video15/teile/video15_teil08.mp4": {
   "stand": "fest",
-  "url": "/_blob/016d7ec3e9e20671bf1cbf2b06d2cd88",
-  "fest": true
+  "url": "/_blob/3347576a7539a5b7dfc1872f0237c0f9",
+  "fest": true,
+  "alt_1440p_wiederherstellung": "/_blob/016d7ec3e9e20671bf1cbf2b06d2cd88"
  },
  "video15/teile/video15_teil09.mp4": {
   "stand": "fest",
-  "url": "/_blob/ae6deee2a9cc1e4cda904eca0d70087a",
-  "fest": true
+  "url": "/_blob/1dab7e5dd39c5236ab5d1c26fd261b25",
+  "fest": true,
+  "alt_1440p_wiederherstellung": "/_blob/ae6deee2a9cc1e4cda904eca0d70087a"
  },
  "video15/teile/video15_teil10.mp4": {
   "stand": "fest",
-  "url": "/_blob/47fa83b5b17bdfd5d1d16eeeb3982e4f",
-  "fest": true
+  "url": "/_blob/2076d324b6e0ad494f4ef3bb2d21a437",
+  "fest": true,
+  "alt_1440p_wiederherstellung": "/_blob/47fa83b5b17bdfd5d1d16eeeb3982e4f"
  },
  "video15/shorts_neu2/short15-a_waage.mp4": {
   "stand": "fest",
@@ -758,18 +769,21 @@
  },
  "video15/shorts_neu2/short15-b_pruefungsfrage-bruecke.mp4": {
   "stand": "fest",
-  "url": "/_blob/0d104ccdb6839d2a1c33ee545c84d7e1",
-  "fest": true
+  "url": "/_blob/c8aca3b13d81fbe5670438250ce469b3",
+  "fest": true,
+  "alt_vor_rechne": "/_blob/0d104ccdb6839d2a1c33ee545c84d7e1"
  },
  "video15/shorts_neu2/short15-b_pruefungsfrage-bruecke_instagram.mp4": {
   "stand": "fest",
-  "url": "/_blob/30a2496134a27614c040e3887f415428",
-  "fest": true
+  "url": "/_blob/617b75743e34d61ec0047ffeb33cf439",
+  "fest": true,
+  "alt_vor_rechne": "/_blob/30a2496134a27614c040e3887f415428"
  },
  "video15/shorts_neu2/short15-b_pruefungsfrage-bruecke_tiktok.mp4": {
   "stand": "fest",
-  "url": "/_blob/fab39c6a83c8bcdab1fc3f024fe63ee0",
-  "fest": true
+  "url": "/_blob/daac9474c9cbbdc8962b14f689cd56c7",
+  "fest": true,
+  "alt_vor_rechne": "/_blob/fab39c6a83c8bcdab1fc3f024fe63ee0"
  },
  "video15/shorts_neu2/short15-b_pruefungsfrage-bruecke_cover.jpg": {
   "stand": "fest",
