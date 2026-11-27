@@ -34,3 +34,5 @@ Offen für Prüfseite (Asset-Store ~3 MB frei, erst Löschfreigabe von Ivan):
 27.11. 13:43 V14 verschoben (Megaohm + Zangen-Satz, Ivan 13:14/13:27): YT 443694437→444327772 16:00 ENTWURF (Kapitel 4:20/5:09), TT lang 443694512→444327908 18:00 ENTWURF, Story 443694522→444327930 16:30, Push 443694551→444327948 16:30. Neue Medien vom Hauptthread bis 15:15 erwartet, Kontrolle 15:25.
 
 27.11. 14:24 V14 FIX eingesetzt: Upload 4bc2ca6, YT 444375828 16:00, TT lang 444375942 18:00, 14B 444375991/444376032/444376058, Story 444327930 + Push 444327948 16:30; md5 9/9 ok; Prüfteile 10x42 s neu; alte V14-Teile f04190bb/4c86900a und alte 15B-Blobs gelöscht.
+27.11. 14:43 V14 Ivan-Befund Szene 3 Ende (1:14-1:23 unfertig + Badge-Überlappung, V am Rand): YT/Story/Push/TT lang als Entwurf gesperrt, neue IDs YT 444398168, Story 444398186, Push 444398206, TT lang 444398228; Karte 18:00/Sa/so lassen offen; Hauptthread informiert
+27.11. 15:20 V14 17f6bc9 (Final 6:47.8 ee2a2969, TikTok 4c140dc5) in YT 444431780 (18:00, Entwurf) + TT lang 444432244 (18:30, Entwurf), md5 Metricool ok, Kapitel 1:27/2:18/3:37/4:24/5:13, Prüfteile neu v174; Story 444398186 / Push 444398206 Entwurf 16:30

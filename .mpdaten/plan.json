@@ -2364,7 +2364,7 @@
      ],
      "notiz": "Titel: Messgerät an der Steckdose und es knallt? Spannung, Strom und Widerstand richtig messen | Watt?!",
      "text": "Du willst nur wissen, ob die Steckdose Spannung hat. Messgerät dran, und es knallt.\n\nDabei war die Steckdose völlig in Ordnung. Was ist da passiert?\n\nIn diesem Video lernst du, wie du Spannung, Strom und Widerstand richtig misst, und was dabei im Messgerät passiert.\n\nDu siehst, warum das Voltmeter hochohmig und das Amperemeter niederohmig ist, wie der Messbereich mit Vorwiderstand und Shunt erweitert wird, und warum eine einzige Messleitung in der falschen Buchse zum Kurzschluss führt.\n\nPasst zu: Elektroniker/in Lernfeld 1 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Messgerät an der Steckdose, es knallt\n0:14 Worum es geht\n0:31 Spannung messen: parallel, 10 MΩ\n1:23 Strom messen: in Reihe, Shunt\n2:14 Das Messgerät verändert die Schaltung, Messbereich\n3:33 Widerstand messen, Durchgang, Stromzange\n4:25 Prüfungsaufgabe: Vorwiderstand\n5:14 Typischer Fehler, Auflösung, Sicherheitsregeln\n\nMerke: Spannung misst du parallel, das Voltmeter ist hochohmig (rund 10 MΩ).\n\nStrom misst du in Reihe, das Amperemeter ist niederohmig (Shunt mit Hundertstel Ohm).\n\nWiderstand misst du nur spannungsfrei und ausgebaut.\n\nMessbereich erweitern: Vorwiderstand in Reihe (Voltmeter), Parallelwiderstand (Amperemeter). Rechenbeispiel: Messwerk 100 µA, Rᵢ = 1 kΩ, Bereich 10 V: Rᵥ = 9,9 V / 100 µA = 99 kΩ.\n\nVor jeder Messung: Drehschalter, Buchsen und Messleitungen prüfen. Spannung immer in der Buchse für Volt, Strom im Netz nur mit der Stromzange, für Steckdose und Verteiler ein Messgerät der Kategorie CAT III.\n\nVorheriges Video: Innenwiderstand\nNächstes Video: Brückenschaltung (ab 1.12.)\n\nHinweis: Werte im Video sind typische Beispielwerte. Messen an Netzspannung nur durch Elektrofachkräfte.\n\n#elektrotechnik #multimeter #azubi",
-     "mc": 444375828
+     "mc": 444431780
     }
    ],
    "instagram": [
@@ -2374,7 +2374,7 @@
      "bild": "video14/story/video14_story_instagram.jpg",
      "bild_art": "Story",
      "video": "video14/story/video14_story_instagram.mp4",
-     "mc": 444327930
+     "mc": 444398186
     }
    ],
    "tiktok": [
@@ -2383,7 +2383,7 @@
      "format": "Ankündigung als Story",
      "video": "video14/story/video14_tiktok_ankuendigung.mp4",
      "text": "Neues Video: Richtig messen.\n\nMessgerät an der Steckdose, und es knallt. Dabei war die Steckdose in Ordnung.\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)",
-     "mc": 444327948
+     "mc": 444398206
     },
     {
      "zeit": "18:00",
@@ -2393,7 +2393,7 @@
      "video": "video14/video14_tiktok_anfang.mp4",
      "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
      "text": "Du willst nur die Steckdose messen, und es knallt.\n\nDabei war die Steckdose völlig in Ordnung. Was ist passiert?\n\nDer Fehler steckt in einer einzigen Buchse am Messgerät.\n\nMit Spannung, Strom, Widerstand und Prüfungsaufgabe zum Mitrechnen.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #multimeter #elektroniker #azubi #wattkanal",
-     "mc": 444375942
+     "mc": 444432244
     }
    ],
    "datum": "2026-11-27",
