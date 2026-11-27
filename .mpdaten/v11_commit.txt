@@ -32,3 +32,5 @@ Offen für Prüfseite (Asset-Store ~3 MB frei, erst Löschfreigabe von Ivan):
 26.11. 23:03 V14 EINGEPLANT (Ivan: auf Nachmittag verschieben; Karte «Ja, Video 14 ok, 15:00» 22:59): Upload 289e0de, YT 443694437 15:00, Story 443694522 + Push 443694551 15:30, TT lang 443694512 18:00, 14A 443694579/443694591/443694606, 14B 443694625/443694636/443694667, Slider 443694698; md5 23/23 ok. Texte: Absätze je Satz (Formatsperre) in TikTok-Text, 14A YT/Reel, 14B YT, Slider.
 
 27.11. 13:43 V14 verschoben (Megaohm + Zangen-Satz, Ivan 13:14/13:27): YT 443694437→444327772 16:00 ENTWURF (Kapitel 4:20/5:09), TT lang 443694512→444327908 18:00 ENTWURF, Story 443694522→444327930 16:30, Push 443694551→444327948 16:30. Neue Medien vom Hauptthread bis 15:15 erwartet, Kontrolle 15:25.
+
+27.11. 14:24 V14 FIX eingesetzt: Upload 4bc2ca6, YT 444375828 16:00, TT lang 444375942 18:00, 14B 444375991/444376032/444376058, Story 444327930 + Push 444327948 16:30; md5 9/9 ok; Prüfteile 10x42 s neu; alte V14-Teile f04190bb/4c86900a und alte 15B-Blobs gelöscht.

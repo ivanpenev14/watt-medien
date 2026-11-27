@@ -45,7 +45,7 @@
   {
    "id": "video14",
    "titel": "Video 14 · Messgerät an der Steckdose und es knallt? Spannung, Strom und Widerstand richtig messen | Watt?!, mit Shorts 14A/14B und Slider",
-   "frist": "freigegeben 26.11. 22:59, eingeplant für Fr 27.11. (Video 15:00, Shorts 19:00 und 20:00, Slider 21:00)",
+   "frist": "freigegeben 26.11., eingeplant: Video Fr 27.11. 16:00, Shorts 19:00 und 20:00, Slider 21:00",
    "text": "Alles zu Video 14: das ganze Video (6:48) mit Abspann, Thumbnail, Titel und Beschreibung mit Kapiteln, Instagram-Story, TikTok-Ankündigung, TikTok-Fassung mit Hochformat-Cover, die Shorts 14A und 14B je Plattform und der Slider mit 10 Folien. <b>Hauptvideo neu (23.11.):</b> Leitungen an der Steckdose sauber in L und N, Plus und Minus an allen Gleichspannungsquellen und Messgeräten, Satz bei 2:30 korrigiert (6,7 statt 10 Volt), „Megaohm“ und „Amperemeter“ neu gesprochen. Shorts 14A und 14B sind ebenfalls neu (Leitungen richtig geführt, Plus und Minus an den Klemmen). Ein „Video 14 ok“ im Chat reicht.",
    "lang": [
     "video14/teile/video14_teil00.mp4",
@@ -2346,7 +2346,7 @@
    "art": "lang",
    "youtube": [
     {
-     "zeit": "15:00",
+     "zeit": "16:00",
      "format": "Langvideo",
      "bild": "video14/video14_thumbnail.png",
      "bild_art": "Thumbnail",
@@ -2364,26 +2364,26 @@
      ],
      "notiz": "Titel: Messgerät an der Steckdose und es knallt? Spannung, Strom und Widerstand richtig messen | Watt?!",
      "text": "Du willst nur wissen, ob die Steckdose Spannung hat. Messgerät dran, und es knallt.\n\nDabei war die Steckdose völlig in Ordnung. Was ist da passiert?\n\nIn diesem Video lernst du, wie du Spannung, Strom und Widerstand richtig misst, und was dabei im Messgerät passiert.\n\nDu siehst, warum das Voltmeter hochohmig und das Amperemeter niederohmig ist, wie der Messbereich mit Vorwiderstand und Shunt erweitert wird, und warum eine einzige Messleitung in der falschen Buchse zum Kurzschluss führt.\n\nPasst zu: Elektroniker/in Lernfeld 1 (DE) · Elektroinstallateur/in EFZ (CH) · Elektrotechnik (AT) · Grundlagen der Elektrotechnik (Studium)\n\nKapitel\n0:00 Messgerät an der Steckdose, es knallt\n0:14 Worum es geht\n0:31 Spannung messen: parallel, 10 MΩ\n1:23 Strom messen: in Reihe, Shunt\n2:14 Das Messgerät verändert die Schaltung, Messbereich\n3:33 Widerstand messen, Durchgang, Stromzange\n4:25 Prüfungsaufgabe: Vorwiderstand\n5:14 Typischer Fehler, Auflösung, Sicherheitsregeln\n\nMerke: Spannung misst du parallel, das Voltmeter ist hochohmig (rund 10 MΩ).\n\nStrom misst du in Reihe, das Amperemeter ist niederohmig (Shunt mit Hundertstel Ohm).\n\nWiderstand misst du nur spannungsfrei und ausgebaut.\n\nMessbereich erweitern: Vorwiderstand in Reihe (Voltmeter), Parallelwiderstand (Amperemeter). Rechenbeispiel: Messwerk 100 µA, Rᵢ = 1 kΩ, Bereich 10 V: Rᵥ = 9,9 V / 100 µA = 99 kΩ.\n\nVor jeder Messung: Drehschalter, Buchsen und Messleitungen prüfen. Spannung immer in der Buchse für Volt, Strom im Netz nur mit der Stromzange, für Steckdose und Verteiler ein Messgerät der Kategorie CAT III.\n\nVorheriges Video: Innenwiderstand\nNächstes Video: Brückenschaltung (ab 1.12.)\n\nHinweis: Werte im Video sind typische Beispielwerte. Messen an Netzspannung nur durch Elektrofachkräfte.\n\n#elektrotechnik #multimeter #azubi",
-     "mc": 443694437
+     "mc": 444375828
     }
    ],
    "instagram": [
     {
-     "zeit": "15:30",
+     "zeit": "16:30",
      "format": "Story „Neues Video online“",
      "bild": "video14/story/video14_story_instagram.jpg",
      "bild_art": "Story",
      "video": "video14/story/video14_story_instagram.mp4",
-     "mc": 443694522
+     "mc": 444327930
     }
    ],
    "tiktok": [
     {
-     "zeit": "15:30",
+     "zeit": "16:30",
      "format": "Ankündigung als Story",
      "video": "video14/story/video14_tiktok_ankuendigung.mp4",
      "text": "Neues Video: Richtig messen.\n\nMessgerät an der Steckdose, und es knallt. Dabei war die Steckdose in Ordnung.\n\nGanzes Video auf YouTube: Watt?! (Link im Profil)",
-     "mc": 443694551
+     "mc": 444327948
     },
     {
      "zeit": "18:00",
@@ -2393,7 +2393,7 @@
      "video": "video14/video14_tiktok_anfang.mp4",
      "notiz": "Hier die ersten 6 Sekunden der TikTok-Fassung: das Hochformat-Cover als erstes Bild, danach genau das Video oben.",
      "text": "Du willst nur die Steckdose messen, und es knallt.\n\nDabei war die Steckdose völlig in Ordnung. Was ist passiert?\n\nDer Fehler steckt in einer einzigen Buchse am Messgerät.\n\nMit Spannung, Strom, Widerstand und Prüfungsaufgabe zum Mitrechnen.\n\nJeden Dienstag und Freitag ein neues Video auf YouTube: Watt?! (Link im Profil)\n\n#elektrotechnik #multimeter #elektroniker #azubi #wattkanal",
-     "mc": 443694512
+     "mc": 444375942
     }
    ],
    "datum": "2026-11-27",
@@ -2447,7 +2447,7 @@
      "bild_art": "Cover",
      "video": "video14/shorts_neu2/short14-b_pruefungsfrage-vorwiderstand.mp4",
      "text": "Prüfungsfrage: Vorwiderstand für 10 V bei 100 µA und 1 kΩ? #shorts\n\nEin Messwerk hat 100 µA Vollausschlag und 1 kΩ Innenwiderstand. Du willst bis 10 V messen.\n\nVorwiderstand: 9,9 kΩ, 99 kΩ oder 999 kΩ?\n\nDie ganze Erklärung: Video \"Richtig messen\" auf dem Kanal Watt?!\n\n#elektrotechnik #prüfungsfrage #shorts",
-     "mc": 443694625
+     "mc": 444375991
     }
    ],
    "instagram": [
@@ -2458,7 +2458,7 @@
      "bild_art": "Cover",
      "video": "video14/shorts_neu2/short14-b_pruefungsfrage-vorwiderstand_instagram.mp4",
      "text": "Prüfungsfrage: Ein Messwerk hat 100 µA Vollausschlag und 1 kΩ Innenwiderstand.\n\nDu willst damit bis 10 V messen.\n\nWie groß ist der Vorwiderstand: 9,9 kΩ, 99 kΩ oder 999 kΩ?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal",
-     "mc": 443694636
+     "mc": 444376032
     }
    ],
    "tiktok": [
@@ -2469,7 +2469,7 @@
      "bild_art": "Cover",
      "video": "video14/shorts_neu2/short14-b_pruefungsfrage-vorwiderstand_tiktok.mp4",
      "text": "Prüfungsfrage: Ein Messwerk hat 100 µA Vollausschlag und 1 kΩ Innenwiderstand.\n\nDu willst damit bis 10 V messen.\n\nWie groß ist der Vorwiderstand: 9,9 kΩ, 99 kΩ oder 999 kΩ?\n\nSchreib deine Lösung in die Kommentare.\n\nGanzes Video: Link im Profil.\n\n#elektrotechnik #prüfungsfrage #elektroinstallateur #azubi #wattkanal",
-     "mc": 443694667
+     "mc": 444376058
     }
    ],
    "datum": "2026-11-27",
