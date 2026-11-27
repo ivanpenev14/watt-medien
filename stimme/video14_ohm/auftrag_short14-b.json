@@ -1,0 +1,38 @@
+{
+ "alt": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/kanal/video14/stimme_d/short14-b.wav",
+ "align": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/kanal/video14/stimme_d/short14-b.align.json",
+ "ziel": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/v14/ohm/b/short14-b_neu",
+ "modus": "neutral",
+ "gruppen": [
+  {
+   "von": 8,
+   "bis": 8,
+   "text": "Den Rest von neun Komma neun Volt übernimmt der Vorwiderstand, und neun Komma neun Volt geteilt durch hundert Mikroampär ergeben neunundneunzig Kilo Ohm.",
+   "take": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/v14/ohm/b/b8_t7"
+  },
+  {
+   "von": 7,
+   "bis": 7,
+   "text": "Am Messwerk fallen hundert Mikroampär mal ein Kilo Ohm ab, das sind null Komma eins Volt.",
+   "take": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/v14/ohm/b/b7_t2"
+  },
+  {
+   "von": 6,
+   "bis": 6,
+   "text": "Neunundneunzig Kilo Ohm.",
+   "take": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/v14/ohm/b/b6_t6"
+  },
+  {
+   "von": 4,
+   "bis": 4,
+   "text": "neun Komma neun Kilo Ohm, neunundneunzig Kilo Ohm oder neunhundertneunundneunzig Kilo Ohm?",
+   "take": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/v14/ohm/b/b4_t3"
+  },
+  {
+   "von": 1,
+   "bis": 1,
+   "text": "Ein Messwerk hat hundert Mikroampär Vollausschlag und ein Kilo Ohm Innenwiderstand.",
+   "take": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/v14/ohm/b/b1_t2"
+  }
+ ]
+}

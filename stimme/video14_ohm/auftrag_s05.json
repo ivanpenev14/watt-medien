@@ -1,0 +1,20 @@
+{
+ "alt": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/kanal/video14/stimme/s05.wav",
+ "align": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/kanal/video14/stimme/s05.align.json",
+ "ziel": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/v14/ohm/s05_neu",
+ "modus": "neutral",
+ "gruppen": [
+  {
+   "von": 3,
+   "bis": 3,
+   "text": "Misst du über einem Widerstand von zehn Mega Ohm, halbiert sich dort der Widerstand, und statt zehn Volt misst du nur noch sechs Komma sieben Volt.",
+   "take": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/v14/ohm/s05c_t1"
+  },
+  {
+   "von": 2,
+   "bis": 2,
+   "text": "Das Voltmeter mit zehn Mega Ohm liegt parallel zum Messobjekt.",
+   "take": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/v14/ohm/s05a_t1"
+  }
+ ]
+}

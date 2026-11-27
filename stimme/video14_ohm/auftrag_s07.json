@@ -1,0 +1,32 @@
+{
+ "alt": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/kanal/video14/stimme/s07.wav",
+ "align": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/kanal/video14/stimme/s07.align.json",
+ "ziel": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/v14/ohm/s07_neu",
+ "modus": "neutral",
+ "gruppen": [
+  {
+   "von": 9,
+   "bis": 9,
+   "text": "Das ganze Voltmeter hat dann hundert Kilo Ohm, und bei zehn Volt fließen genau die hundert Mikroampär für den Vollausschlag.",
+   "take": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/v14/ohm/s07_9_t2"
+  },
+  {
+   "von": 8,
+   "bis": 8,
+   "text": "Diese neun Komma neun Volt geteilt durch hundert Mikroampär ergeben neunundneunzig Kilo Ohm.",
+   "take": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/v14/ohm/s07_8_t2"
+  },
+  {
+   "von": 6,
+   "bis": 6,
+   "text": "hundert Mikroampär mal ein Kilo Ohm, das sind null Komma eins Volt.",
+   "take": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/v14/ohm/s07_6_t2"
+  },
+  {
+   "von": 1,
+   "bis": 1,
+   "text": "Ein Messwerk zeigt bei hundert Mikroampär Vollausschlag und hat einen Innenwiderstand von ein Kilo Ohm.",
+   "take": "/tmp/claude-0/-home-user-watt-medien/afb97dcc-89c7-5106-910d-2d2893b62b8d/scratchpad/v14/ohm/s07_1_t1"
+  }
+ ]
+}
