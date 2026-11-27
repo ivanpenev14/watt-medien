@@ -1,0 +1,527 @@
+{
+ "Szene01": {
+  "dauer": 14.27,
+  "saetze": [
+   [
+    0.2,
+    2.65,
+    "Du willst nur wissen, ob die Steckdose Spannung hat."
+   ],
+   [
+    2.96,
+    4.65,
+    "Messgerät dran, und es knallt."
+   ],
+   [
+    5.11,
+    8.76,
+    "Ein Blitz, die Sicherung fliegt, und das Messgerät ist hin."
+   ],
+   [
+    9.16,
+    11.61,
+    "Dabei war die Steckdose völlig in Ordnung."
+   ],
+   [
+    12.09,
+    13.12,
+    "Was ist da passiert?"
+   ]
+  ]
+ },
+ "Szene02": {
+  "dauer": 17.24,
+  "saetze": [
+   [
+    0.2,
+    1.24,
+    "Willkommen bei Watt?!"
+   ],
+   [
+    2.23,
+    3.49,
+    "Heute geht es ums Messen:"
+   ],
+   [
+    3.81,
+    8.05,
+    "Spannung, Strom und Widerstand, und was dabei im Messgerät passiert."
+   ],
+   [
+    8.49,
+    16.11,
+    "Und am Ende weißt du, warum eine einzige Messleitung in der falschen Buchse zum Knall führt, und wie du das sicher vermeidest."
+   ]
+  ]
+ },
+ "Szene03": {
+  "dauer": 55.93,
+  "saetze": [
+   [
+    0.2,
+    2.06,
+    "Stell dir eine Wasserleitung vor."
+   ],
+   [
+    2.56,
+    4.39,
+    "Den Druck misst ein Manometer."
+   ],
+   [
+    4.71,
+    8.94,
+    "Es hängt seitlich an der Leitung, und es nimmt dabei fast kein Wasser weg."
+   ],
+   [
+    9.44,
+    10.73,
+    "Genau so misst du Spannung."
+   ],
+   [
+    11.25,
+    17.36,
+    "Spannung ist der Unterschied zwischen zwei Punkten, also hältst du das Voltmeter an diese zwei Punkte:"
+   ],
+   [
+    17.8,
+    22.12,
+    "parallel zum Verbraucher, zum Beispiel an die beiden Anschlüsse einer Lampe."
+   ],
+   [
+    22.84,
+    25.31,
+    "Der Stromkreis bleibt dabei, wie er ist."
+   ],
+   [
+    25.76,
+    34.29,
+    "Damit das Voltmeter die Schaltung nicht stört, hat es innen einen sehr großen Widerstand, bei einem Digitalmultimeter rund zehn Mega Ohm."
+   ],
+   [
+    34.76,
+    42.0,
+    "An zweihundertdreißig Volt fließen durch das Messgerät dann nur dreiundzwanzig Mikroampär, das merkt die Schaltung nicht."
+   ],
+   [
+    42.31,
+    44.63,
+    "Und ein großer Widerstand bedeutet auch:"
+   ],
+   [
+    44.93,
+    48.92,
+    "Das Voltmeter kannst du gefahrlos an eine Spannungsquelle halten."
+   ],
+   [
+    49.32,
+    51.12,
+    "Genau dafür ist es gebaut:"
+   ],
+   [
+    51.56,
+    54.43,
+    "Es misst, ohne den Stromkreis zu stören."
+   ]
+  ]
+ },
+ "Szene04": {
+  "dauer": 50.55,
+  "saetze": [
+   [
+    0.2,
+    1.71,
+    "Beim Strom ist es umgekehrt."
+   ],
+   [
+    1.93,
+    7.24,
+    "Strom fließt durch die Leitung, und wer ihn messen will, muss ihn durch das Messgerät schicken."
+   ],
+   [
+    7.75,
+    9.92,
+    "In der Wasserleitung ist das die Wasseruhr:"
+   ],
+   [
+    10.22,
+    13.2,
+    "Sie steckt im Rohr, und alles Wasser läuft hindurch."
+   ],
+   [
+    13.55,
+    19.67,
+    "Also trennst du den Stromkreis auf und hängst das Ampärmeter in die Lücke, in Reihe mit dem Verbraucher."
+   ],
+   [
+    20.11,
+    24.27,
+    "Damit es den Strom nicht bremst, hat es innen einen sehr kleinen Widerstand."
+   ],
+   [
+    24.78,
+    33.12,
+    "Im Multimeter ist das ein Shunt, ein Messwiderstand mit wenigen Hundertstel Ohm, und das Gerät misst nur die winzige Spannung, die daran abfällt."
+   ],
+   [
+    33.87,
+    36.36,
+    "Jetzt schau noch einmal auf das Bild vom Anfang."
+   ],
+   [
+    36.85,
+    39.97,
+    "Im Strombereich ist das Messgerät fast ein Kurzschluss."
+   ],
+   [
+    40.38,
+    44.06,
+    "Was passiert, wenn du es wie ein Voltmeter direkt an die Steckdose hältst?"
+   ],
+   [
+    44.59,
+    45.33,
+    "Du ahnst es."
+   ],
+   [
+    45.92,
+    49.42,
+    "Die Auflösung kommt am Ende, erst brauchen wir noch zwei Dinge."
+   ]
+  ]
+ },
+ "Szene05": {
+  "dauer": 79.09,
+  "saetze": [
+   [
+    0.2,
+    0.77,
+    "Erstens:"
+   ],
+   [
+    1.13,
+    5.74,
+    "Jedes Messgerät verändert die Schaltung ein bisschen, weil es selbst einen Widerstand hat."
+   ],
+   [
+    6.08,
+    10.14,
+    "Das Voltmeter mit zehn Megaohm liegt parallel zum Messobjekt."
+   ],
+   [
+    10.52,
+    19.53,
+    "Misst du über einem Widerstand von zehn Megaohm, halbiert sich dort der Widerstand, und statt zehn Volt misst du nur noch sechskommasieben Volt."
+   ],
+   [
+    20.22,
+    25.92,
+    "Bei kleinen Widerständen, wie bei fast jeder Lampe oder jedem Motor, spielt das keine Rolle."
+   ],
+   [
+    26.39,
+    29.58,
+    "Das Ampärmeter mit seinem Shunt liegt in Reihe."
+   ],
+   [
+    29.96,
+    36.34,
+    "An ihm fällt eine kleine Spannung ab, oft bis zu einigen Zehntelvolt, und die fehlt dann dem Verbraucher."
+   ],
+   [
+    36.92,
+    40.03,
+    "Bei kleinen Spannungen in der Elektronik merkt man das."
+   ],
+   [
+    40.7,
+    41.26,
+    "Zweitens:"
+   ],
+   [
+    41.68,
+    42.51,
+    "der Messbereich."
+   ],
+   [
+    43.08,
+    47.69,
+    "Ein Messwerk kann nur einen bestimmten Strom oder eine bestimmte Spannung."
+   ],
+   [
+    48.31,
+    51.02,
+    "Willst du mehr messen, erweiterst du den Bereich."
+   ],
+   [
+    51.49,
+    56.9,
+    "Beim Voltmeter kommt ein Vorwiderstand in Reihe, der den Rest der Spannung übernimmt."
+   ],
+   [
+    57.17,
+    64.7,
+    "Beim Ampärmeter kommt ein Parallelwiderstand dazu, eben der Shunt, der den größten Teil des Stroms am Messwerk vorbeileitet."
+   ],
+   [
+    65.09,
+    68.14,
+    "Genau das macht der Drehschalter am Multimeter:"
+   ],
+   [
+    68.56,
+    70.38,
+    "Er schaltet solche Widerstände um."
+   ],
+   [
+    70.79,
+    72.74,
+    "Und noch eine Regel aus der Praxis:"
+   ],
+   [
+    73.21,
+    78.09,
+    "Kennst du den Wert nicht, beginnst du mit dem größten Messbereich und gehst dann herunter."
+   ]
+  ]
+ },
+ "Szene06": {
+  "dauer": 51.7,
+  "saetze": [
+   [
+    0.2,
+    1.26,
+    "Bleibt der Widerstand."
+   ],
+   [
+    1.52,
+    5.62,
+    "Den kann das Messgerät nicht einfach ablesen, es muss ihn ausmessen."
+   ],
+   [
+    5.95,
+    12.23,
+    "Dafür schickt es einen eigenen kleinen Strom durch das Bauteil, misst die Spannung und rechnet Uh durch Ih."
+   ],
+   [
+    12.73,
+    13.48,
+    "Darum gilt:"
+   ],
+   [
+    13.78,
+    16.19,
+    "Widerstand nur spannungsfrei messen."
+   ],
+   [
+    16.77,
+    22.38,
+    "Hängt das Bauteil noch an einer Spannung, verfälscht das den Wert, und es kann das Messgerät beschädigen."
+   ],
+   [
+    22.64,
+    26.96,
+    "Und das Bauteil muss raus aus der Schaltung, sonst misst du die Nachbarn mit."
+   ],
+   [
+    27.38,
+    31.62,
+    "Dasselbe gilt für den Durchgangsprüfer, der piept, wenn der Widerstand klein ist."
+   ],
+   [
+    31.94,
+    35.16,
+    "Und für Strom im Netz gibt es einen sichereren Weg:"
+   ],
+   [
+    35.52,
+    36.44,
+    "die Stromzange."
+   ],
+   [
+    36.95,
+    41.32,
+    "Sie legt sich um einen einzelnen Leiter und misst das Magnetfeld des Stroms."
+   ],
+   [
+    41.82,
+    46.11,
+    "Du musst nichts auftrennen, und nichts vom Messgerät liegt im Stromkreis."
+   ],
+   [
+    46.65,
+    50.41,
+    "Deshalb misst der Elektriker im Verteiler fast immer mit der Zange."
+   ]
+  ]
+ },
+ "Szene07": {
+  "dauer": 49.28,
+  "saetze": [
+   [
+    0.2,
+    0.8,
+    "Jetzt du."
+   ],
+   [
+    1.21,
+    7.58,
+    "Ein Messwerk zeigt bei hundert Mikroampär Vollausschlag und hat einen Innenwiderstand von ein Kiloohm."
+   ],
+   [
+    8.0,
+    11.0,
+    "Du willst damit ein Voltmeter bis zehn Volt bauen."
+   ],
+   [
+    11.51,
+    13.59,
+    "Wie groß muss der Vorwiderstand sein?"
+   ],
+   [
+    13.96,
+    15.32,
+    "Halte kurz an und rechne."
+   ],
+   [
+    17.15,
+    18.86,
+    "Erst die Spannung am Messwerk selbst:"
+   ],
+   [
+    19.14,
+    23.97,
+    "hundert Mikroampär mal ein Kiloohm, das sind nullkommaeins Volt."
+   ],
+   [
+    24.49,
+    32.34,
+    "Der Vorwiderstand muss den Rest übernehmen, also zehn Volt minus nullkommaeins Volt, und das sind neunkommaneun Volt."
+   ],
+   [
+    32.76,
+    39.33,
+    "Diese neunkommaneun Volt geteilt durch hundert Mikroampär ergeben neunundneunzig Kiloohm."
+   ],
+   [
+    39.77,
+    48.17,
+    "Das ganze Voltmeter hat dann hundert Kiloohm, und bei zehn Volt fließen genau die hundert Mikroampär für den Vollausschlag."
+   ]
+  ]
+ },
+ "Szene08": {
+  "dauer": 93.49,
+  "saetze": [
+   [
+    0.2,
+    1.35,
+    "Der typische Fehler:"
+   ],
+   [
+    1.74,
+    3.34,
+    "Strom messen wie Spannung."
+   ],
+   [
+    3.95,
+    9.57,
+    "Wer das Ampärmeter parallel an den Verbraucher hält, legt mit ihm einen Kurzschluss über die Quelle."
+   ],
+   [
+    9.99,
+    12.69,
+    "Und genau das war der Knall vom Anfang."
+   ],
+   [
+    13.27,
+    18.54,
+    "Die rote Messleitung steckte in der Buchse für zehn Ampär, nicht in der Buchse für Volt."
+   ],
+   [
+    19.09,
+    22.64,
+    "Hinter dieser Buchse sitzt der Shunt mit Hundertstel Ohm."
+   ],
+   [
+    23.16,
+    29.02,
+    "Zweihundertdreißig Volt an Hundertstel Ohm, das wären rechnerisch über zwanzigtausend Ampär."
+   ],
+   [
+    29.63,
+    39.55,
+    "Begrenzt wird er nur von der Leitung bis zum Verteiler, und bis die Sicherung im Gerät oder der Leitungsschutzschalter auslöst, brennt im Messgerät ein Lichtbogen."
+   ],
+   [
+    40.02,
+    41.54,
+    "Darum vor jeder Messung:"
+   ],
+   [
+    41.85,
+    45.54,
+    "Drehschalter prüfen, Buchsen prüfen, Messleitungen prüfen."
+   ],
+   [
+    45.86,
+    47.74,
+    "Spannung immer in der Buchse für Volt."
+   ],
+   [
+    48.14,
+    49.79,
+    "Strom im Netz nur mit der Zange."
+   ],
+   [
+    50.23,
+    59.89,
+    "Und für die Steckdose und erst recht für den Verteiler nimmst du ein Messgerät der Kategorie CAT drei, mit einer Sicherung, die so einen Fehler aushält."
+   ],
+   [
+    60.36,
+    64.72,
+    "Messen an Netzspannung bleibt Sache von Fachkräften, die wissen, was sie tun."
+   ],
+   [
+    65.16,
+    66.05,
+    "Zusammengefasst:"
+   ],
+   [
+    66.39,
+    70.78,
+    "Spannung misst du parallel, das Voltmeter ist hochohmig."
+   ],
+   [
+    71.27,
+    75.22,
+    "Strom misst du in Reihe, das Ampärmeter ist niederohmig."
+   ],
+   [
+    75.6,
+    78.81,
+    "Widerstand misst du nur spannungsfrei und ausgebaut."
+   ],
+   [
+    79.4,
+    82.1,
+    "Im nächsten Video geht es um die Brückenschaltung:"
+   ],
+   [
+    82.57,
+    88.18,
+    "Warum deine Personenwaage mit Strom wiegt, und wie vier Widerstände ein Gramm erkennen."
+   ],
+   [
+    88.69,
+    91.37,
+    "Abonnier den Kanal, dann verpasst du es nicht."
+   ],
+   [
+    91.73,
+    92.61,
+    "Bis dann bei Watt?!"
+   ]
+  ]
+ }
+}

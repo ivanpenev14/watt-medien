@@ -486,7 +486,7 @@ class Szene03(WattScene):
 
         # Stromkreis rechts: Quelle, Lampe, Voltmeter parallel
         self.bis(3)
-        sk = stromkreis([3.6, 0.3, 0], 4.2, 2.6, 0.95)
+        sk = stromkreis([2.7, 0.3, 0], 4.2, 2.6, 0.95)
         P = sk.P
         self.play(FadeIn(sk, shift=UP * 0.2), run_time=self.rt(0.6, 4))
         fl2 = Fluss(sk.weg, n=28, tempo=1.0, farbe=GELB, radius=0.055, geschlossen=True).set_z_index(3)
@@ -506,12 +506,12 @@ class Szene03(WattScene):
         vpol = polung(P(3.85, 0.55), P(3.85, -0.55), CYAN, 22)
         self.play(FadeIn(vm, scale=0.6), Create(vl), FadeIn(vpol), run_time=self.rt(0.6, 5))
         self.bis_wort(5, "parallel")
-        par = badge("parallel zum Verbraucher", CYAN, NAVY, 26).move_to([3.6, -1.75, 0])
+        par = badge("parallel zum Verbraucher", CYAN, NAVY, 26).move_to([3.4, -2.3, 0])
         self.play(FadeIn(par, shift=UP * 0.1), aufleuchten(sk.lampe.kreis, CYAN, 8), run_time=self.rt(0.5, 6))
         schweben(par, 0.02, 0.5)
         self.bis(6)
         self.play(aufleuchten(sk.draht, GELB, 6), run_time=self.rt(0.7, 7))
-        bleibt = badge("Stromkreis bleibt, wie er ist", GELB, NAVY, 22).move_to([3.6, 2.35, 0])
+        bleibt = badge("Stromkreis bleibt, wie er ist", GELB, NAVY, 22).move_to([2.7, 2.35, 0])
         self.play(FadeIn(bleibt, shift=DOWN * 0.1), run_time=self.rt(0.4, 7))
         schweben(bleibt, 0.02, 0.5, 0.4)
 
@@ -519,7 +519,7 @@ class Szene03(WattScene):
         self.bis_wort(7, "innen")
         alle_updater_weg(wen, seit)
         self.play(FadeOut(wen), FadeOut(seit), run_time=0.3)
-        ri = badge("Rᵢ ≈ 10 MΩ", CYAN, NAVY, 30).next_to(vm, RIGHT, 0.25)
+        ri = badge("Rᵢ ≈ 10 MΩ", CYAN, NAVY, 28).move_to([5.6, -1.5, 0])
         self.play(FadeIn(ri, scale=1.3), aufleuchten(vm.kreis, WEISS, 8), run_time=self.rt(0.6, 8))
         puls(ri, 0.04, 0.9)
         # 230 V -> 23 µA
@@ -534,8 +534,8 @@ class Szene03(WattScene):
         self.bis(9)
         alle_updater_weg(rech, merkt)
         self.play(FadeOut(rech), FadeOut(merkt), run_time=self.rt(0.4, 10))
-        sd = steckdose([-4.6, -2.1, 0], 1.2)
-        vm2 = messgeraet_symbol([-2.2, -2.1, 0], "V", CYAN, 0.42)
+        sd = steckdose([-5.2, -2.1, 0], 1.2)
+        vm2 = messgeraet_symbol([-2.9, -2.1, 0], "V", CYAN, 0.42)
         ll = VGroup(leitung2(vm2.get_center() + LEFT * 0.42 + UP * 0.1, sd.loch_n.get_center(), ROT, LEFT * 0.5, RIGHT * 0.6),
                     leitung2(vm2.get_center() + LEFT * 0.42 + DOWN * 0.1, sd.loch_l.get_center(), GRAU, LEFT * 0.4 + DOWN * 0.6, DOWN * 0.9))
         self.bis(10)
